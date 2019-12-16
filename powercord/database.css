@@ -14,6 +14,11 @@
 		filter: blur(var(--NSFWbg)) !important;
 }
 
+/*ChristmasDioxide#2007*/
+
+.avatar-3EQepX[aria-label*="ChristmasDioxide"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/430388043594334210/567774100433534986/oc__winter_feelings___my_new_wallpaper___4k_by_total_chuck-dbv5j3k.jpg");
+}
 
 /*LimonadeSenpai#8143*/
 
