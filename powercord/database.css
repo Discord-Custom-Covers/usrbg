@@ -473,6 +473,11 @@
 
 /*A user#9868*/
 
-.avatar-3EQepX[aria-label*="user"] {
+.avatar-3EQepX[aria-label*="A user"] {
     --user-background: url("https://cdn.discordapp.com/attachments/534880602034274314/551912240845029386/wallpaper.png");
+}
+
+/*techied#0110*/
+.avatar-3EQepX[aria-label*="techied"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/655856894233280522/656196492255559692/uzkxfTzVzhiWGjA-800x450-noPad.png");
 }
