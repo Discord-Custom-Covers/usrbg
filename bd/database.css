@@ -658,3 +658,9 @@
 [user_by_bdfdb*="170769257762652171"] {
     --user-background: url("https://i.imgur.com/BNiDYGE.png");
 }
+
+/*Winter ⟨ Morgana Chase ⟩#0001*/
+
+[user_by_bdfdb*="161692463365357568"]::before{
+	-user-background: url("https://cdn.discordapp.com/attachments/655856894233280522/655967799876911144/profile.png");
+}
