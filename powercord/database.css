@@ -1,9 +1,5 @@
-/** Korbs' Database **/
-.header-QKLPzZ .avatar-3EQepX::before {
-  background-image:var(--user-background) !important;
-  background-size:cover !important;
-  background-position:center !important;
-}
+/*Korbs' Database*/
+
 /*Korbs#0001*/
 
 .avatar-3EQepX[aria-label*="Korbs"] {
@@ -314,12 +310,6 @@
     --user-background: url("https://cdn.discordapp.com/attachments/655856894233280522/655967799876911144/profile.png");
 }
 
-
-
-
-
-/** Tropical's Database **/
-
 /*Spectra*/
 
 .avatar-3EQepX[aria-label*="Spectra"] {
@@ -480,10 +470,6 @@
 .avatar-3EQepX[aria-label*="Vin"] {
 	--user-background: url("https://i.imgur.com/FwZzeV3.png");
 }
-
-
-
-/** A user's Database **/
 
 /*A user#9868*/
 
