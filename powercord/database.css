@@ -11,7 +11,6 @@
 
 .avatar-3EQepX[aria-label^="Winter ⟨ Morgana Chase ⟩,"] {
     --user-background: url("https://cdn.discordapp.com/attachments/655856894233280522/655967799876911144/profile.png");
-		filter: blur(var(--NSFWbg)) !important;
 }
 
 /*ChristmasDioxide#2007*/
