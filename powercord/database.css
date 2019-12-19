@@ -678,3 +678,8 @@
 .avatar-3EQepX[aria-label^="Niko,"] {
     --user-background: url("https://tenor.com/view/dynomatic-graphics-gif-10066650");
 }
+
+/*Kaabii(星のカービィ)#8574*/
+.avatar-3EQepX[aria-label^="Kaabii(星のカービィ),"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/575783416155471872/657283704393302047/thumb-1920-925465.png");
+}
