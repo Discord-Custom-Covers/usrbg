@@ -11,7 +11,7 @@
 	opacity: .5;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: var(--user-popout-position) center;
 	background-image: var(--user-background);
 	-webkit-mask-image: linear-gradient(#000, transparent);
 }

@@ -374,14 +374,8 @@
 /*Korbs#5777*/
 
 [user_by_bdfdb*="273169968202252289"] {
+	--user-popout-position:right;
     --user-background: url("https://images.alphacoders.com/962/962986.png");
-}
-
-
-/*Winter (Morgana Chase)#0001*/
-
-[user_by_bdfdb*="161692463365357568"] {
-    --user-background: url("https://i.imgur.com/LHhRIG2.png");
 }
 
 
@@ -662,6 +656,7 @@
 /*Winter ⟨ Morgana Chase ⟩#0001*/
 
 [user_by_bdfdb*="161692463365357568"] {
+	--user-popout-position:left;
 	--user-background: url("https://cdn.discordapp.com/attachments/655856894233280522/655967799876911144/profile.png");
 }
 
