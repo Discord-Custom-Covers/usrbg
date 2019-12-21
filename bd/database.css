@@ -397,7 +397,7 @@
 
 [user_by_bdfdb*="267803219080642560"] {
 	--user-popout-position: center;
-	--user-background: url(https://media3.giphy.com/media/9vzFVAl3lKjJe/source.gif);
+	--user-background: url(https://i.pximg.net/img-original/img/2019/04/19/00/27/57/74266282_p0.jpg);
 }
 
 
@@ -786,4 +786,18 @@
 [user_by_bdfdb*="499330794766991370"]{
 	--user-popout-position: center;
     --user-background: url("https://cdn.discordapp.com/attachments/575783416155471872/657283704393302047/thumb-1920-925465.png");
+}
+
+/*Annoyance#4200*/
+
+[user_by_bdfdb*="535853858992291852"]{
+	--user-popout-position: center;
+    --user-background: url("https://cdn.discordapp.com/attachments/657780495060566024/657783445921071124/38582.jpg");
+}
+
+/*Snowballance 404#9163*/
+
+[user_by_bdfdb*="328357975150297088"]{
+	--user-popout-position: center;
+    --user-background: url("https://cdn.discordapp.com/attachments/657780495060566024/657784078191558656/GettyImages-492460018.png");
 }

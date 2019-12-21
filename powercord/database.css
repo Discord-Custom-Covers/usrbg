@@ -654,7 +654,7 @@
 /*Aka赤#0025*/
 
 .avatar-3EQepX[aria-label^="Aka赤,"] {
-    --user-background: url("https://media3.giphy.com/media/9vzFVAl3lKjJe/source.gif");
+    --user-background: url("https://i.pximg.net/img-original/img/2019/04/19/00/27/57/74266282_p0.jpg");
 }
 
 /*Chief_Lawl#0000*/
@@ -682,6 +682,20 @@
 }
 
 /*Kaabii(星のカービィ)#8574*/
+
 .avatar-3EQepX[aria-label^="Kaabii(星のカービィ),"] {
     --user-background: url("https://cdn.discordapp.com/attachments/575783416155471872/657283704393302047/thumb-1920-925465.png");
+}
+
+/*Annoyance#4200*/
+
+.avatar-3EQepX[aria-label^="Annoyance,"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/657780495060566024/657783445921071124/38582.jpg");
+}
+
+/*Snowballance 404#9163*/
+
+.avatar-3EQepX[aria-label^="Snowballance 404,"] {
+	--user-popout-position: center;
+    --user-background: url("https://cdn.discordapp.com/attachments/657780495060566024/657783445921071124/38582.jpg");
 }
