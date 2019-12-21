@@ -654,7 +654,8 @@
 /*Aka赤#0025*/
 
 .avatar-3EQepX[aria-label^="Aka赤,"] {
-    --user-background: url("https://i.pximg.net/img-original/img/2019/04/19/00/27/57/74266282_p0.jpg");
+    --user-popout-position:right !important;
+    --user-background: url("https://i.imgur.com/ND33roo.jpg");
 }
 
 /*Chief_Lawl#0000*/

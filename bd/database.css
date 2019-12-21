@@ -346,7 +346,8 @@
 /*Aka赤#0025*/
 
 [user_by_bdfdb*="267803219080642560"] {
-	--user-background: url(https://i.pximg.net/img-original/img/2019/04/19/00/27/57/74266282_p0.jpg);
+	--user-popout-position:right !important;
+	--user-background: url(https://i.imgur.com/ND33roo.jpg);
 }
 
 
