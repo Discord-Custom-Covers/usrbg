@@ -1,4 +1,7 @@
 @import url('https://discord-custom-covers.github.io/usrbg/bd/database.css');
+.userPopout-3XzG_A {
+	--user-popout-position:center;
+}
 .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf::after {
 	content: '';
 	position: fixed;
