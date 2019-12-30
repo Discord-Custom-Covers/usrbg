@@ -722,8 +722,16 @@
 
 .avatar-3EQepX[aria-label^="Kirishima Ayato,"] {
     --user-background: url("http://38.media.tumblr.com/308edd7359f9ca118409b8dd7d6f7823/tumblr_nb393yoa721s4fz4bo1_500.gif");
-}
+}  
+
+/*DarKMatter#0712*/
 
 .avatar-3EQepX[aria-label^="DarkMatter,"] {
     --user-background: url("https://i.imgur.com/YVFABdA.gif");
 }
+
+/*Mickle#0001*/
+
+.avatar-3EQepX[aria-label^="Mickle,"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/636415968448479233/660486356673232906/cvklzxvhkadv.gif");
+}   
