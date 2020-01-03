@@ -735,3 +735,22 @@
 .avatar-3EQepX[aria-label^="Mickle,"] {
     --user-background: url("https://cdn.discordapp.com/attachments/636415968448479233/660486356673232906/cvklzxvhkadv.gif");
 }   
+
+/*SkeletonKorbius#6666*/
+
+.avatar-3EQepX[aria-label^="SkeletonKorbius,"] {
+    --user-background: url("https://i.imgur.com/8EXKSNi.gif");
+}
+
+/*Katch#7751*/
+
+.avatar-3EQepX[aria-label^="Katch,"] {
+    --user-background: url("https://i.gifer.com/W3H.gif");
+}
+
+/*.Nicholás#4080*/
+
+.avatar-3EQepX[aria-label^=".Nicholás,"] {
+    --user-popout-position: right;
+    --user-background: url("https://i.imgur.com/jzbuAiQ.gif");
+}
