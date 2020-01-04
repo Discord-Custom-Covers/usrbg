@@ -754,3 +754,9 @@
     --user-popout-position: right;
     --user-background: url("https://i.imgur.com/jzbuAiQ.gif");
 }
+
+/*Gym#5577*/
+
+.avatar-3EQepX[aria-label^="Gym"] {
+    --user-background: url("https://lh3.googleusercontent.com/ZrL92kcfuXp7wiZiFUo-HvdQLnOLww42z0xFygVX3EeLbX0BVd6YMx6vssyyikiCjSbdt5xpD756LIutJ3t_=w1920-h965");
+}
