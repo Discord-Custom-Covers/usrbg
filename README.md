@@ -2,7 +2,7 @@
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
-![](https://i.imgur.com/Zf2ZnkJ.png)
+![](https://imgur.com/LTFixEo.png)
 ## Known themes that use:
 * [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user
