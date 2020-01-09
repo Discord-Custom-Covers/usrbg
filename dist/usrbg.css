@@ -1,4 +1,11 @@
 /* USRBG BETTERDISCORD DATABASE*/
+
+/*Sets default user popout position to center.*/
+
+.userPopout-3XzG_A {
+	--user-popout-position: center;
+}
+
 /* #000 = UNKNOWN DISCRIMINATOR */
 /*Tropical#4104*/
 
