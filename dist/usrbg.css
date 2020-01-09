@@ -895,3 +895,10 @@
 [data-user-id*="418897671487488001"] {
     --user-background: url('https://lh3.googleusercontent.com/ZrL92kcfuXp7wiZiFUo-HvdQLnOLww42z0xFygVX3EeLbX0BVd6YMx6vssyyikiCjSbdt5xpD756LIutJ3t_=w1920-h965');
 }
+
+
+/*sd#6473*/
+[user_by_bdfdb*="662640468978565130"],
+[data-user-id*="662640468978565130"] {
+    --user-background: url('https://i.imgur.com/gJK4msH.gif');
+}
