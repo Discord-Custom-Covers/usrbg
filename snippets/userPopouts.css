@@ -10,7 +10,7 @@ without prior permission from me or any
 other contributors to USRBG.
 */
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
-.userPopout-3XzG_A .avatarWrapperNormal-3wFMbf::after {
+.userPopout-3XzG_A .wrapper-3t9DeA::after {
 	content: '';
 	position: fixed;
 	top: 0;
