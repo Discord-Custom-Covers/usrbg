@@ -1,3 +1,14 @@
+/*
+USRBG Popouts Snippet by Tropix126.
+===========================================
+Please note that this snippet requires basic
+transparency on the user popout in order for
+the background to be fully visible.
+
+You are allowed to use this in your theme
+without prior permission from me or any
+other contributors to USRBG.
+*/
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf::after {
 	content: '';
@@ -16,8 +27,8 @@
 	-webkit-mask-image: linear-gradient(#000, transparent);
 }
 
-.userPopout-3XzG_A .header-2BwW8b *,
-.userPopout-3XzG_A .body-3iLsc4 *,
-.userPopout-3XzG_A .footer-1fjuF6 * {
+.header-2BwW8b,
+.scroller-2FKFPG,
+.footer-1fjuF6 {
 	z-index: 1;
 }
