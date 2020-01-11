@@ -896,7 +896,17 @@
 
 
 /*cd#1582*/
+
 [user_by_bdfdb*="664933588835368990"],
 [aria-label*="664933588835368990,"] {
     --user-background: url('https://i.imgur.com/gJK4msH.gif');
 }
+
+
+/*Crusader Crunch#9487*/
+
+[user_by_bdfdb*="268138915796353035"],
+[aria-label*="268138915796353035,"] {
+    --user-background: url('https://i.imgur.com/2VSekty.png');
+}
+
