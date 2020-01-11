@@ -10,7 +10,7 @@ without prior permission from me or any
 other contributors to USRBG.
 */
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
-.userPopout-3XzG_A .wrapper-3t9DeA::after {
+.userPopout-3XzG_A .wrapper-3t9DeA::before {
 	content: '';
 	position: fixed;
 	top: 0;
@@ -27,8 +27,8 @@ other contributors to USRBG.
 	-webkit-mask-image: linear-gradient(#000, transparent);
 }
 
-.header-2BwW8b,
-.scroller-2FKFPG,
-.footer-1fjuF6 {
+.userPopout-3XzG_A  .header-2BwW8b,
+.userPopout-3XzG_A  .scroller-2FKFPG,
+.userPopout-3XzG_A  .footer-1fjuF6 {
 	z-index: 1;
 }
