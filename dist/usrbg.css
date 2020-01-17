@@ -910,3 +910,10 @@
     --user-background: url('https://i.imgur.com/2VSekty.png');
 }
 
+/*Kabby#4265*/
+
+[user_by_bdfdb*="262113677900120065"],
+[aria-label*="262113677900120065,"] {
+    --user-background: url('https://i.imgur.com/6u0QEoq.png');
+}
+
