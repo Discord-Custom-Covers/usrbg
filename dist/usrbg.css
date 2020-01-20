@@ -756,7 +756,7 @@
 [user_by_bdfdb*="161692463365357568"],
 [aria-label*="161692463365357568,"] {
 	--user-popout-position: left !important;
-	--user-background: url('https://i.imgur.com/zg36PjI.png');
+	--user-background: url('https://i.imgur.com/VLSpZak.jpg');
 }
 
 
@@ -772,7 +772,7 @@
 
 [user_by_bdfdb*="261354004569653248"],
 [aria-label*="261354004569653248,"] {
-    --user-background: url('https://i.imgur.com/AMC1Mom.jpg');
+    --user-background: url('https://i.imgur.com/gEGQyTw.jpg');
 }
 
 
@@ -924,3 +924,30 @@
     --user-background: url('https://cdn.discordapp.com/attachments/592843406305394688/592843771662696462/andreas-kind-268860-unsplash.jpg');
 }
 
+/*jirachi#0001*/
+
+[user_by_bdfdb*="545545834897342464"],
+[aria-label*="545545834897342464,"] {
+    --user-background: url('https://i.imgur.com/w7LBxCP.png');
+}
+
+/*lucifer#0666*/
+
+[user_by_bdfdb*="605514546249072679"],
+[aria-label*="605514546249072679,"] {
+    --user-background: url('https://i.giphy.com/media/FWtVYDHIxgGgE/source.gif');
+}
+
+/*4x4F*/
+
+[user_by_bdfdb*="100246316688351232"],
+[aria-label*="100246316688351232,"] {
+    --user-background: url('https://i.imgur.com/WESBh8Z.gif');
+}
+
+/*Kathy 💙🌸#6660*/
+
+[user_by_bdfdb*="145557095234666496"],
+[aria-label*="145557095234666496,"] {
+    --user-background: url('https://i.redd.it/59penksmofk21.png');
+}
