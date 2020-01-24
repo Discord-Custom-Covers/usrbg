@@ -393,7 +393,8 @@
 
 [user_by_bdfdb*="267803219080642560"],
 [aria-label*="267803219080642560,"] {
-	--user-background: url('https://static.wixstatic.com/media/98df72_9805347a4bf54f9b8055c9699f7b8fbd~mv2.gif');
+	--user-popout-position:center !important;
+	--user-background: url('https://i.imgur.com/GZpbghn.jpg');
 }
 
 
@@ -450,7 +451,7 @@
 
 [user_by_bdfdb*="194474365646012416"],
 [aria-label*="194474365646012416,"] {
-    --user-background: url('https://i.imgur.com/RVWaW9s.png');
+    --user-background: url('https://i.imgur.com/cO9Sbv1.png');
 }
 
 
@@ -633,7 +634,7 @@
 /*Gixol#9340*/
 
 [user_by_bdfdb*="283745803313479681"],
-[aria-label*="283745803313479681,"] {
+[aria-label*="283745803313479681,"] {f
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/555455191802052608/1478934736_screenshotwork2.jpg');
 }
 
@@ -951,9 +952,35 @@
     --user-background: url('https://i.redd.it/59penksmofk21.png');
 }
 
+/*Teizuru#3406*/
+[user_by_bdfdb*="432321896629927936"],
+[aria-label*="432321896629927936,"] {
+    --user-background: url('https://i.imgur.com/hT3VWCh.png');
+}
+
+/*👑 Reĝino Kastilo#0115*/
+[user_by_bdfdb*="143476079267414016"],
+[aria-label*="143476079267414016,"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/231471359052611594/669342833991483392/Castleshit.png');
+}
+
 /*GravityExploitz#2616*/
 
 [user_by_bdfdb*="173557815326015488"],
 [aria-label*="173557815326015488,"] {
     --user-background: url('https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif');
+}
+
+/*Rauf#3543*/
+
+[user_by_bdfdb*="172557961133162496"],
+[aria-label*="172557961133162496,"] {
+    --user-background: url('https://bug-hunters.me/172557961133162500/6710b0.gif');
+}
+
+/*Nozumo#8193*/
+
+[user_by_bdfdb*="282681883249213440"],
+[aria-label*="282681883249213440,"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/222931978570170368/668673238997532672/iu.png');
 }
