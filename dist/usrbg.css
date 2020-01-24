@@ -393,8 +393,7 @@
 
 [user_by_bdfdb*="267803219080642560"],
 [aria-label*="267803219080642560,"] {
-	--user-popout-position:center !important;
-	--user-background: url('https://i.imgur.com/GZpbghn.jpg');
+	--user-background: url('https://static.wixstatic.com/media/98df72_9805347a4bf54f9b8055c9699f7b8fbd~mv2.gif');
 }
 
 
@@ -950,4 +949,11 @@
 [user_by_bdfdb*="145557095234666496"],
 [aria-label*="145557095234666496,"] {
     --user-background: url('https://i.redd.it/59penksmofk21.png');
+}
+
+/*GravityExploitz#2616*/
+
+[user_by_bdfdb*="173557815326015488"],
+[aria-label*="173557815326015488,"] {
+    --user-background: url('https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif');
 }
