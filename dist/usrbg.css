@@ -273,7 +273,7 @@
 
 [user_by_bdfdb*="142110824507506688"],
 [aria-label*="142110824507506688,"] {
-	--user-background: url('https://i.imgur.com/i2YFsm5.gif');
+	--user-background: url('https://i.imgur.com/CsPjcJy.gif');
 }
 
 
@@ -634,7 +634,7 @@
 /*Gixol#9340*/
 
 [user_by_bdfdb*="283745803313479681"],
-[aria-label*="283745803313479681,"] {f
+[aria-label*="283745803313479681,"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/555455191802052608/1478934736_screenshotwork2.jpg');
 }
 
@@ -838,15 +838,6 @@
     --user-background: url('https://cdn.discordapp.com/attachments/543599848910356489/658605845134704660/unknown.png');
 }
 
-
-/*Kirishima Ayato#1282*/
-
-[user_by_bdfdb*="240482174686593025"],
-[aria-label*="240482174686593025,"] {
-    --user-background: url('https://i.imgur.com/jkNc4H8.gif');
-}
-
-
 /*DarkMatter#0712*/
 
 [user_by_bdfdb*="200612445373464576"],
@@ -899,7 +890,7 @@
 
 [user_by_bdfdb*="664933588835368990"],
 [aria-label*="664933588835368990,"] {
-    --user-background: url('https://i.imgur.com/gJK4msH.gif');
+    --user-background: url('https://i.imgur.com/kDmmHIn.gif');
 }
 
 
@@ -1033,6 +1024,35 @@
 [aria-label*="220976819128500225,"] {
     --user-background: url('https://i.imgur.com/1tI5RuH.gif');
 }
+
+/*Blu#9979*/
+
+[user_by_bdfdb*="262599515796799488"],
+[aria-label*="262599515796799488,"] {
+    --user-background: url('https://i.imgur.com/dokglsV.png');
+}
+
+/*Kodasto#1282*/
+
+[user_by_bdfdb*="240482174686593025"],
+[aria-label*="240482174686593025,"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/664848792969019392/Reborn.png');
+}
+
+/*Moist#1460*/
+
+[user_by_bdfdb*="234275051782799360"],
+[aria-label*="234275051782799360,"] {
+    --user-background: url('https://i.imgur.com/jlq3xy3.gif');
+}
+
+/*Copper#3405*/
+
+[user_by_bdfdb*="150852555885379584"],
+[aria-label*="150852555885379584,"] {
+    --user-background: url('https://i.imgur.com/PVi5yz6.jpg');
+}
+
 /*efan#0404*/
 
 [user_by_bdfdb*="648211221610233857"],
