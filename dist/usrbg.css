@@ -1050,6 +1050,7 @@
 
 [user_by_bdfdb*="150852555885379584"],
 [aria-label*="150852555885379584,"] {
+    --user-popout-position:left !important;
     --user-background: url('https://i.imgur.com/PVi5yz6.jpg');
 }
 
