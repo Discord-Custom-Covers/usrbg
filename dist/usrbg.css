@@ -1109,3 +1109,17 @@
 [aria-label*="263673948460417025,"] {
     --user-background: url('https://68.media.tumblr.com/33cb13a5b76a46a311b86dff7e35f9f6/tumblr_op88xic9qq1uco8m0o1_500.gif');
 }
+
+/*JeevS#5527*/
+
+[user_by_bdfdb*="227883327149834241"],
+[aria-label*="227883327149834241,"] {
+    --user-background: url('https://i.imgur.com/1yRfDwV.jpg');
+}
+
+/*Kowalski#3493*/
+
+[user_by_bdfdb*="244519424562823168"],
+[aria-label*="244519424562823168,"] {
+    --user-background: url('https://i.imgur.com/QaT0V3K.jpg');
+}
