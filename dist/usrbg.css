@@ -762,9 +762,14 @@
 
 /*A user#9868*/
 
-[user_by_bdfdb*="264062457448759296"],
-[aria-label*="264062457448759296,"] {
+.userPopout-3XzG_A [user_by_bdfdb*="264062457448759296"],
+.userPopout-3XzG_A [aria-label*="264062457448759296,"] {
     --user-background: url('https://media1.giphy.com/media/OK5LK5zLFfdm/giphy.gif');
+}
+
+.root-SR8cQa [user_by_bdfdb*="264062457448759296"],
+.root-SR8cQa [aria-label*="264062457448759296,"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/539180316447997974/682361687818764323/20200226_200047_0000.png');
 }
 
 
