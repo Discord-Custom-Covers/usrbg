@@ -770,7 +770,7 @@
 .root-SR8cQa [user_by_bdfdb*="264062457448759296"],
 .root-SR8cQa [aria-label*="264062457448759296,"] {
     --user-background: url('https://cdn.discordapp.com/attachments/539180316447997974/682361687818764323/20200226_200047_0000.png');
-    --user-popout-position: center;
+    --user-popout-position: left;
 }
 
 
@@ -1128,4 +1128,10 @@
 [user_by_bdfdb*="244519424562823168"],
 [aria-label*="244519424562823168,"] {
     --user-background: url('https://i.imgur.com/QaT0V3K.jpg');
+}
+
+/*💕𝅳#6868*/
+[user_by_bdfdb*="307273349997002752"],
+[aria-label*="307273349997002752,"] {
+    --user-background: url('https://i.imgur.com/GWeFBRF.gif');
 }
