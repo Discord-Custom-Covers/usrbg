@@ -5,10 +5,12 @@
 }
 
 /* #000 = UNKNOWN DISCRIMINATOR */
-/*Tropical#4104*/
+/*Tropical#4104 and Tropical2#1259*/
 
 [user_by_bdfdb*="254362351170617345"],
-[aria-label*="254362351170617345,"] {
+[aria-label*="254362351170617345,"],
+[user_by_bdfdb*="365643222522920960"],
+[aria-label*="365643222522920960,"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
