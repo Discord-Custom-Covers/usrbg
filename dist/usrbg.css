@@ -1225,3 +1225,18 @@
 [aria-label*="300024006462144512,"] {
     --user-background: url('https://i.imgur.com/1yQACA0.jpg');
 }
+
+/*⃠⃠#4444*/
+
+[user_by_bdfdb*="278516985640517632"],
+[aria-label*="278516985640517632,"] {
+    --user-popout-position: right !important;
+    --user-background: url('https://i.imgur.com/2ZNC6EX.gif');
+}
+
+/*𝓒αℓιρнσвωια#3942*/
+
+[user_by_bdfdb*="150286483025166336"],
+[aria-label*="150286483025166336,"] {
+    --user-background: url('https://i.imgur.com/VzXG8X6.gif');
+}
