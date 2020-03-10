@@ -13,9 +13,9 @@
 * [Frosted Glass](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 * [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 
-<h3 align="center">Approved Request Locations</h3>
-<p align="center">(note that you can also request yours through a pull request on this repo)</p>
+<h3>Approved Request Locations</h3>
+<p>(note that you can also request yours through a pull request on this repo)</p>
 
-[Black Box](https://discord.gg/TeRQEPb)
-[Korbs Studio](https://korbsstudio.com/discord/)
-[A user's stuff](https://discord.gg/6jQ4qJV)
+* [Black Box](https://discord.gg/TeRQEPb)
+* [Korbs Studio](https://korbsstudio.com/discord/)
+* [A user's stuff](https://discord.gg/6jQ4qJV)
