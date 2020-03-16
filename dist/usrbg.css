@@ -1262,3 +1262,10 @@
 [aria-label*="346315512210522122,"] {
     --user-background: url('https://cdn.discordapp.com/attachments/548217110791323661/688706119354286133/unknown.png');
 }
+
+/*Mew#0003*/
+
+[user_by_bdfdb*="621505719841062913"],
+[aria-label*="621505719841062913,"] {
+    --user-background: url('https://i.imgur.com/8nZCmxM.gif');
+}
