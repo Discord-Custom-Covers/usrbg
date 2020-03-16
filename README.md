@@ -12,6 +12,7 @@
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by Lil Monster
 * [Frosted Glass](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 * [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
+* [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical/Korbs
 
 <h3>Approved Request Locations</h3>
 <p>(note that you can also request yours through a pull request on this repo)</p>
