@@ -1269,3 +1269,10 @@
 [aria-label*="621505719841062913,"] {
     --user-background: url('https://i.imgur.com/8nZCmxM.gif');
 }
+
+/*Izanagi#0001*/
+
+[user_by_bdfdb*="517616542947475458"],
+[aria-label*="517616542947475458,"] {
+    --user-background: url('https://i.imgur.com/6ZgdrMl.png');
+}
