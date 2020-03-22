@@ -18,7 +18,7 @@ other contributors to USRBG.
   --usrbg-modal-width:600px; /*Maximum width of modal*/
   --usrbg-modal-height:600px; /*Maximum height of modal*/
 }
-.header-QKLPzZ .wrapper-3t9DeA::before {
+.header-QKLPzZ .wrapper-3t9DeA::after {
   content:'';
   position:absolute;
   top:var(--usrbg-modal-x-offset);
