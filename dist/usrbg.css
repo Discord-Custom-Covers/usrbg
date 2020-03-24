@@ -1101,7 +1101,7 @@
 
 [user_by_bdfdb*="214088526722105344"],
 [aria-label*="214088526722105344,"] {
-    --user-background: url('https://cdn.discordapp.com/attachments/674088989900144672/676992125442850836/L4_v.gif');
+    --user-background: url('https://cdn.discordapp.com/attachments/613174516205748244/690067404675743775/X8tG.gif');
 }
 
 /*ProtoDelta#0157*/
@@ -1326,3 +1326,10 @@
 [aria-label*="146040787891781632,"] {
     --user-background: url('https://i.imgur.com/dmsvsD8.gif');
 }
+
+/*szyha#0001*/
+
+[user_by_bdfdb*="118043161737035776"],
+[aria-label*="118043161737035776,"] {
+    --user-background: url('https://i.imgur.com/gXRGtZb.gif');
+}   
