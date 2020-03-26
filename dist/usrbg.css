@@ -1340,3 +1340,10 @@
 [aria-label*="659998093441499148,"] {
     --user-background: url('https://i.imgur.com/JFHkRmU.gif');
 }   
+
+/*RegisP#2109*/
+
+[user_by_bdfdb*="160829236645593098"],
+[aria-label*="160829236645593098,"] {
+    --user-background: url('https://66.media.tumblr.com/71b612f4d0867f08846cf0b343409847/tumblr_oo93dtDxPS1vnmhkyo3_500.gif');
+}   
