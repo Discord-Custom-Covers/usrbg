@@ -1396,3 +1396,10 @@
 [aria-label*="407632536177475586,"] {
     --user-background: url('https://66.media.tumblr.com/6cb0ae44278156aa660d95d55df340de/tumblr_nz14o7t0Z61skcd7fo1_500.gifv');
 }
+
+/*RegisP#2109*/
+
+[user_by_bdfdb*="160829236645593098"],
+[aria-label*="160829236645593098,"] {
+    --user-background: url('https://66.media.tumblr.com/71b612f4d0867f08846cf0b343409847/tumblr_oo93dtDxPS1vnmhkyo3_500.gif');
+}
