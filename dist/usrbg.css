@@ -1445,3 +1445,10 @@
 [aria-label*="665997772628951060,"] {
 	--user-background: url('https://media.giphy.com/media/uBTWyINWTrWz6/giphy.gif');
 }
+
+/*Sojourning Hibiscus#2527*/
+
+[user_by_bdfdb*="318476618551132173"],
+[aria-label*="318476618551132173,"] {
+	--user-background: url('https://media0.giphy.com/media/mW03sTZVT9IY0/giphy.gif?cid=ecf05e47a2fc7144412c2e2bc9c500a7adf9d38aa860cd5b&rid=giphy.gif');
+}
