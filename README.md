@@ -3,7 +3,7 @@
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
 ![](https://i.imgur.com/2WWYZsS.png)
-## Known themes that use:
+## Known themes that have usrbg built-in:
 * [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs and Creatable
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user
 * [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical
@@ -15,8 +15,7 @@
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical/ and Korbs
 
 <h3>Approved Request Locations</h3>
-<p>(note that you can also request yours through a pull request on this repo)</p>
+<p>(note that you can also request a background through a pull request on this repo)</p>
 
 * [Black Box](https://discord.gg/TeRQEPb)
-* [Korbs Studio](https://korbsstudio.com/discord/)
 * [A user's stuff](https://discord.gg/6jQ4qJV)
