@@ -1479,5 +1479,26 @@
 [user_by_bdfdb*="168118999337402368"],
 [aria-label*="168118999337402368,"] {
     --user-popout-position: right !important;
-	--user-background: url(' https://i.imgur.com/w9Us8L2.jpg');
+	--user-background: url('https://i.imgur.com/w9Us8L2.jpg');
+}
+
+/*Matt#4327*/
+
+[user_by_bdfdb*="693123580501950524"],
+[aria-label*="693123580501950524,"] {
+	--user-background: url('https://i.imgur.com/915NSaO.jpg');
+}
+
+/*Tomic#0666*/
+
+[user_by_bdfdb*="700272737477984256"],
+[aria-label*="700272737477984256,"] {
+	--user-background: url('https://imgur.com/YmVOguB');
+}
+
+/*Execute.exe#4213*/
+
+[user_by_bdfdb*="300255047701495808"],
+[aria-label*="300255047701495808,"] {
+	--user-background: url('https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif');
 }
