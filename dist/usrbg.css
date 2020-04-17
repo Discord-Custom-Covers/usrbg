@@ -1502,3 +1502,10 @@
 [aria-label*="300255047701495808,"] {
 	--user-background: url('https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif');
 }
+
+/*Viceous#1337*/
+
+[user_by_bdfdb*="424645190083674124"],
+[aria-label*="424645190083674124,"] {
+	--user-background: url('https://i.imgur.com/k9CnHeg.png');
+}
