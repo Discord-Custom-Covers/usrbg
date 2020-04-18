@@ -1509,3 +1509,10 @@
 [aria-label*="424645190083674124,"] {
 	--user-background: url('https://i.imgur.com/k9CnHeg.png');
 }
+
+/*NoXe#6666*/
+
+[user_by_bdfdb*="343445422909423628"],
+[aria-label*="343445422909423628,"] {
+	--user-background: url('https://i.pinimg.com/originals/ee/29/98/ee2998cdb1cf6a6bf66bf65fe0076fd2.gif');
+}
