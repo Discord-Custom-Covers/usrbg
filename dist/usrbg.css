@@ -1334,12 +1334,14 @@
     --user-background: url('https://i.imgur.com/gXRGtZb.gif');
 }   
 
-/*Ahrioli#0053*/
+/*Ahrioli#0053 and 341268785166024714*/
 
 [user_by_bdfdb*="659998093441499148"],
-[aria-label*="659998093441499148,"] {
+[aria-label*="659998093441499148,"],
+[user_by_bdfdb*="341268785166024714"],
+[aria-label*="341268785166024714,"] {
     --user-background: url('https://i.imgur.com/JFHkRmU.gif');
-}   
+}
 
 /*Chicada#8044*/
 
