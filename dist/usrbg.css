@@ -1518,3 +1518,10 @@
 [aria-label*="343445422909423628,"] {
 	--user-background: url('https://i.pinimg.com/originals/ee/29/98/ee2998cdb1cf6a6bf66bf65fe0076fd2.gif');
 }
+
+/*Toasty#9999*/
+
+[user_by_bdfdb*="255515821541949440"],
+[aria-label*="255515821541949440"] {
+    --user-background: url('https://i.imgur.com/eyuMV0y.gif');
+}
