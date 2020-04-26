@@ -1525,3 +1525,10 @@
 [aria-label*="255515821541949440"] {
     --user-background: url('https://source.unsplash.com/featured/?{textures-patterns}');
 }
+
+/*Just A Dead Body#3839*/
+
+[user_by_bdfdb*="107913730439790592"],
+[aria-label*="107913730439790592"] {
+    --user-background: url('https://media.giphy.com/media/l0Iye29H39h7qVbgY/giphy.gif');
+}
