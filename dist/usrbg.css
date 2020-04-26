@@ -1525,3 +1525,10 @@
 [aria-label*="255515821541949440"] {
     --user-background: url('https://source.unsplash.com/featured/?{textures-patterns}');
 }
+
+/*b lohnung#0002 */
+
+[user_by_bdfdb*="396086395652800513"],
+[aria-label*="396086395652800513"] {
+	--user-background: url('https://i.imgur.com/F8NUyVM.png');
+}
