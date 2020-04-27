@@ -1525,3 +1525,9 @@
 [aria-label*="255515821541949440"] {
     --user-background: url('https://source.unsplash.com/featured/?{textures-patterns}');
 }
+
+/*Kairos#0017*/
+[user_by_bdfdb*="6802703085442171190"],
+[aria-label*="6802703085442171190"] {
+   --user-background: url('https://i.imgur.com/9jBGPe0.gif');
+}
