@@ -1579,3 +1579,9 @@
 [aria-label*="295755368259125249"] {
    --user-background: url('https://i.imgur.com/W6BpFki.gif');
 }
+
+/* Korbscraft */
+[user_by_bdfdb*="687859818504912909"],
+[aria-label*="687859818504912909"] {
+   --user-background: url('https://korbscraft.com/images/72.png');
+}
