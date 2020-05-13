@@ -1603,3 +1603,15 @@
 [aria-label*="250353310698176522"] {
    --user-background: url('https://i.imgur.com/vmzOzYG.png');
 }
+
+/*inyi.#2061*/
+[user_by_bdfdb*="321665259842830336"],
+[aria-label*="321665259842830336"] {
+   --user-background: url('https://i.imgur.com/6h40su3.gif');
+}
+
+/*boop#9999*/
+[user_by_bdfdb*="539916102038192128"],
+[aria-label*="539916102038192128"] {
+   --user-background: url('https://cdn.lowgif.com/small/0f0f2a0f540ab838-falling-cherry-blossom-tumblr.gif');
+}
