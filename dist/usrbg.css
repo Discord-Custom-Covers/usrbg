@@ -1615,3 +1615,9 @@
 [aria-label*="539916102038192128"] {
    --user-background: url('https://cdn.lowgif.com/small/0f0f2a0f540ab838-falling-cherry-blossom-tumblr.gif');
 }
+
+/*Ectalite#9206*/
+[user_by_bdfdb*="113934571418025985"],
+[aria-label*="113934571418025985"] {
+   --user-background: url('https://i.imgur.com/nR0dVT2.png');
+}
