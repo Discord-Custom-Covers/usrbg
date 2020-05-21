@@ -1622,3 +1622,8 @@
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
+/*Jonathan - Yelo#9721*/
+[user_by_bdfdb*="379353662977474601"],
+[aria-label*="379353662977474601"] {
+   --user-background: url('https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif');
+}
