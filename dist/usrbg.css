@@ -428,7 +428,7 @@
 
 [user_by_bdfdb*="707043684889133117"],
 [aria-label*="707043684889133117,"] {
-	--user-popout-position: left !important;
+	--user-popout-position: -400px 0px !important;
     	--user-background: url('https://wallpapercave.com/wp/wp2303965.png');
 }
 
