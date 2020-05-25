@@ -1622,3 +1622,10 @@
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
+/*Nona is getting coroned#1919*/
+
+[user_by_bdfdb*="714086611578519623"],
+[aria-label*="714086611578519623"] {
+	--user-background: url('https://gph.is/g/ZPWnpM7');
+}
+
