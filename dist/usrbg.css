@@ -86,6 +86,12 @@
 	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');
 }
 
+/*Rasync#7589*/
+
+[user_by_bdfdb*="162970149857656832"],
+[aria-label*="162970149857656832,"] {
+	--user-background: url('https://i.giphy.com/media/3o6ZtdARd9exOTKPOo/giphy.webp');
+}
 
 /*Zura#5141*/
 
@@ -428,8 +434,8 @@
 
 [user_by_bdfdb*="707043684889133117"],
 [aria-label*="707043684889133117,"] {
-	--user-popout-position: right !important;
-    --user-background: url('https://wallpapercave.com/wp/wp2303965.png');
+	--user-popout-position: -400px 0px !important;
+    	--user-background: url('https://wallpapercave.com/wp/wp2303965.png');
 }
 
 
@@ -1526,12 +1532,6 @@
     --user-background: url('https://source.unsplash.com/featured/?{textures-patterns}');
 }
 
-/*Kairos#0017*/
-[user_by_bdfdb*="6802703085442171190"],
-[aria-label*="6802703085442171190"] {
-   --user-background: url('https://i.imgur.com/9jBGPe0.gif');
-}
-
 /*Hexishu#7486*/
 [user_by_bdfdb*="197296645635833856"],
 [aria-label*="197296645635833856"] {
@@ -1622,9 +1622,72 @@
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
+/*MrDioogo#1255*/
+[user_by_bdfdb*="375627393773207554"],
+[aria-label*="375627393773207554"] {
+   --user-background: url('https://imgur.com/akVCUfO.gif');
+}
+
+/*feita#1337*/
+[user_by_bdfdb*="700087892491632749"],
+[aria-label*="700087892491632749"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/709490501547589652/714604505831964753/avion.gif');
+}
+
+/*Nona is getting coroned#1919*/
+
+[user_by_bdfdb*="714086611578519623"],
+[aria-label*="714086611578519623"] {
+	--user-background: url('https://gph.is/g/ZPWnpM7');
+}
+
+/*Kairos#0017*/
+[user_by_bdfdb*="680270308544217119"],
+[aria-label*="680270308544217119"] {
+   --user-background: url('https://i.imgur.com/9jBGPe0.gif');
+}
+
+/*Kay#9399*/
+
+[user_by_bdfdb*="702418897147789335"],
+[aria-label*="702418897147789335,"] {
+	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
+}
+
+/*Just A Dead Body#3839*/
+
+[user_by_bdfdb*="107913730439790592"],
+[aria-label*="107913730439790592"] {
+    --user-background: url('https://i.imgur.com/PKPRksK.gif');
+}
+
+/*b lohnung#0002 */
+
+[user_by_bdfdb*="396086395652800513"],
+[aria-label*="396086395652800513"] {
+	--user-background: url('https://i.imgur.com/F8NUyVM.png');
+}
+
+/*Ectalite#9206*/
+[user_by_bdfdb*="113934571418025985"],
+[aria-label*="113934571418025985"] {
+   --user-background: url('https://i.imgur.com/nR0dVT2.png');
+}
+
+/*Microsoft Visio#0075*/
+[user_by_bdfdb*="254435143249297410"],
+[aria-label*="254435143249297410"] {
+   --user-background: url('https://i.imgur.com/01XWgJn.jpg');
+}
+
+/*Jonathan - Yelo#9721*/
+[user_by_bdfdb*="379353662977474601"],
+[aria-label*="379353662977474601"] {
+   --user-background: url('https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif');
+}
+
 /*06#0666*/
 [user_by_bdfdb*="194830015353847817"],
 [aria-label*="194830015353847817"] {
    --user-background: url('https://absolutsss.github.io/absolutsss.github.io/869910.gif'');
 }
-
