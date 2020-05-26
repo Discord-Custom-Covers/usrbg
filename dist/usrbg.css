@@ -1660,3 +1660,10 @@
 [aria-label*="107913730439790592"] {
     --user-background: url('https://i.imgur.com/PKPRksK.gif');
 }
+
+/*b lohnung#0002 */
+
+[user_by_bdfdb*="396086395652800513"],
+[aria-label*="396086395652800513"] {
+	--user-background: url('https://i.imgur.com/F8NUyVM.png');
+}
