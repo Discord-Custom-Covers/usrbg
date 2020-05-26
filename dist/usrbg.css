@@ -1667,3 +1667,9 @@
 [aria-label*="396086395652800513"] {
 	--user-background: url('https://i.imgur.com/F8NUyVM.png');
 }
+
+/*Ectalite#9206*/
+[user_by_bdfdb*="113934571418025985"],
+[aria-label*="113934571418025985"] {
+   --user-background: url('https://i.imgur.com/nR0dVT2.png');
+}
