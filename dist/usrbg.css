@@ -22,7 +22,6 @@
 	--user-background: url('https://i.imgur.com/BGyfYiv.gif');
 }
 
-
 /*Lil Monster#3557*/
 
 [user_by_bdfdb*="402272736665272320"],
@@ -1690,4 +1689,11 @@
 [user_by_bdfdb*="194830015353847817"],
 [aria-label*="194830015353847817"] {
    --user-background: url('https://absolutsss.github.io/absolutsss.github.io/869910.gif'');
+}
+
+/*Shiuki#7238*/
+
+[user_by_bdfdb*="298456324977721344"],
+[aria-label*="298456324977721344,"] {
+	--user-background: url('https://paws.eu.org/back.gif');
 }
