@@ -1633,3 +1633,10 @@
 [aria-label*="700087892491632749"] {
    --user-background: url('https://cdn.discordapp.com/attachments/709490501547589652/714604505831964753/avion.gif');
 }
+
+/*Nona is getting coroned#1919*/
+
+[user_by_bdfdb*="714086611578519623"],
+[aria-label*="714086611578519623"] {
+	--user-background: url('https://gph.is/g/ZPWnpM7');
+}
