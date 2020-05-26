@@ -1673,3 +1673,9 @@
 [aria-label*="113934571418025985"] {
    --user-background: url('https://i.imgur.com/nR0dVT2.png');
 }
+
+/*Microsoft Visio#0075*/
+[user_by_bdfdb*="254435143249297410"],
+[aria-label*="254435143249297410"] {
+   --user-background: url('https://i.imgur.com/01XWgJn.jpg');
+}
