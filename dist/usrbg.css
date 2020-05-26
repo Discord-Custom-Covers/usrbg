@@ -1622,3 +1622,8 @@
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
+/*MrDioogo#1255*/
+[user_by_bdfdb*="375627393773207554"],
+[aria-label*="375627393773207554"] {
+   --user-background: url('https://imgur.com/akVCUfO.gif');
+}
