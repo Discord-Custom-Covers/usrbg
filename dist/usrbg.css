@@ -1622,6 +1622,12 @@
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
+/*MrDioogo#1255*/
+[user_by_bdfdb*="375627393773207554"],
+[aria-label*="375627393773207554"] {
+   --user-background: url('https://imgur.com/akVCUfO.gif');
+}
+
 /*feita#1337*/
 [user_by_bdfdb*="700087892491632749"],
 [aria-label*="700087892491632749"] {
