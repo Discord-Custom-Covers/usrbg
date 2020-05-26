@@ -1627,3 +1627,9 @@
 [aria-label*="375627393773207554"] {
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
+
+/*feita#1337*/
+[user_by_bdfdb*="700087892491632749"],
+[aria-label*="700087892491632749"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/709490501547589652/714604505831964753/avion.gif');
+}
