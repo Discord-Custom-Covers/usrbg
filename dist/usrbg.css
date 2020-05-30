@@ -1839,3 +1839,10 @@
 [aria-label*="683287574076588103,"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
+
+/*Shiuki#7238*/
+
+[user_by_bdfdb*="298456324977721344"],
+[aria-label*="298456324977721344,"] {
+   --user-background: url('https://i.imgur.com/EJP64zZ.png');
+}
