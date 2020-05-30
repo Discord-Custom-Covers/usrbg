@@ -8,9 +8,9 @@
 /*Tropical#4104 and Tropical2#1259*/
 
 [user_by_bdfdb*="254362351170617345"],
-[aria-label*="254362351170617345,"],
+[data-user-id*="254362351170617345"],
 [user_by_bdfdb*="365643222522920960"],
-[aria-label*="365643222522920960,"] {
+[data-user-id*="365643222522920960"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
@@ -18,14 +18,14 @@
 /*Spectra#7698*/
 
 [user_by_bdfdb*="286208664623120384"],
-[aria-label*="286208664623120384,"] {
+[data-user-id*="286208664623120384"] {
 	--user-background: url('https://i.imgur.com/BGyfYiv.gif');
 }
 
 /*Lil Monster#3557*/
 
 [user_by_bdfdb*="402272736665272320"],
-[aria-label*="402272736665272320,"] {
+[data-user-id*="402272736665272320"] {
 	--user-background: url('https://i.imgur.com/CAsvn0q.gif');
 }
 
@@ -33,7 +33,7 @@
 /*𝑳𝒖𝒄𝒊𝒇𝒆𝒓#8249*/
 
 [user_by_bdfdb*="197477050569719808"],
-[aria-label*="197477050569719808,"] {
+[data-user-id*="197477050569719808"] {
 	--user-background: url('https://i.imgur.com/zGCbSy9.gif');
 }
 
@@ -41,7 +41,7 @@
 /*Pengu#0000*/
 
 [user_by_bdfdb*="116243287936860167"],
-[aria-label*="116243287936860167,"] {
+[data-user-id*="116243287936860167"] {
 	--user-background: url('https://i.imgur.com/BZfpcz5.gif');
 }
 
@@ -49,7 +49,7 @@
 /*Ulli#0001*/
 
 [user_by_bdfdb*="282138006738042880"],
-[aria-label*="282138006738042880,"] {
+[data-user-id*="282138006738042880"] {
 	--user-background: url('https://i.imgur.com/gA0scJx.gif');
 }
 
@@ -57,7 +57,7 @@
 /*Atom#8976*/
 
 [user_by_bdfdb*="150967530075324416"],
-[aria-label*="150967530075324416,"] {
+[data-user-id*="150967530075324416"] {
 	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
 }
 
@@ -65,7 +65,7 @@
 /*Luan°#1682*/
 
 [user_by_bdfdb*="172426681800196096"],
-[aria-label*="172426681800196096,"] {
+[data-user-id*="172426681800196096"] {
 	--user-background: url('https://i.imgur.com/HIGCxW4.gif');
 }
 
@@ -73,21 +73,21 @@
 /*E.🖤🕊✝#6006*/
 
 [user_by_bdfdb*="234148582523928576"],
-[aria-label*="234148582523928576,"] {
+[data-user-id*="234148582523928576"] {
 	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');
 }
 
 /*Rasync#7589*/
 
 [user_by_bdfdb*="162970149857656832"],
-[aria-label*="162970149857656832,"] {
+[data-user-id*="162970149857656832"] {
 	--user-background: url('https://i.giphy.com/media/3o6ZtdARd9exOTKPOo/giphy.webp');
 }
 
 /*Zura#5141*/
 
 [user_by_bdfdb*="219078125974192128"],
-[aria-label*="219078125974192128,"] {
+[data-user-id*="219078125974192128"] {
 	--user-background: url('http://i.imgur.com/TVkGvZR.gif');
 }
 
@@ -95,7 +95,7 @@
 /*unknown#0000*/
 
 [user_by_bdfdb*="223530152296972289"],
-[aria-label*="223530152296972289,"] {
+[data-user-id*="223530152296972289"] {
 	--user-background: url('https://i.imgur.com/yumRBoF.gif');
 }
 
@@ -103,7 +103,7 @@
 /*Zurana Suki#1518*/
 
 [user_by_bdfdb*="312782599439515650"],
-[aria-label*="312782599439515650,"] {
+[data-user-id*="312782599439515650"] {
 	--user-background: url('https://i.imgur.com/s0G5adQ.png');
 }
 
@@ -111,7 +111,7 @@
 /*Noname#0666*/
 
 [user_by_bdfdb*="498444458845536257"],
-[aria-label*="498444458845536257,"] {
+[data-user-id*="498444458845536257"] {
 	--user-background: url('https://i.imgur.com/KYls2nW.gif');
 }
 
@@ -119,7 +119,7 @@
 /*Lushu#1002*/
 
 [user_by_bdfdb*="336678828233588736"],
-[aria-label*="336678828233588736,"] {
+[data-user-id*="336678828233588736"] {
 	--user-background: url('https://i.imgur.com/eP217X7.gif');
 }
 
@@ -127,7 +127,7 @@
 /*Redd#5026*/
 
 [user_by_bdfdb*="331398151229669378"],
-[aria-label*="331398151229669378,"] {
+[data-user-id*="331398151229669378"] {
 	--user-background: url('https://i.imgur.com/WS1GroH.gif');
 }
 
@@ -135,7 +135,7 @@
 /*Sydnxt#0001*/
 
 [user_by_bdfdb*="213220786805145600"],
-[aria-label*="213220786805145600,"] {
+[data-user-id*="213220786805145600"] {
 	--user-background: url('https://i.imgur.com/QmvSS36.gif');
 }
 
@@ -143,7 +143,7 @@
 /*Guest173661#2746*/
 
 [user_by_bdfdb*="244363360886325248"],
-[aria-label*="244363360886325248,"] {
+[data-user-id*="244363360886325248"] {
 	--user-background: url('https://i.imgur.com/SLJ4Fvi.png');
 }
 
@@ -151,7 +151,7 @@
 /*Sean/Ryah#1234*/
 
 [user_by_bdfdb*="236561912597446666"],
-[aria-label*="236561912597446666,"] {
+[data-user-id*="236561912597446666"] {
 	--user-background: url('https://i.imgur.com/ak9zgoj.gif');
 }
 
@@ -159,7 +159,7 @@
 /*SackSparrow VI#0476*/
 
 [user_by_bdfdb*="324680910123302922"],
-[aria-label*="324680910123302922,"] {
+[data-user-id*="324680910123302922"] {
 	--user-background: url('https://i.imgur.com/tVUWNXQ.gif');
 }
 
@@ -167,7 +167,7 @@
 /*Vin#0001*/
 
 [user_by_bdfdb*="183766480112844801"],
-[aria-label*="183766480112844801,"] {
+[data-user-id*="183766480112844801"] {
 	--user-background: url('https://i.imgur.com/FwZzeV3.png');
 }
 
@@ -175,7 +175,7 @@
 /*Skittles#0001*/
 
 [user_by_bdfdb*="433698341008965633"],
-[aria-label*="433698341008965633,"] {
+[data-user-id*="433698341008965633"] {
 	--user-background: url('https://media1.giphy.com/media/26tP80DaorPjmqlC8/giphy.gif?cid=790b76115cd1e9934662392f41059601&rid=giphy.gif');
 }
 
@@ -183,7 +183,7 @@
 /*ORI#8686*/
 
 [user_by_bdfdb*="249986660371136513"],
-[aria-label*="249986660371136513,"] {
+[data-user-id*="249986660371136513"] {
 	--user-background: url('https://i.imgur.com/tVUWNXQ.gif');
 }
 
@@ -191,7 +191,7 @@
 /*HorrorTroll#6457*/
 
 [user_by_bdfdb*="152430800241950720"],
-[aria-label*="152430800241950720,"] {
+[data-user-id*="152430800241950720"] {
 	--user-background: url('https://i.imgur.com/NGj2BGU.gif');
 }
 
@@ -199,7 +199,7 @@
 /*ImTropixz#6969*/
 
 [user_by_bdfdb*="361318789691736064"],
-[aria-label*="361318789691736064,"] {
+[data-user-id*="361318789691736064"] {
 	--user-background: url('https://media0.giphy.com/media/BHNfhgU63qrks/giphy.gif');
 }
 
@@ -207,7 +207,7 @@
 /*FireShadow_#0000*/
 
 [user_by_bdfdb*="265907876239900674"],
-[aria-label*="265907876239900674,"] {
+[data-user-id*="265907876239900674"] {
 	--user-background: url('https://i.imgur.com/7yDMJfU.jpg');
 }
 
@@ -215,7 +215,7 @@
 /*RenkTon#0001*/
 
 [user_by_bdfdb*="346375728117317633"],
-[aria-label*="346375728117317633,"] {
+[data-user-id*="346375728117317633"] {
 	--user-background: url('https://i.imgur.com/QZHn0eg.gif');
 }
 
@@ -223,7 +223,7 @@
 /*Gibbu#1211*/
 
 [user_by_bdfdb*="174868361040232448"],
-[aria-label*="174868361040232448,"] {
+[data-user-id*="174868361040232448"] {
 	--user-background: url('https://source.unsplash.com/featured/?{Frog}');
 }
 
@@ -231,7 +231,7 @@
 /*🎄 toxxy ⛄#2481*/
 
 [user_by_bdfdb*="359042365970710538"],
-[aria-label*="359042365970710538,"] {
+[data-user-id*="359042365970710538"] {
 	--user-background: url('https://cdn.discordapp.com/attachments/546244449873821705/645486399025315851/nebula-3840x2160-pink-galaxy-stars-4k-13210.jpg');
 }
 
@@ -239,7 +239,7 @@
 /*MJA#0001*/
 
 [user_by_bdfdb*="236006926406778881"],
-[aria-label*="236006926406778881,"] {
+[data-user-id*="236006926406778881"] {
 	--user-background: url('https://i.imgur.com/wxVooW6.gif');
 }
 
@@ -247,7 +247,7 @@
 /*Katsuro#7035*/
 
 [user_by_bdfdb*="96563253466898432"],
-[aria-label*="96563253466898432,"] {
+[data-user-id*="96563253466898432"] {
 	--user-background: url('https://media.giphy.com/media/MXQnyEQwBJ6eTj90L5/source.gif');
 }
 
@@ -255,7 +255,7 @@
 /*zkcm#9825*/
 
 [user_by_bdfdb*="622724687499362315"],
-[aria-label*="622724687499362315,"] {
+[data-user-id*="622724687499362315"] {
 	--user-background: url('https://cdn.discordapp.com/attachments/646004059253243904/646005123310420005/original.gif');
 }
 
@@ -263,7 +263,7 @@
 /*The_Hulsenator#3000*/
 
 [user_by_bdfdb*="560474818328264706"],
-[aria-label*="560474818328264706,"] {
+[data-user-id*="560474818328264706"] {
 	--user-background: url('https://i.imgur.com/Ad5W4x1.jpg');
 }
 
@@ -271,7 +271,7 @@
 /*tokiioKH#1755*/
 
 [user_by_bdfdb*="142110824507506688"],
-[aria-label*="142110824507506688,"] {
+[data-user-id*="142110824507506688"] {
 	--user-background: url('https://i.imgur.com/CsPjcJy.gif');
 }
 
@@ -279,7 +279,7 @@
 /*Niko#1250*/
 
 [user_by_bdfdb*="230714365869817857"],
-[aria-label*="230714365869817857,"] {
+[data-user-id*="230714365869817857"] {
 	--user-background: url('https://tenor.com/view/dynomatic-graphics-gif-10066650');
 }
 
@@ -287,7 +287,7 @@
 /*accounterror#23666*/
 
 [user_by_bdfdb*="166365757561634816"],
-[aria-label*="166365757561634816,"] {
+[data-user-id*="166365757561634816"] {
 	--user-background: url('https://i.imgur.com/Q9QB40k.gif');
 }
 
@@ -295,7 +295,7 @@
 /*Snowy ❄#0934*/
 
 [user_by_bdfdb*="231827402102276096"],
-[aria-label*="231827402102276096,"] {
+[data-user-id*="231827402102276096"] {
 	--user-background: url('https://i.imgur.com/AWeKDuK.gif');
 }
 
@@ -303,7 +303,7 @@
 /*Myles From Tomorrowland#0001*/
 
 [user_by_bdfdb*="380930399003475988"],
-[aria-label*="380930399003475988,"] {
+[data-user-id*="380930399003475988"] {
 	--user-background: url('https://media.giphy.com/media/12B6jgPAAk0qKQ/source.gif');
 }
 
@@ -311,7 +311,7 @@
 /*strikepredator#9638*/
 
 [user_by_bdfdb*="141302663022116864"],
-[aria-label*="141302663022116864,"] {
+[data-user-id*="141302663022116864"] {
 	--user-background: url('https://cdn.discordapp.com/attachments/550442250631381044/648195158692724754/squares-gif-bg.gif');
 }
 
@@ -319,7 +319,7 @@
 /*48#0048*/
 
 [user_by_bdfdb*="111476801762537472"],
-[aria-label*="111476801762537472,"] {
+[data-user-id*="111476801762537472"] {
 	--user-background: url('https://i.imgur.com/g5o3jkq.gif');
 }
 
@@ -327,7 +327,7 @@
 /*keys#0000*/
 
 [user_by_bdfdb*="545060776654667777"],
-[aria-label*="545060776654667777,"] {
+[data-user-id*="545060776654667777"] {
 	--user-background: url('https://i.imgur.com/NzFp2Uo.gif');
 }
 
@@ -335,7 +335,7 @@
 /*Butler's Grandson#5106*/
 
 [user_by_bdfdb*="576230701880311817"],
-[aria-label*="576230701880311817,"] {
+[data-user-id*="576230701880311817"] {
 	--user-background: url('https://i.imgur.com/kCeKbig.gif');
 }
 
@@ -343,7 +343,7 @@
 /*Crypteon#0000*/
 
 [user_by_bdfdb*="90110283724374016"],
-[aria-label*="90110283724374016,"] {
+[data-user-id*="90110283724374016"] {
 	--user-background: url('https://media.giphy.com/media/JU4VwHB2h4PB7dsq9I/giphy.gif');
 }
 
@@ -351,7 +351,7 @@
 /*Zoë#0000*/
 
 [user_by_bdfdb*="250353310698176522"],
-[aria-label*="250353310698176522,"] {
+[data-user-id*="250353310698176522"] {
 	--user-background: url('https://i.imgur.com/GnDaXuK.gif');
 }
 
@@ -359,7 +359,7 @@
 /*vanillaspace#1010*/
 
 [user_by_bdfdb*="227648235097817089"],
-[aria-label*="227648235097817089,"] {
+[data-user-id*="227648235097817089"] {
 	--user-background: url('https://thumbs.gfycat.com/PointlessSparklingHarborseal-small.gif');
 }
 
@@ -367,7 +367,7 @@
 /*Hydro#9117*/
 
 [user_by_bdfdb*="613497609738256431"],
-[aria-label*="613497609738256431,"] {
+[data-user-id*="613497609738256431"] {
 	--user-background: url('https://i.imgur.com/fVshVoz.gif');
 }
 
@@ -375,7 +375,7 @@
 /*_Guigui#0000*/
 
 [user_by_bdfdb*="448560475987509268"],
-[aria-label*="448560475987509268,"] {
+[data-user-id*="448560475987509268"] {
 	--user-background: url('https://media.discordapp.net/attachments/623582796023201808/654063449889964063/C_H_I_L_L.png');
 }
 
@@ -383,7 +383,7 @@
 /*unknown#0000*/
 
 [user_by_bdfdb*="320143421903732737"],
-[aria-label*="320143421903732737,"] {
+[data-user-id*="320143421903732737"] {
 	--user-background: url('https://i.imgur.com/akOYAzm.jpg');
 }
 
@@ -391,7 +391,7 @@
 /*Aka赤#0025*/
 
 [user_by_bdfdb*="267803219080642560"],
-[aria-label*="267803219080642560,"] {
+[data-user-id*="267803219080642560"] {
 	--user-popout-position: center !important;
 	--user-background: url('https://i.imgur.com/U4Esvjs.png');
 }
@@ -400,7 +400,7 @@
 /*Chief_Lawl#0000*/
 
 [user_by_bdfdb*="373583057644683274"],
-[aria-label*="373583057644683274,"] {
+[data-user-id*="373583057644683274"] {
 	--user-background: url('https://media.giphy.com/media/KCkkOdKnJBlU0wPDOZ/giphy.gif');
 }
 
@@ -408,7 +408,7 @@
 /*Silvia#3227*/
 
 [user_by_bdfdb*="131931913362341888"],
-[aria-label*="131931913362341888,"] {
+[data-user-id*="131931913362341888"] {
 	--user-background: url('https://i.imgur.com/jVPRVlu.png');
 }
 
@@ -416,7 +416,7 @@
 /*Zahl#1337*/
 
 [user_by_bdfdb*="140012296910012416"],
-[aria-label*="140012296910012416,"] {
+[data-user-id*="140012296910012416"] {
 	--user-background: url('https://i.imgur.com/7rTizt9.gif');
 }
 
@@ -424,7 +424,7 @@
 /*Korbs#7204*/
 
 [user_by_bdfdb*="707043684889133117"],
-[aria-label*="707043684889133117,"] {
+[data-user-id*="707043684889133117"] {
 	--user-popout-position: -400px 0px !important;
     	--user-background: url('https://wallpapercave.com/wp/wp2303965.png');
 }
@@ -433,7 +433,7 @@
 /*LimonadeSenpai#8143*/
 
 [user_by_bdfdb*="170915043108585472"],
-[aria-label*="170915043108585472,"] {
+[data-user-id*="170915043108585472"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556828876341379092/SPOILER_Anime_4.png');
 }
 
@@ -441,7 +441,7 @@
 /*creatable#0123*/
 
 [user_by_bdfdb*="597905003717459968"],
-[aria-label*="597905003717459968,"] {
+[data-user-id*="597905003717459968"] {
     --user-background: url('https://images2.alphacoders.com/946/946640.png');
 }
 
@@ -449,7 +449,7 @@
 /*JustMrRobBoss#1514*/
 
 [user_by_bdfdb*="194474365646012416"],
-[aria-label*="194474365646012416,"] {
+[data-user-id*="194474365646012416"] {
     --user-background: url('https://i.imgur.com/cO9Sbv1.png');
 }
 
@@ -457,7 +457,7 @@
 /*FroztySeven#9632*/
 
 [user_by_bdfdb*="155407912481718272"],
-[aria-label*="155407912481718272,"] {
+[data-user-id*="155407912481718272"] {
     --user-background: url('https://cdn.discordapp.com/attachments/501144124880322570/536372585487794177/WIN_20190119_23_12_42_Pro.jpg');
 }
 
@@ -465,7 +465,7 @@
 /*aaron#5526*/
 
 [user_by_bdfdb*="282340088929845248"],
-[aria-label*="282340088929845248,"] {
+[data-user-id*="282340088929845248"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/546107586852945940/howls.gif');
 }
 
@@ -473,7 +473,7 @@
 /*AKDK#4324*/
 
 [user_by_bdfdb*="282930004734640130"],
-[aria-label*="282930004734640130,"] {
+[data-user-id*="282930004734640130"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/546109187650879508/XjKfgHt.jpg');
 }
 
@@ -481,7 +481,7 @@
 /*.intrnl#6380*/
 
 [user_by_bdfdb*="443765978132643850"],
-[aria-label*="443765978132643850,"] {
+[data-user-id*="443765978132643850"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/546205630361239563/Surface_Book_-_Rainbow.jpg');
 }
 
@@ -489,7 +489,7 @@
 /*Naori#0001*/
 
 [user_by_bdfdb*="126053182748098567"],
-[aria-label*="126053182748098567,"] {
+[data-user-id*="126053182748098567"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/546690784481640448/1537293941448.png');
 }
 
@@ -497,7 +497,7 @@
 /*Euros#2239*/
 
 [user_by_bdfdb*="394972798147231754"],
-[aria-label*="394972798147231754,"] {
+[data-user-id*="394972798147231754"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/548923807692488714/Golden_Gate_Bridge__Hex_Fade_Wallpaper_Engine.png');
 }
 
@@ -505,7 +505,7 @@
 /*Không Lùn#8033*/
 
 [user_by_bdfdb*="448590354724421673"],
-[aria-label*="448590354724421673,"] {
+[data-user-id*="448590354724421673"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/549480358786367498/unknown.png');
 }
 
@@ -513,7 +513,7 @@
 /*ｍｅｒｃｕｒｙ#5708*/
 
 [user_by_bdfdb*="432625086600708111"],
-[aria-label*="432625086600708111,"] {
+[data-user-id*="432625086600708111"] {
     --user-background: url('https://i.imgur.com/uUAEfVhh.jpg');
 }
 
@@ -521,7 +521,7 @@
 /*JacobL#5806*/
 
 [user_by_bdfdb*="217737686956507146"],
-[aria-label*="217737686956507146,"] {
+[data-user-id*="217737686956507146"] {
     --user-background: url('https://i.imgur.com/QbUDVdI.gif');
 }
 
@@ -529,7 +529,7 @@
 /*Vedallion#9999*/
 
 [user_by_bdfdb*="153134984163622912"],
-[aria-label*="153134984163622912,"] {
+[data-user-id*="153134984163622912"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/550319984421634058/gods-hourglass_2560x1440.jpg');
 }
 
@@ -537,7 +537,7 @@
 /*Xperium#7457*/
 
 [user_by_bdfdb*="301629609462726656"],
-[aria-label*="301629609462726656,"] {
+[data-user-id*="301629609462726656"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/550116947732463626/photo-1494972308805-463bc619d34e.jpg');
 }
 
@@ -545,7 +545,7 @@
 /*RubixRoyal#5886*/
 
 [user_by_bdfdb*="268735483423490048"],
-[aria-label*="268735483423490048,"] {
+[data-user-id*="268735483423490048"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/550431247021768782/road-fog-nature-trees.jpg');
 }
 
@@ -553,7 +553,7 @@
 /*.ziff.#9484*/
 
 [user_by_bdfdb*="205393108223918080"],
-[aria-label*="205393108223918080,"] {
+[data-user-id*="205393108223918080"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/550114024520417281/G5Z8.gif');
 }
 
@@ -561,7 +561,7 @@
 /*LangKunG MCGTtv#0530*/
 
 [user_by_bdfdb*="419115667174981633"],
-[aria-label*="419115667174981633,"] {
+[data-user-id*="419115667174981633"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/551362004565098506/JB_PAUSE_ADVERT_1.jpg');
 }
 
@@ -569,7 +569,7 @@
 /*AK Felix#0001*/
 
 [user_by_bdfdb*="304770811577892864"],
-[aria-label*="304770811577892864,"] {
+[data-user-id*="304770811577892864"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/551374939207237632/Wave-1920x1080.png');
 }
 
@@ -577,7 +577,7 @@
 /*iShot#6284*/
 
 [user_by_bdfdb*="298184482056568835"],
-[aria-label*="298184482056568835,"] {
+[data-user-id*="298184482056568835"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/551858209485357057/iShot.png');
 }
 
@@ -585,7 +585,7 @@
 /*Snake#7631*/
 
 [user_by_bdfdb*="227489144216092673"],
-[aria-label*="227489144216092673,"] {
+[data-user-id*="227489144216092673"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/551785219586261002/battlefield-5-3841x2160-official-battlefield-v-4k-13938_1.jpg');
 }
 
@@ -593,7 +593,7 @@
 /*Medafu#3096*/
 
 [user_by_bdfdb*="523417274607075328"],
-[aria-label*="523417274607075328,"] {
+[data-user-id*="523417274607075328"] {
     --user-background: url('https://i.imgur.com/H68u4Cb.jpg');
 }
 
@@ -601,7 +601,7 @@
 /*EliteNK#7230*/
 
 [user_by_bdfdb*="271095508842446848"],
-[aria-label*="271095508842446848,"] {
+[data-user-id*="271095508842446848"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/551459390989926401/ZZOuSd4.jpg');
 }
 
@@ -609,7 +609,7 @@
 /*Normie Trash#8386*/
 
 [user_by_bdfdb*="330480275882770433"],
-[aria-label*="330480275882770433,"] {
+[data-user-id*="330480275882770433"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/554055062562013204/latest.png');
 }
 
@@ -617,7 +617,7 @@
 /*Neisan™#5790*/
 
 [user_by_bdfdb*="217329666669674498"],
-[aria-label*="217329666669674498,"] {
+[data-user-id*="217329666669674498"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/554975114266148899/Meloetta-BG.jpg');
 }
 
@@ -625,7 +625,7 @@
 /*WICKwill#6185*/
 
 [user_by_bdfdb*="537393885341548564"],
-[aria-label*="537393885341548564,"] {
+[data-user-id*="537393885341548564"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/553586406618824724/1235480448_preview_QQ20171218212538.png');
 }
 
@@ -633,7 +633,7 @@
 /*Gixol#9340*/
 
 [user_by_bdfdb*="283745803313479681"],
-[aria-label*="283745803313479681,"] {
+[data-user-id*="283745803313479681"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/555455191802052608/1478934736_screenshotwork2.jpg');
 }
 
@@ -641,7 +641,7 @@
 /*Relist#9066*/
 
 [user_by_bdfdb*="294933901439270912"],
-[aria-label*="294933901439270912,"] {
+[data-user-id*="294933901439270912"] {
     --user-background: url('https://i.imgur.com/IvQBybY.gif');
 }
 
@@ -649,7 +649,7 @@
 /*Heatwave#1346*/
 
 [user_by_bdfdb*="297899354897907715"],
-[aria-label*="297899354897907715,"] {
+[data-user-id*="297899354897907715"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/555919689335832586/hm.jpg');
 }
 
@@ -657,7 +657,7 @@
 /*Cas#3715*/
 
 [user_by_bdfdb*="450522997447720971"],
-[aria-label*="450522997447720971,"] {
+[data-user-id*="450522997447720971"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556535813937168396/mikael-gustafsson-wallpaper-mikael-gustafsson.png');
 }
 
@@ -665,7 +665,7 @@
 /*Tomi#0596*/
 
 [user_by_bdfdb*="154084427436130304"],
-[aria-label*="154084427436130304,"] {
+[data-user-id*="154084427436130304"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556522856268431360/ce445fd8465705a5f1047a577bc72af5.1000x563x1.jpg');
 }
 
@@ -673,7 +673,7 @@
 /*Alanexei ✔#1337*/
 
 [user_by_bdfdb*="163319338403627008"],
-[aria-label*="163319338403627008,"] {
+[data-user-id*="163319338403627008"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556485315632824360/red-galaxy-4.png');
 }
 
@@ -681,7 +681,7 @@
 /*Medafu#3096*/
 
 [user_by_bdfdb*="523417274607075328"],
-[aria-label*="523417274607075328,"] {
+[data-user-id*="523417274607075328"] {
     --user-background: url('https://cdn.discordapp.com/attachments/239132903928365056/551220226260336660/Northern_Lights.png');
 }
 
@@ -689,7 +689,7 @@
 /*-TJ#2013*/
 
 [user_by_bdfdb*="147806107824422912"],
-[aria-label*="147806107824422912,"] {
+[data-user-id*="147806107824422912"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556219032148115476/Freeze.png');
 }
 
@@ -697,7 +697,7 @@
 /*アヒル#0010*/
 
 [user_by_bdfdb*="232461105111367690"],
-[aria-label*="232461105111367690,"] {
+[data-user-id*="232461105111367690"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/557972537355665424/Matoi_Ryuuko_30-2819.jpeg');
 }
 
@@ -705,7 +705,7 @@
 /*NoBlockhuman#2973*/
 
 [user_by_bdfdb*="407277406341300225"],
-[aria-label*="407277406341300225,"] {
+[data-user-id*="407277406341300225"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/559513086449418260/104177.png');
 }
 
@@ -713,7 +713,7 @@
 /*ℳ𝒶𝓁𝒻𝓊𝓇𝒾ℴ𝓃ℒ𝒶𝓋#2104*/
 
 [user_by_bdfdb*="302749787953037312"],
-[aria-label*="302749787953037312,"] {
+[data-user-id*="302749787953037312"] {
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/558036832844120074/28.png');
 }
 
@@ -721,7 +721,7 @@
 /*Bowser65#0001*/
 
 [user_by_bdfdb*="94762492923748352"],
-[aria-label*="94762492923748352,"] {
+[data-user-id*="94762492923748352"] {
     --user-background: url('https://cdn.discordapp.com/attachments/539444185262981120/655864393862742036/debian.png');
 }
 
@@ -729,7 +729,7 @@
 /*sp614x#0888*/
 
 [user_by_bdfdb*="202558206495555585"],
-[aria-label*="202558206495555585,"] {
+[data-user-id*="202558206495555585"] {
     --user-background: url('https://i.imgur.com/2VBDRE7.jpg');
 }
 
@@ -737,7 +737,7 @@
 /*DeDelner#2880*/
 
 [user_by_bdfdb*="214302126870888448"],
-[aria-label*="214302126870888448,"] {
+[data-user-id*="214302126870888448"] {
     --user-background: url('https://i.imgur.com/GzPcWUY.png');
 }
 
@@ -745,7 +745,7 @@
 /*Nimi#2880*/
 
 [user_by_bdfdb*="170769257762652171"],
-[aria-label*="170769257762652171,"] {
+[data-user-id*="170769257762652171"] {
     --user-background: url('https://i.imgur.com/BNiDYGE.png');
 }
 
@@ -753,7 +753,7 @@
 /*Winter ⟨ Morgana Chase ⟩#0001*/
 
 [user_by_bdfdb*="161692463365357568"],
-[aria-label*="161692463365357568,"] {
+[data-user-id*="161692463365357568"] {
 	--user-popout-position: left !important;
 	--user-background: url('https://i.imgur.com/VLSpZak.jpg');
 }
@@ -762,12 +762,12 @@
 /*A user#9868*/
 
 .userPopout-3XzG_A [user_by_bdfdb*="264062457448759296"],
-.userPopout-3XzG_A [aria-label*="264062457448759296,"] {
+.userPopout-3XzG_A [data-user-id*="264062457448759296"] {
     --user-background: url('https://media1.giphy.com/media/OK5LK5zLFfdm/giphy.gif');
 }
 
 .root-SR8cQa [user_by_bdfdb*="264062457448759296"],
-.root-SR8cQa [aria-label*="264062457448759296,"] {
+.root-SR8cQa [data-user-id*="264062457448759296"] {
     --user-background: url('https://cdn.discordapp.com/attachments/539180316447997974/682361687818764323/20200226_200047_0000.png');
     --user-popout-position: left !important;
 }
@@ -776,14 +776,14 @@
 /*Demi#1337*/
 
 [user_by_bdfdb*="261354004569653248"],
-[aria-label*="261354004569653248,"] {
+[data-user-id*="261354004569653248"] {
     --user-background: url('https://i.imgur.com/gEGQyTw.jpg');
 }
 
 
 /*techied#0110*/
 [user_by_bdfdb*="270737906644156416"],
-[aria-label*="270737906644156416,"] {
+[data-user-id*="270737906644156416"] {
     --user-background: url('https://cdn.discordapp.com/attachments/655856894233280522/656196492255559692/uzkxfTzVzhiWGjA-800x450-noPad.png');
 }
 
@@ -791,7 +791,7 @@
 /*ChristmasDioxide#2007*/
 
 [user_by_bdfdb*="588172226998566912"],
-[aria-label*="588172226998566912,"] {
+[data-user-id*="588172226998566912"] {
     --user-background: url('https://cdn.discordapp.com/attachments/430388043594334210/567774100433534986/oc__winter_feelings___my_new_wallpaper___4k_by_total_chuck-dbv5j3k.jpg');
 }
 
@@ -799,7 +799,7 @@
 /*Kaabii(星のカービィ)#8574*/
 
 [user_by_bdfdb*="499330794766991370"],
-[aria-label*="499330794766991370,"] {
+[data-user-id*="499330794766991370"] {
     --user-background: url('https://cdn.discordapp.com/attachments/575783416155471872/657283704393302047/thumb-1920-925465.png');
 }
 
@@ -807,7 +807,7 @@
 /*Annoyance#4200*/
 
 [user_by_bdfdb*="535853858992291852"],
-[aria-label*="535853858992291852,"] {
+[data-user-id*="535853858992291852"] {
     --user-background: url('https://cdn.discordapp.com/attachments/657780495060566024/657783445921071124/38582.jpg');
 }
 
@@ -815,7 +815,7 @@
 /*Snowballance 404#9163*/
 
 [user_by_bdfdb*="328357975150297088"],
-[aria-label*="328357975150297088,"] {
+[data-user-id*="328357975150297088"] {
     --user-background: url('https://cdn.discordapp.com/attachments/657780495060566024/657785777840979984/1c8e489cfa2e524885e04f477205e37f.png');
 }
 
@@ -823,7 +823,7 @@
 /*Vap0r1ze#0126*/
 
 [user_by_bdfdb*="454072114492866560"],
-[aria-label*="454072114492866560,"] {
+[data-user-id*="454072114492866560"] {
     --user-background: url('https://media.giphy.com/media/137B7zfSbkJTDW/giphy.gif');
 }
 
@@ -831,7 +831,7 @@
 /*Maxwell#0010*/
 
 [user_by_bdfdb*="442147181835583489"],
-[aria-label*="442147181835583489,"] {
+[data-user-id*="442147181835583489"] {
     --user-background: url('https://cdn.discordapp.com/attachments/655856894233280522/658201171667976212/download.jpg');
 }
 
@@ -839,14 +839,14 @@
 /*LizFrost404#5211*/
 
 [user_by_bdfdb*="533814956525748235"],
-[aria-label*="533814956525748235,"] {
+[data-user-id*="533814956525748235"] {
     --user-background: url('https://cdn.discordapp.com/attachments/543599848910356489/658605845134704660/unknown.png');
 }
 
 /*DarkMatter#0712*/
 
 [user_by_bdfdb*="200612445373464576"],
-[aria-label*="200612445373464576,"] {
+[data-user-id*="200612445373464576"] {
     --user-background: url('https://i.imgur.com/YVFABdA.gif');
 }
 
@@ -854,7 +854,7 @@
 /*Mickle#0001*/
 
 [user_by_bdfdb*="287766785690697729"],
-[aria-label*="287766785690697729,"] {
+[data-user-id*="287766785690697729"] {
     --user-background: url('https://cdn.discordapp.com/attachments/636415968448479233/660486356673232906/cvklzxvhkadv.gif');
 }
 
@@ -862,7 +862,7 @@
 /*SkeletonKorbius#6666*/
 
 [user_by_bdfdb*="266452571051393033"],
-[aria-label*="266452571051393033,"] {
+[data-user-id*="266452571051393033"] {
     --user-background: url('https://i.imgur.com/8EXKSNi.gif');
 }
 
@@ -870,14 +870,14 @@
 /*Katch#7751*/
 
 [user_by_bdfdb*="379655749397250048"],
-[aria-label*="379655749397250048,"] {
+[data-user-id*="379655749397250048"] {
     --user-background: url('https://media1.tenor.com/images/9e62990a76d745df303d4670485101da/tenor.gif?itemid=13967757');
 }
 
 /*.Nicholás#4080*/
 
 [user_by_bdfdb*="260958874310410240"],
-[aria-label*="260958874310410240,"] {
+[data-user-id*="260958874310410240"] {
     --user-popout-position: right !important;
     --user-background: url('https://i.imgur.com/jzbuAiQ.gif');
 }
@@ -886,7 +886,7 @@
 /*Gym#5577*/
 
 [user_by_bdfdb*="418897671487488001"],
-[aria-label*="418897671487488001,"] {
+[data-user-id*="418897671487488001"] {
     --user-background: url('https://lh3.googleusercontent.com/ZrL92kcfuXp7wiZiFUo-HvdQLnOLww42z0xFygVX3EeLbX0BVd6YMx6vssyyikiCjSbdt5xpD756LIutJ3t_=w1920-h965');
 }
 
@@ -894,7 +894,7 @@
 /*cd#1582*/
 
 [user_by_bdfdb*="664933588835368990"],
-[aria-label*="664933588835368990,"] {
+[data-user-id*="664933588835368990"] {
     --user-background: url('https://i.imgur.com/kDmmHIn.gif');
 }
 
@@ -902,159 +902,159 @@
 /*Crusader Crunch#9487*/
 
 [user_by_bdfdb*="268138915796353035"],
-[aria-label*="268138915796353035,"] {
+[data-user-id*="268138915796353035"] {
     --user-background: url('https://i.imgur.com/2VSekty.png');
 }
 
 /*Kabby#4265*/
 
 [user_by_bdfdb*="262113677900120065"],
-[aria-label*="262113677900120065,"] {
+[data-user-id*="262113677900120065"] {
     --user-background: url('https://i.imgur.com/6u0QEoq.png');
 }
 
 /*Kubson68#2870*/
 
 [user_by_bdfdb*="298918891130847237"],
-[aria-label*="298918891130847237,"] {
+[data-user-id*="298918891130847237"] {
     --user-background: url('https://cdn.discordapp.com/attachments/592843406305394688/592843771662696462/andreas-kind-268860-unsplash.jpg');
 }
 
 /*jirachi#0001*/
 
 [user_by_bdfdb*="545545834897342464"],
-[aria-label*="545545834897342464,"] {
+[data-user-id*="545545834897342464"] {
     --user-background: url('https://i.imgur.com/w7LBxCP.png');
 }
 
 /*lucifer#0666*/
 
 [user_by_bdfdb*="605514546249072679"],
-[aria-label*="605514546249072679,"] {
+[data-user-id*="605514546249072679"] {
     --user-background: url('https://i.giphy.com/media/FWtVYDHIxgGgE/source.gif');
 }
 
 /*4x4F*/
 
 [user_by_bdfdb*="100246316688351232"],
-[aria-label*="100246316688351232,"] {
+[data-user-id*="100246316688351232"] {
     --user-background: url('https://i.imgur.com/WESBh8Z.gif');
 }
 
 /*Kathy 💙🌸#6660*/
 
 [user_by_bdfdb*="145557095234666496"],
-[aria-label*="145557095234666496,"] {
+[data-user-id*="145557095234666496"] {
     --user-background: url('https://i.redd.it/59penksmofk21.png');
 }
 
 /*Teizuru#3406*/
 [user_by_bdfdb*="432321896629927936"],
-[aria-label*="432321896629927936,"] {
+[data-user-id*="432321896629927936"] {
     --user-background: url('https://i.imgur.com/hT3VWCh.png');
 }
 
 /*👑 Reĝino Kastilo#0115*/
 [user_by_bdfdb*="143476079267414016"],
-[aria-label*="143476079267414016,"] {
+[data-user-id*="143476079267414016"] {
     --user-background: url('https://cdn.discordapp.com/attachments/231471359052611594/669342833991483392/Castleshit.png');
 }
 
 /*GravityExploitz#2616*/
 
 [user_by_bdfdb*="173557815326015488"],
-[aria-label*="173557815326015488,"] {
+[data-user-id*="173557815326015488"] {
     --user-background: url('https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif');
 }
 
 /*Rauf#3543*/
 
 [user_by_bdfdb*="172557961133162496"],
-[aria-label*="172557961133162496,"] {
+[data-user-id*="172557961133162496"] {
     --user-background: url('https://bug-hunters.me/172557961133162500/6710b0.gif');
 }
 
 /*Nozumo#8193*/
 
 [user_by_bdfdb*="282681883249213440"],
-[aria-label*="282681883249213440,"] {
+[data-user-id*="282681883249213440"] {
     --user-background: url('https://cdn.discordapp.com/attachments/222931978570170368/668673238997532672/iu.png');
 }
 
 /*Mayu#3998*/
 
 [user_by_bdfdb*="296012213590818816"],
-[aria-label*="296012213590818816,"] {
+[data-user-id*="296012213590818816"] {
     --user-background: url('https://i.imgur.com/4Dw1UHs.png');
 }
 
 /*Elohim#4672*/
 
 [user_by_bdfdb*="670449231563063306"],
-[aria-label*="670449231563063306,"] {
+[data-user-id*="670449231563063306"] {
     --user-background: url('https://i.imgur.com/eMu8MtH.gif');
 }
 
 /*Noxillio#0001*/
 
 [user_by_bdfdb*="138616536502894592"],
-[aria-label*="138616536502894592,"] {
+[data-user-id*="138616536502894592"] {
     --user-background: url('https://i.imgur.com/T21dc5p.gif');
 }
 
 /*Heat#3894*/
 
 [user_by_bdfdb*="544131419446837248"],
-[aria-label*="544131419446837248,"] {
+[data-user-id*="544131419446837248"] {
     --user-background: url('https://s4.gifyu.com/images/tenorbf87aaa04bf0081d.gif');
 }
 
 /*Vortex Swift#0001*/
 
 [user_by_bdfdb*="542399196204892160"],
-[aria-label*="542399196204892160,"] {
+[data-user-id*="542399196204892160"] {
     --user-background: url('https://i.imgur.com/Ud3Wjyv.gif');
 }
 
 /*scurr#1377*/
 
 [user_by_bdfdb*="618871783923122177"],
-[aria-label*="618871783923122177,"] {
+[data-user-id*="618871783923122177"] {
     --user-background: url('https://tenor.com/view/drachenlord-sunglasses-drache-rainer-winkler-sonnenbrille-gif-14450017');
 }
 
 /*👑 Primoris#0039*/
 
 [user_by_bdfdb*="220976819128500225"],
-[aria-label*="220976819128500225,"] {
+[data-user-id*="220976819128500225"] {
     --user-background: url('https://i.imgur.com/1tI5RuH.gif');
 }
 
 /*Blu#9979*/
 
 [user_by_bdfdb*="262599515796799488"],
-[aria-label*="262599515796799488,"] {
+[data-user-id*="262599515796799488"] {
     --user-background: url('https://i.imgur.com/dokglsV.png');
 }
 
 /*Kodasto#1282*/
 
 [user_by_bdfdb*="240482174686593025"],
-[aria-label*="240482174686593025,"] {
+[data-user-id*="240482174686593025"] {
     --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/664848792969019392/Reborn.png');
 }
 
 /*Moist#1460*/
 
 [user_by_bdfdb*="234275051782799360"],
-[aria-label*="234275051782799360,"] {
+[data-user-id*="234275051782799360"] {
     --user-background: url('https://i.imgur.com/jlq3xy3.gif');
 }
 
 /*Copper#3405*/
 
 [user_by_bdfdb*="150852555885379584"],
-[aria-label*="150852555885379584,"] {
+[data-user-id*="150852555885379584"] {
     --user-popout-position: left !important;
     --user-background: url('https://i.imgur.com/PVi5yz6.jpg');
 }
@@ -1062,171 +1062,171 @@
 /*efan#0404*/
 
 [user_by_bdfdb*="648211221610233857"],
-[aria-label*="648211221610233857,"] {
+[data-user-id*="648211221610233857"] {
     --user-background: url('https://i.imgur.com/6dyBS7j.jpg');
 }
 
 /*Eric 🐺#2854*/
 
 [user_by_bdfdb*="191794647381573632"],
-[aria-label*="191794647381573632,"] {
+[data-user-id*="191794647381573632"] {
     --user-background: url('https://68.media.tumblr.com/33cb13a5b76a46a311b86dff7e35f9f6/tumblr_op88xic9qq1uco8m0o1_500.gif');
 }
 
 /*akwa#9988*/
 
 [user_by_bdfdb*="354236474050478080"],
-[aria-label*="354236474050478080,"] {
+[data-user-id*="354236474050478080"] {
     --user-background: url('https://66.media.tumblr.com/e7e04b0354be7778ed094b8fc8dd4877/a7a778ac0f443ac6-5c/s540x810/7961e8bdbc78364000a305ddccaf458e9abc2923.gif');
 }
 
 /*DeaD#2113*/
 
 [user_by_bdfdb*="229976807837925376"],
-[aria-label*="229976807837925376,"] {
+[data-user-id*="229976807837925376"] {
     --user-background: url('https://media1.tenor.com/images/3254d98bf26b162bb4960483402918e7/tenor.gif?itemid=4627239');
 }
 
 /*Xylium#0001*/
 
 [user_by_bdfdb*="179309962164436992"],
-[aria-label*="179309962164436992,"] {
+[data-user-id*="179309962164436992"] {
     --user-background: url('https://media2.giphy.com/media/1dJWnCZBCE7gcFwLvk/giphy.gif');
 }
 
 /*ox#0666*/
 
 [user_by_bdfdb*="214088526722105344"],
-[aria-label*="214088526722105344,"] {
+[data-user-id*="214088526722105344"] {
     --user-background: url('https://cdn.discordapp.com/attachments/613174516205748244/690067404675743775/X8tG.gif');
 }
 
 /*ProtoDelta#0157*/
 
 [user_by_bdfdb*="442746826303733761"],
-[aria-label*="442746826303733761,"] {
+[data-user-id*="442746826303733761"] {
     --user-background: url('https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-pattern.gif');
 }
 
 /*Jet#0420*/
 
 [user_by_bdfdb*="263673948460417025"],
-[aria-label*="263673948460417025,"] {
+[data-user-id*="263673948460417025"] {
     --user-background: url('https://68.media.tumblr.com/33cb13a5b76a46a311b86dff7e35f9f6/tumblr_op88xic9qq1uco8m0o1_500.gif');
 }
 
 /*JeevS#5527*/
 
 [user_by_bdfdb*="227883327149834241"],
-[aria-label*="227883327149834241,"] {
+[data-user-id*="227883327149834241"] {
     --user-background: url('https://i.imgur.com/1yRfDwV.jpg');
 }
 
 /*Kowalski#3493*/
 
 [user_by_bdfdb*="244519424562823168"],
-[aria-label*="244519424562823168,"] {
+[data-user-id*="244519424562823168"] {
     --user-background: url('https://i.imgur.com/QaT0V3K.jpg');
 }
 
 /*💕𝅳#6868*/
 [user_by_bdfdb*="307273349997002752"],
-[aria-label*="307273349997002752,"] {
+[data-user-id*="307273349997002752"] {
     --user-background: url('https://i.imgur.com/GWeFBRF.gif');
 }
 
 /*S O R A#0455*/
 [user_by_bdfdb*="172045670008487936"],
-[aria-label*="172045670008487936,"] {
+[data-user-id*="172045670008487936"] {
     --user-background: url('https://i.imgur.com/OrUiyCp.gif');
 }
 
 
 /*preroll#0420*/
 [user_by_bdfdb*="388065103590850570"],
-[aria-label*="388065103590850570,"] {
+[data-user-id*="388065103590850570"] {
     --user-background: url('https://i.imgur.com/WheKCVR.gif');
 }
 
 /*mari#6666*/
 [user_by_bdfdb*="193458142099669002"],
-[aria-label*="193458142099669002,"] {
+[data-user-id*="193458142099669002"] {
     --user-background: url('https://i.imgur.com/5pNPtzT.gif');
 }
 
 /*Taiyaki#2527*/
 [user_by_bdfdb*="318476618551132173"],
-[aria-label*="318476618551132173,"] {
+[data-user-id*="318476618551132173"] {
     --user-background: url('https://i.gifer.com/71rY.gif');
 }
 
 /*Yukira | BlindName with Subject#0928*/
 
 [user_by_bdfdb*="191297737679962112"],
-[aria-label*="191297737679962112,"] {
+[data-user-id*="191297737679962112"] {
     --user-background: url('https://i.imgur.com/BsJMAEn.png');
 }
 
 /*Waspyeh#0615*/
 
 [user_by_bdfdb*="346702890368368640"],
-[aria-label*="346702890368368640,"] {
+[data-user-id*="346702890368368640"] {
     --user-background: url('https://sheri.bot/media/cool-doggo.gif');
 }
 
 /*kyesekysekyskeyks#6040*/
 
 [user_by_bdfdb*="676299237117526027"],
-[aria-label*="676299237117526027,"] {
+[data-user-id*="676299237117526027"] {
     --user-background: url('https://i.imgur.com/SZUgeP8.gif');
 }
 
 /*『sproink』#7131*/
 
 [user_by_bdfdb*="241345241758564353"],
-[aria-label*="241345241758564353,"] {
+[data-user-id*="241345241758564353"] {
     --user-background: url('https://i.imgur.com/ZVQlUys.gifv');
 }
 
 /*A̛̛͘ʟ͝͡҉̴ᴛ́͝ᴀ̷̢́ɢ̷̨͠ᴏ̧͠͠s̵͞#0987*/
 
 [user_by_bdfdb*="378856916966834178"],
-[aria-label*="378856916966834178,"] {
+[data-user-id*="378856916966834178"] {
     --user-background: url('https://images.hdqwalls.com/wallpapers/bthumb/dragon-throwing-fire-wk.jpg');
 }
 
 /*Phire#9188*/
 
 [user_by_bdfdb*="251327744166592513"],
-[aria-label*="251327744166592513,"] {
+[data-user-id*="251327744166592513"] {
     --user-background: url('https://media.giphy.com/media/lEFuL7PTL6Tx6/giphy.gif');
 }
 
 /*Novotab51#2912*/
 
 [user_by_bdfdb*="537316892038266900"],
-[aria-label*="537316892038266900,"] {
+[data-user-id*="537316892038266900"] {
     --user-background: url('https://i.imgur.com/0OJEgun.jpg');
 }
 
 /*BrizzyRBX#0001*/
 
 [user_by_bdfdb*="285124312032083968"],
-[aria-label*="285124312032083968,"] {
+[data-user-id*="285124312032083968"] {
     --user-background: url('https://media.giphy.com/media/mJbg072dJnGIU/giphy.gif');
 }
 
 /*Ruben7173#5048*/
 
 [user_by_bdfdb*="300024006462144512"],
-[aria-label*="300024006462144512,"] {
+[data-user-id*="300024006462144512"] {
     --user-background: url('https://i.imgur.com/1yQACA0.jpg');
 }
 
 /*⃠⃠#4444*/
 
 [user_by_bdfdb*="278516985640517632"],
-[aria-label*="278516985640517632,"] {
+[data-user-id*="278516985640517632"] {
     --user-popout-position: right !important;
     --user-background: url('https://i.imgur.com/2ZNC6EX.gif');
 }
@@ -1234,7 +1234,7 @@
 /*𝓒αℓιρнσвωια#3942*/
 
 [user_by_bdfdb*="150286483025166336"],
-[aria-label*="150286483025166336,"] {
+[data-user-id*="150286483025166336"] {
     --user-background: url('https://i.imgur.com/VzXG8X6.gif');
 }
 
@@ -1242,77 +1242,77 @@
 /*PapaPrussia👑#2021*/
 
 [user_by_bdfdb*="167085757348052992"],
-[aria-label*="167085757348052992,"] {
+[data-user-id*="167085757348052992"] {
     --user-background: url('https://media.giphy.com/media/dvreHY4p06lzVSDrvj/giphy.gif');
 }
 
 /*Ozaleto#2612*/
 
 [user_by_bdfdb*="498207315485392906"],
-[aria-label*="498207315485392906,"] {
+[data-user-id*="498207315485392906"] {
     --user-background: url('https://i.imgur.com/JZmNxwz.gif');
 }
 
 /*05xapresses#1337*/
 
 [user_by_bdfdb*="346315512210522122"],
-[aria-label*="346315512210522122,"] {
+[data-user-id*="346315512210522122"] {
     --user-background: url('https://cdn.discordapp.com/attachments/548217110791323661/688706119354286133/unknown.png');
 }
 
 /*Mew#0003*/
 
 [user_by_bdfdb*="621505719841062913"],
-[aria-label*="621505719841062913,"] {
+[data-user-id*="621505719841062913"] {
     --user-background: url('https://i.imgur.com/8nZCmxM.gif');
 }
 
 /*Izanagi#0001*/
 
 [user_by_bdfdb*="517616542947475458"],
-[aria-label*="517616542947475458,"] {
+[data-user-id*="517616542947475458"] {
     --user-background: url('https://i.imgur.com/6ZgdrMl.png');
 }
 
 /*Izanagi#0001*/
 
 [user_by_bdfdb*="517616542947475458"],
-[aria-label*="517616542947475458,"] {
+[data-user-id*="517616542947475458"] {
     --user-background: url('https://i.imgur.com/6ZgdrMl.png');
 }
 
 /*desperate effort#9344*/
 
 [user_by_bdfdb*="352189597268049921"],
-[aria-label*="352189597268049921,"] {
+[data-user-id*="352189597268049921"] {
     --user-background: url('https://i.imgur.com/mXkrSgt.png');
 }
 
 /*Hyperion#0001*/
 
 [user_by_bdfdb*="656129662992252928"],
-[aria-label*="656129662992252928,"] {
+[data-user-id*="656129662992252928"] {
     --user-background: url('https://i.imgur.com/aUPWkgx.png');
 }
 
 /*conner!#6182*/
 
 [user_by_bdfdb*="195795446554165257"],
-[aria-label*="195795446554165257,"] {
+[data-user-id*="195795446554165257"] {
     --user-background: url('https://i.imgur.com/KF1abrH.gif');
 }
 
 /*u ı ʇ s n ɐ#0099*/
 
 [user_by_bdfdb*="274036137402564608"],
-[aria-label*="274036137402564608,"] {
+[data-user-id*="274036137402564608"] {
     --user-background: url('https://cdn.discordapp.com/attachments/613174516205748244/690067404675743775/X8tG.gif');
 }
 
 /*cinn_x#6587*/
 
 [user_by_bdfdb*="331361008746627072"],
-[aria-label*="331361008746627072,"] {
+[data-user-id*="331361008746627072"] {
     --user-background: url('https://i.imgur.com/M51kobL.gif');
 }
 
@@ -1320,163 +1320,163 @@
 /*Jonny™#5484*/
 
 [user_by_bdfdb*="146040787891781632"],
-[aria-label*="146040787891781632,"] {
+[data-user-id*="146040787891781632"] {
     --user-background: url('https://i.imgur.com/M0VqKtZ.gif');
 }
 
 /*szyha#0001*/
 
 [user_by_bdfdb*="118043161737035776"],
-[aria-label*="118043161737035776,"] {
+[data-user-id*="118043161737035776"] {
     --user-background: url('https://i.imgur.com/gXRGtZb.gif');
 }   
 
 /*Ahrioli#0053 and 341268785166024714*/
 
 [user_by_bdfdb*="659998093441499148"],
-[aria-label*="659998093441499148,"],
+[data-user-id*="659998093441499148"],
 [user_by_bdfdb*="341268785166024714"],
-[aria-label*="341268785166024714,"] {
+[data-user-id*="341268785166024714"] {
     --user-background: url('https://i.imgur.com/JFHkRmU.gif');
 }
 
 /*Chicada#8044*/
 
 [user_by_bdfdb*="419143393239891979"],
-[aria-label*="419143393239891979,"] {
+[data-user-id*="419143393239891979"] {
     --user-background: url('https://cdn.discordapp.com/attachments/655856894233280522/691586850866987008/this_is_gud.png');
 }   
 
 /*Simp Supreme, Commander Of Simps#3898*/
 
 [user_by_bdfdb*="406601663768559646"],
-[aria-label*="406601663768559646,"] {
+[data-user-id*="406601663768559646"] {
     --user-background: url('http://wallpaperheart.com/wp-content/uploads/2018/04/star-wars-wallpapers093.jpg');
 }   
 
 /*RolkozTM#2588*/
 
 [user_by_bdfdb*="642766253941063701"],
-[aria-label*="642766253941063701,"] {
+[data-user-id*="642766253941063701"] {
     --user-background: url('https://media.giphy.com/media/n4IQ67uRDEml2/giphy.gif');
 }   
 
 /*Chillidari#0001*/
 
 [user_by_bdfdb*="196210618800275456"],
-[aria-label*="196210618800275456,"] {
+[data-user-id*="196210618800275456"] {
     --user-background: url('https://i.imgur.com/9lpuXhn.jpg');
 }
 
 /*Thorn#4672*/
 
 [user_by_bdfdb*="193191994003030016"],
-[aria-label*="193191994003030016,"] {
+[data-user-id*="193191994003030016"] {
     --user-background: url('https://cdn.discordapp.com/attachments/689061128256618511/694436103024803850/Lucifer.jpg');
 }
 
 /*zqvx#6716*/
 
 [user_by_bdfdb*="688231169594097729"],
-[aria-label*="688231169594097729,"] {
+[data-user-id*="688231169594097729"] {
     --user-background: url('https://media1.tenor.com/images/386cd37c82944699fc75fbd255b40211/tenor.gif');
 }
 
 /*YaBoiBoi#4008*/
 
 [user_by_bdfdb*="495688271267889152"],
-[aria-label*="495688271267889152,"] {
+[data-user-id*="495688271267889152"] {
     --user-background: url('https://cdn.discordapp.com/attachments/607396704123093003/693588514809577542/ezgif.com-video-to-gif_1.gif');
 }
 
 /*lrxola#1404*/
 
 [user_by_bdfdb*="407632536177475586"],
-[aria-label*="407632536177475586,"] {
+[data-user-id*="407632536177475586"] {
     --user-background: url('https://66.media.tumblr.com/6cb0ae44278156aa660d95d55df340de/tumblr_nz14o7t0Z61skcd7fo1_500.gifv');
 }
 
 /*RegisP#2109*/
 
 [user_by_bdfdb*="160829236645593098"],
-[aria-label*="160829236645593098,"] {
+[data-user-id*="160829236645593098"] {
     --user-background: url('https://66.media.tumblr.com/71b612f4d0867f08846cf0b343409847/tumblr_oo93dtDxPS1vnmhkyo3_500.gif');
 }
 
 /*Killbow#3614*/
 
 [user_by_bdfdb*="249852120185044993"],
-[aria-label*="249852120185044993,"] {
+[data-user-id*="249852120185044993"] {
     --user-background: url('https://i.imgur.com/HKwzK5y.png');
 }
 
 /*!Hyperxxd [SM.SF]#9026*/
 
 [user_by_bdfdb*="498497705388146709"],
-[aria-label*="498497705388146709,"] {
+[data-user-id*="498497705388146709"] {
     --user-background: url('https://tenor.com/3Y0h.gif');
 }
 
 /*chad#0002*/
 
 [user_by_bdfdb*="349406296870486018"],
-[aria-label*="349406296870486018,"] {
+[data-user-id*="349406296870486018"] {
     --user-background: url('https://tenor.com/view/cold-gif-5174058');
 }
 
 /*Mew#3020*/
 
 [user_by_bdfdb*="336557423626027021"],
-[aria-label*="336557423626027021,"] {
+[data-user-id*="336557423626027021"] {
     --user-background: url('https://i.imgur.com/8nZCmxM.gif');
 }
 
 /*RenAmi#3950*/
 
 [user_by_bdfdb*="391995631264333844"],
-[aria-label*="391995631264333844,"] {
+[data-user-id*="391995631264333844"] {
     --user-background: url('https://i.renami.xyz/profile-cover-discord');
 }
 
 /*... C̵͉͋u̡͕̇r̦͕̝s̠҉͍͊ͅẹ̿̕ḑ̴̞#0666*/
 
 [user_by_bdfdb*="665997772628951060"],
-[aria-label*="665997772628951060,"] {
+[data-user-id*="665997772628951060"] {
 	--user-background: url('https://media.giphy.com/media/uBTWyINWTrWz6/giphy.gif');
 }
 
 /*Sojourning Hibiscus#2527*/
 
 [user_by_bdfdb*="318476618551132173"],
-[aria-label*="318476618551132173,"] {
+[data-user-id*="318476618551132173"] {
 	--user-background: url('https://media0.giphy.com/media/mW03sTZVT9IY0/giphy.gif?cid=ecf05e47a2fc7144412c2e2bc9c500a7adf9d38aa860cd5b&rid=giphy.gif');
 }
 
 /*THE MIO#0149*/
 
 [user_by_bdfdb*="181028703004786688"],
-[aria-label*="181028703004786688,"] {
+[data-user-id*="181028703004786688"] {
 	--user-background: url('https://i.pinimg.com/originals/79/01/8b/79018b5c4e33d94d03f929d64a164b94.gif');
 }
 
 /*KhrysusDev#8780*/
 
 [user_by_bdfdb*="348942895858057217"],
-[aria-label*="348942895858057217,"] {
+[data-user-id*="348942895858057217"] {
 	--user-background: url('https://imgur.com/h4yA1sn');
 }
 
 /*Polaron#1337*/
 
 [user_by_bdfdb*="574117291474812944"],
-[aria-label*="574117291474812944,"] {
+[data-user-id*="574117291474812944"] {
 	--user-background: url('https://i.imgur.com/k9CnHeg.png');
 }
 
 /*Aleana#0080*/
 
 [user_by_bdfdb*="168118999337402368"],
-[aria-label*="168118999337402368,"] {
+[data-user-id*="168118999337402368"] {
     --user-popout-position: right !important;
 	--user-background: url('https://i.imgur.com/w9Us8L2.jpg');
 }
@@ -1484,365 +1484,365 @@
 /*Matt#4327*/
 
 [user_by_bdfdb*="146969728919797760"],
-[aria-label*="146969728919797760,"] {
+[data-user-id*="146969728919797760"] {
 	--user-background: url('https://i.imgur.com/915NSaO.jpg');
 }
 
 /*Tomic#0666*/
 
 [user_by_bdfdb*="349004447113936898"],
-[aria-label*="349004447113936898,"] {
+[data-user-id*="349004447113936898"] {
 	--user-background: url('https://i.imgur.com/YmVOguB.gif');
 }
 
 /*Execute.exe#4213*/
 
 [user_by_bdfdb*="300255047701495808"],
-[aria-label*="300255047701495808,"] {
+[data-user-id*="300255047701495808"] {
 	--user-background: url('https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif');
 }
 
 /*Viceous#1337*/
 
 [user_by_bdfdb*="424645190083674124"],
-[aria-label*="424645190083674124,"] {
+[data-user-id*="424645190083674124"] {
 	--user-background: url('https://i.imgur.com/k9CnHeg.png');
 }
 
 /*NoXe#6666*/
 
 [user_by_bdfdb*="343445422909423628"],
-[aria-label*="343445422909423628,"] {
+[data-user-id*="343445422909423628"] {
 	--user-background: url('https://i.pinimg.com/originals/ee/29/98/ee2998cdb1cf6a6bf66bf65fe0076fd2.gif');
 }
 
 /*Toasty#9999*/
 
 [user_by_bdfdb*="255515821541949440"],
-[aria-label*="255515821541949440"] {
+[data-user-id*="255515821541949440"] {
     --user-background: url('https://source.unsplash.com/featured/?{textures-patterns}');
 }
 
 /*Hexishu#7486*/
 [user_by_bdfdb*="197296645635833856"],
-[aria-label*="197296645635833856"] {
+[data-user-id*="197296645635833856"] {
    --user-background: url('https://cdn.discordapp.com/attachments/704463760659841145/704800253181952051/image_1_2x.jpg');
 }
 
 /*Cokekiwi#7776*/
 [user_by_bdfdb*="592903058464309250"],
-[aria-label*="592903058464309250"] {
+[data-user-id*="592903058464309250"] {
    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/701945155246227486/giphy.png');
 }
 
 /*Hanaka#0001*/
 [user_by_bdfdb*="186974691154591754"],
-[aria-label*="186974691154591754"] {
+[data-user-id*="186974691154591754"] {
    --user-background: url('https://i.imgur.com/as05cuZ.png');
 }
 
 /*b00mek#0001*/
 [user_by_bdfdb*="630825390050508820"],
-[aria-label*="630825390050508820"] {
+[data-user-id*="630825390050508820"] {
    --user-background: url('https://cdn.discordapp.com/attachments/630830599401373697/703425463233806456/MIDNIGHT_DRIVE.gif');
 }
 
 /*Social#1337*/
 [user_by_bdfdb*="623666602340122635"],
-[aria-label*="623666602340122635"] {
+[data-user-id*="623666602340122635"] {
    --user-background: url('https://i.imgur.com/qJ1lGCD.gif');
 }
 
 /*Allipse#8657*/
 [user_by_bdfdb*="595636926476845203"],
-[aria-label*="595636926476845203"] {
+[data-user-id*="595636926476845203"] {
    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/703742876814934113/JPEG_20200422_230346.jpg');
 }
 
 /*Chicada#2483*/
 [user_by_bdfdb*="694368009434955816"],
-[aria-label*="694368009434955816"] {
+[data-user-id*="694368009434955816"] {
    --user-background: url('https://cdn.discordapp.com/attachments/635942571494866944/703840261121245264/d4zb5y3-4b029662-dbfd-4c96-ac6f-4e65b172aa4e.jpg');
 }
 
 /*yume#1337*/
 [user_by_bdfdb*="295755368259125249"],
-[aria-label*="295755368259125249"] {
+[data-user-id*="295755368259125249"] {
    --user-background: url('https://i.imgur.com/W6BpFki.gif');
 }
 
 /* Korbscraft */
 [user_by_bdfdb*="687859818504912909"],
-[aria-label*="687859818504912909"] {
+[data-user-id*="687859818504912909"] {
    --user-background: url('https://korbscraft.com/images/72.png');
 }
 
 /*👑OctoWillχDestiny#5349*/
 [user_by_bdfdb*="533793294400880667"],
-[aria-label*="533793294400880667"] {
+[data-user-id*="533793294400880667"] {
    --user-background: url('https://i.imgur.com/UjCMsid.gif');
 }
 
 /*萩岚雪#2088*/
 [user_by_bdfdb*="394114188399869955"],
-[aria-label*="394114188399869955"] {
+[data-user-id*="394114188399869955"] {
    --user-background: url('https://photo7n.gracg.com/391858_1_37f98993aeb9ed27833392777e166759.jpg');
 }
 
 /*Viennella#0001*/
 [user_by_bdfdb*="250353310698176522"],
-[aria-label*="250353310698176522"] {
+[data-user-id*="250353310698176522"] {
    --user-background: url('https://i.imgur.com/vmzOzYG.png');
 }
 
 /*inyi.#2061*/
 [user_by_bdfdb*="321665259842830336"],
-[aria-label*="321665259842830336"] {
+[data-user-id*="321665259842830336"] {
    --user-background: url('https://i.imgur.com/6h40su3.gif');
 }
 
 /*boop#9999*/
 [user_by_bdfdb*="539916102038192128"],
-[aria-label*="539916102038192128"] {
+[data-user-id*="539916102038192128"] {
    --user-background: url('https://cdn.lowgif.com/small/0f0f2a0f540ab838-falling-cherry-blossom-tumblr.gif');
 }
 
 /*gcn59#3162*/
 [user_by_bdfdb*="377786921499361283"],
-[aria-label*="377786921499361283"] {
+[data-user-id*="377786921499361283"] {
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
 /*MrDioogo#1255*/
 [user_by_bdfdb*="375627393773207554"],
-[aria-label*="375627393773207554"] {
+[data-user-id*="375627393773207554"] {
    --user-background: url('https://imgur.com/akVCUfO.gif');
 }
 
 /*feita#1337*/
 [user_by_bdfdb*="700087892491632749"],
-[aria-label*="700087892491632749"] {
+[data-user-id*="700087892491632749"] {
    --user-background: url('https://cdn.discordapp.com/attachments/709490501547589652/714604505831964753/avion.gif');
 }
 
 /*Nona is getting coroned#1919*/
 
 [user_by_bdfdb*="714086611578519623"],
-[aria-label*="714086611578519623"] {
+[data-user-id*="714086611578519623"] {
 	--user-background: url('https://gph.is/g/ZPWnpM7');
 }
 
 /*Kairos#0017*/
 [user_by_bdfdb*="680270308544217119"],
-[aria-label*="680270308544217119"] {
+[data-user-id*="680270308544217119"] {
    --user-background: url('https://i.imgur.com/9jBGPe0.gif');
 }
 
 /*Kay#9399*/
 
 [user_by_bdfdb*="702418897147789335"],
-[aria-label*="702418897147789335,"] {
+[data-user-id*="702418897147789335"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
 /*Just A Dead Body#3839*/
 
 [user_by_bdfdb*="107913730439790592"],
-[aria-label*="107913730439790592"] {
+[data-user-id*="107913730439790592"] {
     --user-background: url('https://i.imgur.com/PKPRksK.gif');
 }
 
 /*b lohnung#0002 */
 
 [user_by_bdfdb*="396086395652800513"],
-[aria-label*="396086395652800513"] {
+[data-user-id*="396086395652800513"] {
 	--user-background: url('https://i.imgur.com/F8NUyVM.png');
 }
 
 /*Ectalite#9206*/
 [user_by_bdfdb*="113934571418025985"],
-[aria-label*="113934571418025985"] {
+[data-user-id*="113934571418025985"] {
    --user-background: url('https://i.imgur.com/nR0dVT2.png');
 }
 
 /*Microsoft Visio#0075*/
 [user_by_bdfdb*="254435143249297410"],
-[aria-label*="254435143249297410"] {
+[data-user-id*="254435143249297410"] {
    --user-background: url('https://i.imgur.com/01XWgJn.jpg');
 }
 
 /*Jonathan - Yelo#9721*/
 [user_by_bdfdb*="379353662977474601"],
-[aria-label*="379353662977474601"] {
+[data-user-id*="379353662977474601"] {
    --user-background: url('https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif');
 }
 
 /*06#0666*/
 [user_by_bdfdb*="194830015353847817"],
-[aria-label*="194830015353847817"] {
+[data-user-id*="194830015353847817"] {
    --user-background: url('https://absolutsss.github.io/absolutsss.github.io/869910.gif'');
 }
 
 /*Shiuki#7238*/
 
 [user_by_bdfdb*="298456324977721344"],
-[aria-label*="298456324977721344,"] {
+[data-user-id*="298456324977721344"] {
 	--user-background: url('https://paws.eu.org/back.gif');
 }
 
 /*kola#0100*/
 [user_by_bdfdb*="520494897334059018"],
-[aria-label*="520494897334059018,"] {
+[data-user-id*="520494897334059018"] {
 	--user-background: url('https://i.imgur.com/u1Y5Elr.gif');
 }
 
 /*𝚊𝚙𝚕𝚎𝙳𝚒𝚜𝚌𝚘𝚛𝚍#0913*/
 [user_by_bdfdb*="438846426441711616"],
-[aria-label*="438846426441711616,"] {
+[data-user-id*="438846426441711616"] {
 	--user-background: url('https://66.media.tumblr.com/b428c79001accaf917356c4b3dd20fbf/tumblr_pv3boxpfhY1y6ld9uo8_1280.gif');
 }
 
 /*moeszu#8767*/
 [user_by_bdfdb*="597675518334337036"],
-[aria-label*="597675518334337036,"] {
+[data-user-id*="597675518334337036"] {
 	--user-background: url('https://tenor.com/view/chicken-in-shoes-funny-animals-sneakers-dress-up-chickens-gif-11848932');
 }
 
 /*Laz#8072*/
 [user_by_bdfdb*="141319874478604288"],
-[aria-label*="141319874478604288,"] {
+[data-user-id*="141319874478604288"] {
 	--user-background: url('https://images2.imgbox.com/3d/29/JFfaYqAj_o.png');
 }
 
 /*🔥 Phire 🔥#9188*/
 [user_by_bdfdb*="251327744166592513"],
-[aria-label*="251327744166592513,"] {
+[data-user-id*="251327744166592513"] {
 	--user-background: url('https://media.giphy.com/media/lRR3VWjUMXh3wbuo32/giphy.gif');
 }
 
 /*𓆏Lemony(eggs)𓆏#8135*/
 [user_by_bdfdb*="302525728942063617"],
-[aria-label*="302525728942063617,"] {
+[data-user-id*="302525728942063617"] {
 	--user-background: url('https://pbs.twimg.com/media/EW9YZyxUcAAvRKj?format=jpg&name=large');
 }
 
 /*Mayu#3998*/
 [user_by_bdfdb*="296012213590818816"],
-[aria-label*="296012213590818816,"] {
+[data-user-id*="296012213590818816"] {
 	--user-background: url('https://i.imgur.com/wTPS80s.png');
 }
 
 /*Ectalite#9206*/
 [user_by_bdfdb*="113934571418025985"],
-[aria-label*="113934571418025985,"] {
+[data-user-id*="113934571418025985"] {
 	--user-background: url('https://i.imgur.com/nR0dVT2.png');
 }
 
 /*! Polo#0001*/
 [user_by_bdfdb*="688480341706670163"],
-[aria-label*="688480341706670163,"] {
+[data-user-id*="688480341706670163"] {
 	--user-background: url('https://i.imgur.com/OyMQasA.gif');
 }
 
 /*Mavri#5818*/
 [user_by_bdfdb*="245238431045648385"],
-[aria-label*="245238431045648385,"] {
+[data-user-id*="245238431045648385"] {
 	--user-background: url('https://media1.tenor.com/images/25ae032f5b79830a77b76ff3805b8912/tenor.gif?itemid=13902888');
 }
 
 /*╲⎝⧹Sunny Bro⧸⎠╱#0379*/
 [user_by_bdfdb*="513220482972254209"],
-[aria-label*="513220482972254209,"] {
+[data-user-id*="513220482972254209"] {
 	--user-background: url('https://i.imgur.com/eC2g3Nt.png');
 }
 
 /*FantaCat#8388*/
 [user_by_bdfdb*="325934332290007042"],
-[aria-label*="325934332290007042,"] {
+[data-user-id*="325934332290007042"] {
 	--user-background: url('https://i.imgur.com/akVCUfO.gif');
 }
 
 /*MrDioogo#1255*/
 [user_by_bdfdb*="375627393773207554"],
-[aria-label*="375627393773207554,"] {
+[data-user-id*="375627393773207554"] {
 	--user-background: url('https://i.imgur.com/akVCUfO.gif');
 }
 
 /*boop#9999*/
 [user_by_bdfdb*="539916102038192128"],
-[aria-label*="539916102038192128,"] {
+[data-user-id*="539916102038192128"] {
 	--user-background: url('https://cdn.lowgif.com/small/0f0f2a0f540ab838-falling-cherry-blossom-tumblr.gif');
 }
 
 /*Xylo#4530*/
 [user_by_bdfdb*="350104805861228545"],
-[aria-label*="350104805861228545,"] {
+[data-user-id*="350104805861228545"] {
 	--user-background: url('https://tenor.com/ELYl.gif');
 }
 
 /*Katch#7751*/
 [user_by_bdfdb*="710690439509966880"],
-[aria-label*="710690439509966880,"] {
+[data-user-id*="710690439509966880"] {
 	--user-background: url('https://media.tenor.com/images/329e9dfe9c87cceafe896bf79e39c655/tenor.gif');
 }
 
 /*Carl_Wheezer#4126*/
 [user_by_bdfdb*="207219537765072896"],
-[aria-label*="207219537765072896,"] {
+[data-user-id*="207219537765072896"] {
 	--user-background: url('https://wallpapertag.com/wallpaper/full/8/f/d/424829-gorgerous-aesthetic-wallpapers-1080x1920.jpg');
 }
 
 /*clragon#6168*/
 [user_by_bdfdb*="179608420809310208"],
-[aria-label*="179608420809310208,"] {
+[data-user-id*="179608420809310208"] {
 	--user-background: url('https://i.imgur.com/EeSR8iW.png');
 }
 
 /*gcn59#3162*/
 [user_by_bdfdb*="377786921499361283"],
-[aria-label*="377786921499361283,"] {
+[data-user-id*="377786921499361283"] {
 	--user-background: url('https://i.imgur.com/akVCUfO.gif');
 }
 
 /*Skadoot#1642*/
 [user_by_bdfdb*="330421220543692800"],
-[aria-label*="330421220543692800,"] {
+[data-user-id*="330421220543692800"] {
 	--user-background: url('https://i.imgur.com/V9RBns8.jpg');
 }
 
 /*Nona is getting coroned#1919*/
 [user_by_bdfdb*="714086611578519623"],
-[aria-label*="714086611578519623,"] {
+[data-user-id*="714086611578519623"] {
 	--user-background: url('https://media.giphy.com/media/dBTC0daP9s1Ae4Y5ZC/giphy.gif');
 }
 
 /*apleDiscord#0913*/
 [user_by_bdfdb*="438846426441711616"],
-[aria-label*="438846426441711616,"] {
+[data-user-id*="438846426441711616"] {
 	--user-background: url('https://66.media.tumblr.com/b428c79001accaf917356c4b3dd20fbf/tumblr_pv3boxpfhY1y6ld9uo8_1280.gif');
 }
 
 /*Luxxi#1337*/
 [user_by_bdfdb*="700087892491632749"],
-[aria-label*="700087892491632749,"] {
+[data-user-id*="700087892491632749"] {
 	--user-background: url('https://cdn.discordapp.com/attachments/709490501547589652/714604505831964753/avion.gif');
 }
 
 /*absol#0666*/
 [user_by_bdfdb*="194830015353847817"],
-[aria-label*="194830015353847817,"] {
+[data-user-id*="194830015353847817"] {
 	--user-background: url('https://i.imgur.com/akVCUfO.gif');
 }
 
 /*👑King Of Agario - REAL*/
 [user_by_bdfdb*="683287574076588103"],
-[aria-label*="683287574076588103,"] {
+[data-user-id*="683287574076588103"] {
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
 /*Shiuki#7238*/
 
 [user_by_bdfdb*="298456324977721344"],
-[aria-label*="298456324977721344,"] {
+[data-user-id*="298456324977721344"] {
    --user-background: url('https://i.imgur.com/EJP64zZ.png');
 }
