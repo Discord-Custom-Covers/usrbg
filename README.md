@@ -15,7 +15,7 @@
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
 
 <h3>Approved Request Locations</h3>
-<p>(note that you can also request a background through a pull request on this repo)</p>
+<p>(note that you may also request a background through a pull request on this repo)</p>
 
 * [Black Box](https://discord.gg/TeRQEPb)
 * [A user's stuff](https://discord.gg/6jQ4qJV)
