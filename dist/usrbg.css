@@ -1840,3 +1840,9 @@
 [data-user-id*="298456324977721344"] {
    --user-background: url('https://i.imgur.com/EJP64zZ.png');
 }
+
+/*Swishilicous#2339*/
+[user_by_bdfdb*="474322346937810955"],
+[data-user-id*="474322346937810955"] {
+   --user-background: url('https://i.imgur.com/rDtWO5C.jpg');
+}
