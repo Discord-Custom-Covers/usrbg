@@ -1200,7 +1200,7 @@
 
 [user_by_bdfdb*="537316892038266900"],
 [data-user-id*="537316892038266900"] {
-    --user-background: url('https://i.imgur.com/0OJEgun.jpg');
+    --user-background: url('https://66.media.tumblr.com/34f763f6ee56f20b54d79be60b1c77ef/tumblr_n4kk6xI5ci1relaado1_400.gif');
 }
 
 /*BrizzyRBX#0001*/
@@ -1845,4 +1845,17 @@
 [user_by_bdfdb*="474322346937810955"],
 [data-user-id*="474322346937810955"] {
    --user-background: url('https://i.imgur.com/rDtWO5C.jpg');
+}
+
+/*Bunny#0170*/
+[user_by_bdfdb*="471680854276571145"],
+[data-user-id*="471680854276571145"] {
+   --user-background: url('https://arbella.xyz/xoxo.gif');
+}
+
+/*Wolfly#4626*/
+[user_by_bdfdb*="471680854276571145"],
+[data-user-id*="471680854276571145"] {
+   --user-background: url('https://i.imgur.com/fpEFjUy.png');
+   background-position: left;
 }
