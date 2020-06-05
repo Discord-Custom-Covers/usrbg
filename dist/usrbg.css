@@ -1859,3 +1859,27 @@
    --user-background: url('https://i.imgur.com/fpEFjUy.png');
    background-position: left;
 }
+
+/*rexay#8276*/
+[user_by_bdfdb*="308393247364087808"],
+[data-user-id*="308393247364087808"] {
+   --user-background: url('https://i.giphy.com/media/8WaaJtUJLjWso/source.gif');
+}
+
+/*luke.#0018*/
+[user_by_bdfdb*="290658955091247107"],
+[data-user-id*="290658955091247107"] {
+   --user-background: url('https://media.giphy.com/media/S3UJC9kWXkORi/giphy.gif');
+}
+
+/*mel.#0018*/
+[user_by_bdfdb*="715985396961509437"],
+[data-user-id*="715985396961509437"] {
+   --user-background: url('https://media.giphy.com/media/sYBDcQ83rlH2M/giphy.gif');
+}
+
+/*Red Fox | Sniper Ghost#8922*/
+[user_by_bdfdb*="431839245989183488"],
+[data-user-id*="431839245989183488"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/717999823520792586/bg3.jpg');
+}
