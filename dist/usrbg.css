@@ -1883,3 +1883,34 @@
 [data-user-id*="431839245989183488"] {
    --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/717999823520792586/bg3.jpg');
 }
+
+/*vborgar#2819*/
+[user_by_bdfdb*="311206789775360000"],
+[data-user-id*="311206789775360000"] {
+   --user-background: url('https://tenor.com/4qSf.gif');
+}
+
+/*Azurite#0001*/
+[user_by_bdfdb*="670550004091322368"],
+[data-user-id*="670550004091322368"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/329830411779702785/718597733761548371/3499t8582i.gif');
+}
+
+/*Creepi#7882*/
+[user_by_bdfdb*="480033094460637186"],
+[data-user-id*="480033094460637186"] {
+   --user-background: url('https://media.giphy.com/media/vkb4aEjq5TqqQ/giphy.gif');
+}
+
+/*jjun_lee#9619*/
+[user_by_bdfdb*="401227993420398593"],
+[data-user-id*="401227993420398593"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/699802404983668756/719111683016228905/81992330_p0.png');
+}
+
+/*Mr.Rock#2534*/
+[user_by_bdfdb*="699453494305751080"],
+[data-user-id*="699453494305751080"] {
+   --user-background: url('https://media.giphy.com/media/xUPGcAep2BZhomS0HC/giphy.gif');
+}
+
