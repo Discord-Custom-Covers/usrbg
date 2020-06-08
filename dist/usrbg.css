@@ -1914,3 +1914,9 @@
    --user-background: url('https://media.giphy.com/media/xUPGcAep2BZhomS0HC/giphy.gif');
 }
 
+/*1-800 WAIFU#1800*/
+[user_by_bdfdb*="132678909228482560"],
+[data-user-id*="132678909228482560"] {
+   --user-background: url('https://i.imgur.com/jfEmGpf.gif');
+}
+
