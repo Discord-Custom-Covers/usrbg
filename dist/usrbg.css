@@ -4,6 +4,13 @@
 	--user-popout-position: center;
 }
 
+/*Lutz#0001*/
+
+[user_by_bdfdb*="269707833916915723"],
+[data-user-id*="269707833916915723"] {
+	--user-background: url('https://i.imgur.com/utVHvp9.png');
+}
+
 /* #000 = UNKNOWN DISCRIMINATOR */
 /*Tropical#4104 and Tropical2#1259*/
 
