@@ -1943,3 +1943,9 @@
 [data-user-id*="269707833916915723"] {
 	--user-background: url('https://i.imgur.com/utVHvp9.png');
 }
+
+/*Maeeen#0001*/
+[user_by_bdfdb*="134353632387661824"],
+[data-user-id*="134353632387661824"] {
+    --user-background: url('https://i.imgur.com/38z63hX.jpg');
+}
