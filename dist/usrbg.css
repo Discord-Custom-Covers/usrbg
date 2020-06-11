@@ -718,11 +718,12 @@
 }
 
 
-/*Bowser65#0001*/
-
+/*Bowser65#0001 & Beauwzerre#8510*/
 [user_by_bdfdb*="94762492923748352"],
-[data-user-id*="94762492923748352"] {
-    --user-background: url('https://cdn.discordapp.com/attachments/539444185262981120/655864393862742036/debian.png');
+[data-user-id*="94762492923748352"],
+[user_by_bdfdb*="246652610747039744"],
+[data-user-id*="246652610747039744"] {
+    --user-background: url('https://cdn.bowser65.xyz/w/debian.png');
 }
 
 
