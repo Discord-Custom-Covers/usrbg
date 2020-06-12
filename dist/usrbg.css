@@ -1956,3 +1956,21 @@
 [data-user-id*="145557815287611393"] {
    --user-background: url('https://i.imgur.com/XiBWbQe.jpg');
 }
+
+/*roman#0001*/
+[user_by_bdfdb*="565050657631895565"],
+[data-user-id*="565050657631895565"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/699128166777618472/720919978030792754/-APE.gif');
+}
+
+/*whiteboy#1000*/
+[user_by_bdfdb*="257775705704759298"],
+[data-user-id*="257775705704759298"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/669776533631795200/721063256881365073/ne.gif');
+}
+
+/*Cause.By.#2868*/
+[user_by_bdfdb*="699091998732189797"],
+[data-user-id*="699091998732189797"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/699092665479987220/720844794544521298/81967579_p0.png');
+}
