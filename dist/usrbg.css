@@ -2009,3 +2009,9 @@
 [data-user-id*="323030822267518977"] {
    --user-background: url('https://cdn.discordapp.com/attachments/697502924837748818/721858851795894272/original.gif');
 }
+
+/*Akashii#0472*/
+[user_by_bdfdb*="495604921534775306"],
+[data-user-id*="495604921534775306"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/696581398533767228/720235893989834823/ffa49a8.jpg');
+}
