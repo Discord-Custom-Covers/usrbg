@@ -347,15 +347,6 @@
 	--user-background: url('https://media.giphy.com/media/JU4VwHB2h4PB7dsq9I/giphy.gif');
 }
 
-
-/*Zoë#0000*/
-
-[user_by_bdfdb*="250353310698176522"],
-[data-user-id*="250353310698176522"] {
-	--user-background: url('https://i.imgur.com/GnDaXuK.gif');
-}
-
-
 /*vanillaspace#1010*/
 
 [user_by_bdfdb*="227648235097817089"],
@@ -1581,12 +1572,6 @@
 [user_by_bdfdb*="394114188399869955"],
 [data-user-id*="394114188399869955"] {
    --user-background: url('https://photo7n.gracg.com/391858_1_37f98993aeb9ed27833392777e166759.jpg');
-}
-
-/*Viennella#0001*/
-[user_by_bdfdb*="250353310698176522"],
-[data-user-id*="250353310698176522"] {
-   --user-background: url('https://i.imgur.com/vmzOzYG.png');
 }
 
 /*inyi.#2061*/
