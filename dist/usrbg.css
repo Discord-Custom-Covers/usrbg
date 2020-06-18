@@ -916,7 +916,7 @@
 
 [user_by_bdfdb*="605514546249072679"],
 [data-user-id*="605514546249072679"] {
-    --user-background: url('https://i.giphy.com/media/FWtVYDHIxgGgE/source.gif');
+    --user-background: url('https://i.imgur.com/KV3Qok7.gif');
 }
 
 /*4x4F*/
@@ -1136,7 +1136,7 @@
 /*mari#6666*/
 [user_by_bdfdb*="193458142099669002"],
 [data-user-id*="193458142099669002"] {
-    --user-background: url('https://i.imgur.com/5pNPtzT.gif');
+    --user-background: url('https://i.imgur.com/L0ODwtn.gif');
 }
 
 /*Taiyaki#2527*/
@@ -2016,4 +2016,10 @@
 [user_by_bdfdb*="250353310698176522"],
 [data-user-id*="250353310698176522"] {
    --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/723228447995854961/717.gif');
+}
+
+/*Curvu#0254*/
+[user_by_bdfdb*="323104036066951168"],
+[data-user-id*="323104036066951168"] {
+   --user-background: url('https://imgur.com/F8oS4HK');
 }
