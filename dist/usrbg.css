@@ -2011,3 +2011,9 @@
 [data-user-id*="335838133046214659"] {
    --user-background: url('https://imgur.com/a/H1HpIxK');
 }
+
+/*Connie#0002*/
+[user_by_bdfdb*="250353310698176522"],
+[data-user-id*="250353310698176522"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/723228447995854961/717.gif');
+}
