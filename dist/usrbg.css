@@ -2023,3 +2023,10 @@
 [data-user-id*="323104036066951168"] {
    --user-background: url('https://i.imgur.com/F8oS4HK.gif');
 }
+
+/*Montelion#3581*/
+
+[user_by_bdfdb*="406125028065804289"],
+[data-user-id*="406125028065804289"] {
+	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
+}
