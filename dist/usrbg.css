@@ -2041,3 +2041,10 @@
 [data-user-id*="533607928100552714"] {
    --user-background: url('https://imgur.com/a/Gy7707c.gif');
 }
+
+/*Montelion#3581*/
+
+[user_by_bdfdb*="406125028065804289"],
+[data-user-id*="406125028065804289"] {
+	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
+}
