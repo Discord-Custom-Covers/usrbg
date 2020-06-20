@@ -2,7 +2,7 @@
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
-![](https://i.imgur.com/2WWYZsS.png)
+![](https://i.imgur.com/yClqBoR.png)
 ## Known themes that have usrbg built-in:
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user
