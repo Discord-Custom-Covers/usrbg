@@ -2021,5 +2021,23 @@
 /*Curvu#0254*/
 [user_by_bdfdb*="323104036066951168"],
 [data-user-id*="323104036066951168"] {
-   --user-background: url('https://i.imgur.com/F8oS4HK.gif');
+   --user-background: url('https://i.imgur.com/bDhvhDt.png');
+}
+
+/*-Atari-#0666*/
+[user_by_bdfdb*="349003711475089408"],
+[data-user-id*="349003711475089408"] {
+   --user-background: url('https://i.imgur.com/bLvHcV0.gif');
+}
+
+/*Mr.RicharD#7899*/
+[user_by_bdfdb*="285062671282339850"],
+[data-user-id*="285062671282339850"] {
+   --user-background: url(''); /* Waiting for user to provide correct format */
+}
+
+/*Avro#0001*/
+[user_by_bdfdb*="533607928100552714"],
+[data-user-id*="533607928100552714"] {
+   --user-background: url('https://imgur.com/a/Gy7707c.gif');
 }
