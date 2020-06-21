@@ -2048,3 +2048,10 @@
 [data-user-id*="406125028065804289"] {
 	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
 }
+
+/*Puppy1337#4432*/
+
+[user_by_bdfdb*="723614015141576795"],
+[data-user-id*="723614015141576795"] {
+	--user-background: url(''); /* Waiting until user provides a supported format */
+}
