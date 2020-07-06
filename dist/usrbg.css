@@ -2144,3 +2144,10 @@
 [data-user-id*="429246492071559188"]{
   --user-background: url('https://i.pinimg.com/originals/29/57/d9/2957d99bf220c6a37bac7702959736cc.gif');
 }
+
+/*Chip#7042*/
+
+[user_by_bdfdb*="491262066813042698"],
+[data-user-id*="491262066813042698"]{
+	--user-background: url('https://cdn.discordapp.com/attachments/611117684242907149/729621707194761236/Chip_.gif');
+}
