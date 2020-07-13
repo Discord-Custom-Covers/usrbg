@@ -2152,3 +2152,9 @@
   --user-background: url('https://media.discordapp.net/attachments/558113472001605643/728573684322664528/c-eGFv8U5a74YnTThy0ZMSvWIfZZWtZvvMwi_1A_l7hl2TSWu30sahDXSa-plXJXFwaOJgcygZVd1zXVpHlUs0.png');
   --user-popout-position: right;
 }
+
+/*RIDAI#0001*/
+[user_by_bdfdb*="131890875885289473"],
+[data-user-id*="131890875885289473"] {
+   --user-background: url('https://i.imgur.com/qJ1lGCD.gif');
+}
