@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/yClqBoR.png)
 ## Known themes that have usrbg built-in:
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
-* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintent)
+* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintained)
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
 * [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) from A user
 * [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs and Creatable
