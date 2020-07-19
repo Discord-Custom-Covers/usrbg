@@ -2108,7 +2108,14 @@
 [user_by_bdfdb*="373833473091436546"],
 [data-user-id*="373833473091436546"] {
 	--user-background: url('https://thumbs.gfycat.com/FlakyTeemingFinch-size_restricted.gif');
-}
+} 
+
+/*ry#1234*/
+
+[user_by_bdfdb*="421371986824921109"],
+[data-user-id*="421371986824921109"] {
+	--user-background: url('https://files.rxyz.rocks/Miscellaneous/discord-header.png');
+} 
 
 /*Wumpus#0002*/
 
@@ -2157,4 +2164,10 @@
 [user_by_bdfdb*="131890875885289473"],
 [data-user-id*="131890875885289473"] {
    --user-background: url('https://i.imgur.com/qJ1lGCD.gif');
+
+/*AryToNeX#9646*/
+
+[user_by_bdfdb*="235483046315425792"],
+[data-user-id*="235483046315425792"]{
+  --user-background: url('https://tony0000.altervista.org/discordbg.jpg?nocache');
 }
