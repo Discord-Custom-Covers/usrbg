@@ -2152,3 +2152,11 @@
   --user-background: url('https://media.discordapp.net/attachments/558113472001605643/728573684322664528/c-eGFv8U5a74YnTThy0ZMSvWIfZZWtZvvMwi_1A_l7hl2TSWu30sahDXSa-plXJXFwaOJgcygZVd1zXVpHlUs0.png');
   --user-popout-position: right;
 }
+
+
+/*AryToNeX#9646*/
+
+[user_by_bdfdb*="235483046315425792"],
+[data-user-id*="235483046315425792"]{
+  --user-background: url('https://tony0000.altervista.org/discordbg.jpg?nocache');
+}
