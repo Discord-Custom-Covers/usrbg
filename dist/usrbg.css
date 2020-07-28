@@ -2015,7 +2015,7 @@
 /*Viennella#0001*/
 [user_by_bdfdb*="250353310698176522"],
 [data-user-id*="250353310698176522"] {
-   --user-background: url('https://images.unsplash.com/photo-1554101060-10a4e8a36385?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80.jpg');
+   --user-background: url('https://cdn.discordapp.com/attachments/729035362608873573/736329179351482489/Untitled.jpg');
 }
 
 /*Curvu#0254*/
@@ -2313,6 +2313,13 @@
   --user-background: url('https://i.imgur.com/nGzqVlT.png');
 }
 
+ /*NYRIA#0001*/
+
+[user_by_bdfdb*="265924886461939712"],
+[data-user-id*="265924886461939712"]{
+  --user-background: url('https://cdn.discordapp.com/attachments/735571671376724130/735571707229634580/previewfile_1305375622.jpg');
+}
+
 /*RoboLiam#7760*/
 
 [user_by_bdfdb*="694637394300895273"],
@@ -2325,4 +2332,3 @@
 [user_by_bdfdb*="441384103946878987"],
 [data-user-id*="441384103946878987"]{
   --user-background: url('https://docs.google.com/drawings/d/e/2PACX-1vQe0C2SYHQkNPlbOngrAEYNwoWRmnGzPsXHCyFbrVF8y1AUhnIzQ3-_q64BLpkvx8WSX_zXDGD3DuVD/pub?w=900&h=1440');
-}
