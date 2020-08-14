@@ -1409,11 +1409,10 @@
     --user-background: url('https://tenor.com/view/cold-gif-5174058');
 }
 
-/*Mew#3020*/
-
-[user_by_bdfdb*="336557423626027021"],
+/*Catsy#5555*/
+[user_by_bdfdb*="336557423626027021"], 
 [data-user-id*="336557423626027021"] {
-    --user-background: url('https://i.imgur.com/8nZCmxM.gif');
+    --user-background: url('https://cdn.discordapp.com/attachments/731884029741236294/734750468651090010/wp2731080.gif');
 }
 
 /*RenAmi#3950*/
@@ -2390,4 +2389,11 @@
 [user_by_bdfdb*="741488992066994287"],
 [data-user-id*="741488992066994287"]{
   --user-background: url('https://media.giphy.com/media/JoPmwJyrtVRyIHGco7/giphy.gif'); 
+}
+
+/*mini#9701*/
+
+[user_by_bdfdb*="197344096359022593"],
+[data-user-id*="197344096359022593"]{
+  --user-background: url('https://media.tenor.com/images/13c4b06414e7ac8b267338404dcb7681/tenor.gif'); 
 }
