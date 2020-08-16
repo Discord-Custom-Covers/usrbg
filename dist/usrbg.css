@@ -2397,3 +2397,10 @@
 [data-user-id*="197344096359022593"]{
   --user-background: url('https://media.tenor.com/images/13c4b06414e7ac8b267338404dcb7681/tenor.gif'); 
 }
+
+/*Zach 🇨🇦#0002*/
+
+[user_by_bdfdb*="525415390910742580"],
+[data-user-id*="525415390910742580"] {
+	--user-background: url('https://i.imgur.com/4ia9As9.jpg');
+}
