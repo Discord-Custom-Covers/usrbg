@@ -1409,11 +1409,10 @@
     --user-background: url('https://tenor.com/view/cold-gif-5174058');
 }
 
-/*Mew#3020*/
-
-[user_by_bdfdb*="336557423626027021"],
+/*Catsy#5555*/
+[user_by_bdfdb*="336557423626027021"], 
 [data-user-id*="336557423626027021"] {
-    --user-background: url('https://i.imgur.com/8nZCmxM.gif');
+    --user-background: url('https://cdn.discordapp.com/attachments/731884029741236294/734750468651090010/wp2731080.gif');
 }
 
 /*RenAmi#3950*/
@@ -1965,10 +1964,10 @@
    --user-background: url('https://i.imgur.com/kVamKGx.gif');
 }
 
-/*unknown person x-x#4004*/
+/*Chicada#4004*/
 [user_by_bdfdb*="717945200877502505"],
 [data-user-id*="717945200877502505"] {
-   --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/721325765064392724/82255171_p2.jpg');
+   --user-background: url('https://imgur.com/5dpEZ96');
 }
 
 /*greatest#3142*/
@@ -2012,10 +2011,10 @@
    --user-background: url('https://i.imgur.com/mALmSuM.jpg');
 }
 
-/*Viennella#0001*/
+/*Connie#0003*/
 [user_by_bdfdb*="250353310698176522"],
 [data-user-id*="250353310698176522"] {
-   --user-background: url('https://cdn.discordapp.com/attachments/729035362608873573/736329179351482489/Untitled.jpg');
+   --user-background: url('https://cdn.discordapp.com/attachments/239132903928365056/742074979268427947/683320_20200805140815_1.png');
 }
 
 /*Curvu#0254*/
@@ -2246,7 +2245,7 @@
 
 [user_by_bdfdb*="226447651917266944"],
 [data-user-id*="226447651917266944"]{
-  --user-background: url('https://i.imgur.com/8JWyWJ0.gif');
+  --user-background: url('https://i.ibb.co/Tg0bpfG/2FF4ENy.gif');
 }
 
 
@@ -2369,4 +2368,39 @@
 [user_by_bdfdb*="450099781331845120"],
 [data-user-id*="450099781331845120"]{
   --user-background: url('https://media.discordapp.net/attachments/637399152464232469/741371576259182592/BUB.png'); 
+}
+
+/*Boredomhours#6666*/
+
+[user_by_bdfdb*="448597986042445824"],
+[data-user-id*="448597986042445824"]{
+  --user-background: url('https://media.discordapp.net/attachments/694847222206169178/736839832835325982/sailormoonpeace.gif');
+}
+
+/*Venøm#0001*/
+
+[user_by_bdfdb*="186084682797023233"],
+[data-user-id*="186084682797023233"]{
+  --user-background: url('https://cdn.discordapp.com/attachments/694847222206169178/742150008517820506/5303a7bbb9e557623a177d31b08ae65a.gif'); 
+}
+
+/*Monkat#2534*/
+
+[user_by_bdfdb*="670159800063229962"],
+[data-user-id*="670159800063229962"]{
+  --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/740979049417146448/guy.gif'); 
+}
+
+/*Rage#0999*/
+
+[user_by_bdfdb*="741488992066994287"],
+[data-user-id*="741488992066994287"]{
+  --user-background: url('https://media.giphy.com/media/JoPmwJyrtVRyIHGco7/giphy.gif'); 
+}
+
+/*mini#9701*/
+
+[user_by_bdfdb*="197344096359022593"],
+[data-user-id*="197344096359022593"]{
+  --user-background: url('https://media.tenor.com/images/13c4b06414e7ac8b267338404dcb7681/tenor.gif'); 
 }
