@@ -2403,3 +2403,24 @@
 [data-user-id*="106973447707455488"]{
   --user-background: url('https://i.giphy.com/media/l19ipdY2pjK3d8Omtz/source.gif'); 
 }
+
+/*Scrumpy#0001*/
+
+[user_by_bdfdb*="676867934504747008"],
+[data-user-id*="676867934504747008"]{
+  --user-background: url('https://i.imgur.com/2PcdnnM.png'); 
+}
+
+/*4j0#7967*/
+
+[user_by_bdfdb*="364616437353938945"],
+[data-user-id*="364616437353938945"]{
+  --user-background: url('https://cdn.discordapp.com/attachments/745464101358272534/745464180626161724/74607230_p0_master1200.png'); 
+}
+
+/*Captain Frozenmoon#7209*/
+
+[user_by_bdfdb*="463885160450883606"],
+[data-user-id*="463885160450883606"]{
+  --user-background: url('https://i.imgur.com/n9eK8Jq.jpg'); 
+}
