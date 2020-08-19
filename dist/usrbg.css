@@ -2397,3 +2397,10 @@
 [data-user-id*="197344096359022593"]{
   --user-background: url('https://media.tenor.com/images/13c4b06414e7ac8b267338404dcb7681/tenor.gif'); 
 }
+
+/*ABSURD#1312*/
+
+[user_by_bdfdb*="106973447707455488"],
+[data-user-id*="106973447707455488"]{
+  --user-background: url('https://i.giphy.com/media/l19ipdY2pjK3d8Omtz/source.gif'); 
+}
