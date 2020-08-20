@@ -1668,10 +1668,10 @@
 	--user-background: url('https://paws.eu.org/back.gif');
 }
 
-/*kola#0100*/
+/*///#0008*/
 [user_by_bdfdb*="520494897334059018"],
 [data-user-id*="520494897334059018"] {
-	--user-background: url('https://i.imgur.com/u1Y5Elr.gif');
+	--user-background: url('https://i.imgur.com/mbCCHwo.gif');
 }
 
 /*𝚊𝚙𝚕𝚎𝙳𝚒𝚜𝚌𝚘𝚛𝚍#0913*/
@@ -2041,13 +2041,6 @@
    --user-background: url('https://imgur.com/fU79Qxy.gif');
 }
 
-/*Montelion#3581*/
-
-[user_by_bdfdb*="406125028065804289"],
-[data-user-id*="406125028065804289"] {
-	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
-}
-
 /*Puppy1337#4432*/
 
 [user_by_bdfdb*="723614015141576795"],
@@ -2361,6 +2354,12 @@
 [user_by_bdfdb*="441384103946878987"],
 [data-user-id*="441384103946878987"]{
   --user-background: url('https://docs.google.com/drawings/d/e/2PACX-1vQe0C2SYHQkNPlbOngrAEYNwoWRmnGzPsXHCyFbrVF8y1AUhnIzQ3-_q64BLpkvx8WSX_zXDGD3DuVD/pub?w=900&h=1440'); 
+
+/*AlvyDaGreat#2807*/
+
+[user_by_bdfdb*="414915303345094657"],
+[data-user-id*="414915303345094657"]{
+  --user-background: url('https://i.imgur.com/AoLOsti.jpg'); 
 }
 
 /*Boredomhours#6666*/
@@ -2404,6 +2403,7 @@
 [data-user-id*="525415390910742580"] {
 	--user-background: url('https://i.imgur.com/4ia9As9.jpg');
 }
+  
 /*ABSURD#1312*/
 
 [user_by_bdfdb*="106973447707455488"],
