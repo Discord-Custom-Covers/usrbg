@@ -1689,7 +1689,7 @@
 /*Laz#8072*/
 [user_by_bdfdb*="141319874478604288"],
 [data-user-id*="141319874478604288"] {
-	--user-background: url('https://images2.imgbox.com/3d/29/JFfaYqAj_o.png');
+	--user-background: url('https://imgur.com/qs2XrxA');
 }
 
 /*🔥 Phire 🔥#9188*/
@@ -2424,4 +2424,18 @@
 [user_by_bdfdb*="463885160450883606"],
 [data-user-id*="463885160450883606"]{
   --user-background: url('https://i.imgur.com/n9eK8Jq.jpg'); 
+}
+
+/*imnothurb#8286*/
+
+[user_by_bdfdb*="352464264981905409"],
+[data-user-id*="352464264981905409"]{
+  --user-background: url('https://tenor.com/view/anime-mai-sakurajima-rascal-does-not-dream-of-bunny-girl-senpai-seishun-buta-yarou-cute-gif-13458967'); 
+}
+
+/*y_knot#3232*/
+
+[user_by_bdfdb*="442806080171540481"],
+[data-user-id*="442806080171540481"]{
+  --user-background: url('https://imgur.com/bLvHcV0'); 
 }
