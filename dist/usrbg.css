@@ -2439,3 +2439,10 @@
 [data-user-id*="442806080171540481"]{
   --user-background: url('https://i.imgur.com/bLvHcV0'); 
 }
+
+/*ミノ#8097*/
+
+[user_by_bdfdb*="748900037752258562"],
+[data-user-id*="748900037752258562"]{
+  --user-background: url('https://i.imgur.com/SHPc0v9.jpg'); 
+}
