@@ -1689,7 +1689,7 @@
 /*Laz#8072*/
 [user_by_bdfdb*="141319874478604288"],
 [data-user-id*="141319874478604288"] {
-	--user-background: url('https://imgur.com/qs2XrxA');
+	--user-background: url('https://i.imgur.com/qs2XrxA.png');
 }
 
 /*🔥 Phire 🔥#9188*/
@@ -2020,7 +2020,7 @@
 /*Curvu#0254*/
 [user_by_bdfdb*="323104036066951168"],
 [data-user-id*="323104036066951168"] {
-   --user-background: url('https://i.imgur.com/bDhvhDt.png');
+   --user-background: url('https://i.imgur.com/5rr5zj2.gif');
 }
 
 /*-Atari-#0666*/
@@ -2197,13 +2197,6 @@
 [user_by_bdfdb*="635765555277725696"],
 [data-user-id*="635765555277725696"]{
   --user-background: url('https://media.giphy.com/media/9tx0gy37p7oXu/source.gif');
-}
-
-/*Curvu#0254*/
-
-[user_by_bdfdb*="323104036066951168"],
-[data-user-id*="323104036066951168"]{
-  --user-background: url('https://imgur.com/Pt57TAO');
 }
 
 /*izy#3266*/
@@ -2423,7 +2416,7 @@
 
 [user_by_bdfdb*="463885160450883606"],
 [data-user-id*="463885160450883606"]{
-  --user-background: url('https://i.imgur.com/n9eK8Jq.jpg'); 
+  --user-background: url('https://i.imgur.com/4IULNR1.jpg'); 
 }
 
 /*imnothurb#8286*/
@@ -2433,9 +2426,16 @@
   --user-background: url('https://cdn.discordapp.com/attachments/662111506254659615/747882438386122782/1665a7ae96ba9e767182d472c8f4f52e.png'); 
 }
 
-/*y_knot#3232*/
+/*Peachk#3232*/
 
 [user_by_bdfdb*="442806080171540481"],
 [data-user-id*="442806080171540481"]{
-  --user-background: url('https://i.imgur.com/bLvHcV0'); 
+  --user-background: url('https://i.imgur.com/bLvHcV0.gif'); 
+}
+
+/*f i j i w a t e r#0002*/
+
+[user_by_bdfdb*="442806080171540481"],
+[data-user-id*="442806080171540481"]{
+  --user-background: url('https://media1.tenor.com/images/2a1c7be9cccd3a8691092b6b7ffc81de/tenor.gif'); 
 }
