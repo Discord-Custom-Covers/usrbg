@@ -2439,3 +2439,10 @@
 [data-user-id*="442806080171540481"]{
   --user-background: url('https://media1.tenor.com/images/2a1c7be9cccd3a8691092b6b7ffc81de/tenor.gif'); 
 }
+
+/*geneva#0007/
+
+[user_by_bdfdb*="749864071255556167"],
+[data-user-id*="749864071255556167"] {
+	--user-background: url('https://media.giphy.com/media/Rl5JEocdk1jOgwYVcG/source.gif');
+}
