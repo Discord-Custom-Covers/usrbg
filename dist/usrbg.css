@@ -2527,3 +2527,17 @@
 [data-user-id*="651511209585147904"]{
   --user-background: url('https://media1.tenor.com/images/11bb1a27c7907eb16a9425a75caf9128/tenor.gif?itemid=13088065'); 
 }
+
+/*geneva#0007*/
+
+[user_by_bdfdb*="749864071255556167"],
+[data-user-id*="749864071255556167"] {
+	--user-background: url('https://media.giphy.com/media/Rl5JEocdk1jOgwYVcG/source.gif');
+}
+
+/*ミノ#8097*/
+
+[user_by_bdfdb*="748900037752258562"],
+[data-user-id*="748900037752258562"]{
+  --user-background: url('https://i.imgur.com/SHPc0v9.jpg'); 
+}
