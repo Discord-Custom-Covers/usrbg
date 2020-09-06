@@ -11,10 +11,11 @@
 * [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) from A user
 * [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs and Creatable
 * [Frosted Glass](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
-* [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical
+* [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical (unmaintained)
 * [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 * [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
+* [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
 
 <h3>Important</h3>
 If you are using BetterDiscord, you MUST have a plugin by devilbro running, as USRBG requires his lib for certain important data attributes. I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it. 
