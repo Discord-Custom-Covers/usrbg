@@ -2,9 +2,6 @@
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
-<h3>Important</h3>
-If you are using BetterDiscord, you MUST have a plugin by devilbro running, as USRBG requires his lib for certain important data attributes. I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it. 
-
 ![](https://i.imgur.com/yClqBoR.png)
 ## Known themes that have usrbg built-in:
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
@@ -19,6 +16,8 @@ If you are using BetterDiscord, you MUST have a plugin by devilbro running, as U
 * [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 
+<h3>Important</h3>
+If you are using BetterDiscord, you MUST have a plugin by devilbro running, as USRBG requires his lib for certain important data attributes. I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it. 
 
 <h3>Approved Request Locations</h3>
 <p>All requests are processed manually by a select few theme developers (as of right now). You should expect to wait a short amount of time before your background is added.
