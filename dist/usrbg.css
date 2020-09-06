@@ -2541,3 +2541,10 @@
 [data-user-id*="748900037752258562"]{
   --user-background: url('https://i.imgur.com/SHPc0v9.jpg'); 
 }
+
+/*Star#6865*/
+
+[user_by_bdfdb*="450099781331845120"],
+[data-user-id*="450099781331845120"]{
+  --user-background: url('https://media.discordapp.net/attachments/637399152464232469/741371576259182592/BUB.png'); 
+}
