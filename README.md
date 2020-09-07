@@ -2,11 +2,6 @@
 A database of custom user requested backgrounds designed for BetterDiscord and Powercord.
 Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.
 
-
-
-
-
-
 ## Importing the Database
 
 ```css
