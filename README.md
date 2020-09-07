@@ -2,10 +2,12 @@
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
-<h3>Importing the Database</h3>
-```
+### Importing the Database
+
+```css
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 ```
+
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
 ![](https://i.imgur.com/yClqBoR.png)
