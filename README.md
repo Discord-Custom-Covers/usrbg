@@ -1,6 +1,8 @@
 <h1 align="center">Usrbg</h1>
-A database of custom user requested backgrounds designed for BetterDiscord and Powercord.
-Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.
+<p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
+<p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
+
+![](https://i.imgur.com/yClqBoR.png)
 
 ## Importing the Database
 
@@ -10,7 +12,6 @@ Want to add a custom background system to your theme? Feel free to import or mod
 
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
-![](https://i.imgur.com/yClqBoR.png)
 ## Known themes that have usrbg built-in:
 * [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintained)
