@@ -36,4 +36,4 @@ All requests are processed manually by a select few theme developers (as of righ
 * [Black Box](https://discord.gg/TeRQEPb)
 * [A user's stuff](https://discord.gg/6jQ4qJV)
 
-All requests MUST be hosted on i.imgur.com or cdn.discordapp.com. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
+All requests MUST be hosted on i.imgur.com or cdn.discordapp.com, or unsplash.com. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
