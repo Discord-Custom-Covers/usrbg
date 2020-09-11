@@ -2284,6 +2284,13 @@
   --user-background: url('https://cdn.discordapp.com/attachments/694847222206169178/742150008517820506/5303a7bbb9e557623a177d31b08ae65a.gif'); 
 }
 
+/*Monkat#2534*/
+
+[user_by_bdfdb*="670159800063229962"],
+[data-user-id*="670159800063229962"]{
+  --user-background: url('https://cdn.discordapp.com/attachments/662103120402317352/740979049417146448/guy.gif'); 
+}
+
 /*Rage#0999*/
 
 [user_by_bdfdb*="741488992066994287"],
