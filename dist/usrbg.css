@@ -2052,6 +2052,7 @@
 [user_by_bdfdb*="373833473091436546"],
 [data-user-id*="373833473091436546"] {
 	--user-background: url('https://i.imgur.com/k88IhTk.gif');
+	--user-popout-position: left !important;
 } 
 
 /*Wumpus#0002*/
