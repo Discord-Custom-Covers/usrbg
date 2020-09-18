@@ -2566,3 +2566,10 @@
 [data-user-id*="245592600793317377"] {
    --user-background: url('https://cdn.discordapp.com/attachments/713729995595317279/755530754292711535/Starfield22.png');
 }
+
+/*sanana the skenana#8689*/
+
+[user_by_bdfdb*="326359466171826176"],
+[data-user-id*="326359466171826176"] {
+	--user-background: url('https://source.unsplash.com/featured/?{Food}');
+}
