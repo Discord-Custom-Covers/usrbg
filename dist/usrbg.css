@@ -1806,7 +1806,7 @@
 [user_by_bdfdb*="176861476970168321"],
 [data-user-id*="176861476970168321"] {
    --user-background: url('https://i.imgur.com/fpEFjUy.png');
-   background-position: left;
+   --user-popout-position:left !important;
 }
 
 /*rexay#8276*/
@@ -2541,5 +2541,28 @@
 
 [user_by_bdfdb*="371581535801049089"],
 [data-user-id*="371581535801049089"] {
-   --user-background: url('https://i.imgur.com/yUKJgg1.png');
+   --user-background: url('https://cdn.discordapp.com/attachments/753989109730639953/754325686650404984/spacegif.gif');
+}
+
+/*MasterMind#1313*/
+
+[user_by_bdfdb*="526906754680881172"],
+[data-user-id*="526906754680881172"] {
+   --user-background: url('https://i.imgur.com/hXCcfSP.gif');
+   --user-poopout-position:right !important;
+}
+
+/*mystic〥#0420*/
+
+[user_by_bdfdb*="466402997182660610"],
+[data-user-id*="466402997182660610"] {
+   --user-background: url('https://i.imgur.com/qLKU2db.gif');
+}
+
+
+/*Whippersnatch Pumpkinpatch#2008*/
+
+[user_by_bdfdb*="245592600793317377"],
+[data-user-id*="245592600793317377"] {
+   --user-background: url('https://cdn.discordapp.com/attachments/713729995595317279/755530754292711535/Starfield22.png');
 }
