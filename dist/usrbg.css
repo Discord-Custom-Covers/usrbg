@@ -2580,3 +2580,10 @@
 [data-user-id*="406888783120826380"] {
     --user-background: url('https://i.imgur.com/anQAdpU.png');
 }
+
+/*キム#5472*/
+
+[user_by_bdfdb*="724017110728179714"],
+[data-user-id*="724017110728179714"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/757231869111566386/757297733152538845/sapphire.png');
+}
