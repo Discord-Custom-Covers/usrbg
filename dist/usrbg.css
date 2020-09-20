@@ -2573,3 +2573,10 @@
 [data-user-id*="307316554805018624"] {
     --user-background: url('https://i.imgur.com/xcX1thu.gif');
 }
+
+/*botato#6883*/
+
+[user_by_bdfdb*="440990343899643943"],
+[data-user-id*="440990343899643943"] {
+    --user-background: url('https://i.imgur.com/Tb9PLs0.png');
+}
