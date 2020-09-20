@@ -2566,3 +2566,10 @@
 [data-user-id*="245592600793317377"] {
    --user-background: url('https://cdn.discordapp.com/attachments/713729995595317279/755530754292711535/Starfield22.png');
 }
+
+/*lucii#6018*/
+
+[user_by_bdfdb*="307316554805018624"],
+[data-user-id*="307316554805018624"] {
+    --user-background: url('https://i.imgur.com/xcX1thu.gif');
+}
