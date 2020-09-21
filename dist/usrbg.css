@@ -2594,3 +2594,10 @@
 [data-user-id*="751296221280469103"] {
     --user-background: url('https://i.imgur.com/wRmb3Sp.gif');
 }
+
+/*「Irgendjemand」#7541*/
+
+[user_by_bdfdb*="388326286512095243"],
+[data-user-id*="388326286512095243"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/715682938615890022/757645964692422756/a419fc5efdd22cdc7b3d008a326b3f2f.gif');
+}
