@@ -2587,3 +2587,10 @@
 [data-user-id*="724017110728179714"] {
     --user-background: url('https://cdn.discordapp.com/attachments/757231869111566386/757297733152538845/sapphire.png');
 }
+
+/*Femto#6059*/
+
+[user_by_bdfdb*="751296221280469103"],
+[data-user-id*="751296221280469103"] {
+    --user-background: url('https://i.imgur.com/wRmb3Sp.gif');
+}
