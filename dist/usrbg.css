@@ -2643,3 +2643,10 @@
 [data-user-id*="332500943256027146"] {
     --user-background: url('https://i.imgur.com/7HSya0W.gif');
 }
+
+/*RIDAI#7123*/
+
+[user_by_bdfdb*="131890875885289473"],
+[data-user-id*="131890875885289473"] {
+    --user-background: url('https://i.imgur.com/Wfeveoc.gif');
+}
