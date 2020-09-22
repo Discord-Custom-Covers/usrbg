@@ -2622,3 +2622,10 @@
 [data-user-id*="249705405372956672"] {
     --user-background: url('https://images.unsplash.com/photo-1515879218367-8466d910aaa4');
 }
+
+/*Foxtrot#4458*/
+
+[user_by_bdfdb*="742877425867816962"],
+[data-user-id*="742877425867816962"] {
+    --user-background: url('https://i.imgur.com/MVDMTdx.gif');
+}
