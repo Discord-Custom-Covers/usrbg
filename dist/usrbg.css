@@ -2615,3 +2615,10 @@
 [data-user-id*="757396559523741697"] {
     --user-background: url('https://i.imgur.com/dthCq4D.gif');
 }
+
+/*Cobular#5105*/
+
+[user_by_bdfdb*="249705405372956672"],
+[data-user-id*="249705405372956672"] {
+    --user-background: url('https://images.unsplash.com/photo-1515879218367-8466d910aaa4');
+}
