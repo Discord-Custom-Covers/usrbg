@@ -2629,3 +2629,10 @@
 [data-user-id*="742877425867816962"] {
     --user-background: url('https://i.imgur.com/MVDMTdx.gif');
 }
+
+/*botato#6883*/
+
+[user_by_bdfdb*="440990343899643943"],
+[data-user-id*="440990343899643943"] {
+    --user-background: url('https://i.imgur.com/Tb9PLs0.png');
+}
