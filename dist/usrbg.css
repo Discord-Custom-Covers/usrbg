@@ -2650,3 +2650,10 @@
 [data-user-id*="131890875885289473"] {
     --user-background: url('https://i.imgur.com/Wfeveoc.gif');
 }
+
+/*riko.dev maybe?#1457*/
+
+[user_by_bdfdb*="208223446583214080"],
+[data-user-id*="208223446583214080"] {
+    --user-background: url('https://i.imgur.com/ysJZKNF.jpg');
+}
