@@ -2650,3 +2650,10 @@
 [data-user-id*="131890875885289473"] {
     --user-background: url('https://i.imgur.com/Wfeveoc.gif');
 }
+
+/*Bourbon#2564*/
+
+[user_by_bdfdb*="464837070473527296"],
+[data-user-id*="464837070473527296"] {
+    --user-background: url('http://i.imgur.com/n1BEIWIh.gif');
+}
