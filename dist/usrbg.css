@@ -2657,3 +2657,10 @@
 [data-user-id*="464837070473527296"] {
     --user-background: url('http://i.imgur.com/n1BEIWIh.gif');
 }
+
+/*Larvey#0001*/
+
+[user_by_bdfdb*="245653078794174465"],
+[data-user-id*="245653078794174465"] {
+    --user-background: url('https://i.imgur.com/zhHMk2F.png');
+}
