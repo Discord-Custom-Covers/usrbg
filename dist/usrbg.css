@@ -2664,3 +2664,13 @@
 [data-user-id*="245653078794174465"] {
     --user-background: url('https://i.imgur.com/zhHMk2F.png');
 }
+
+/*Wolfkid#4125 & Helia#6218*/
+
+[user_by_bdfdb*="282978672711827456"],
+[data-user-id*="282978672711827456"],
+[user_by_bdfdb*="316965836571017231"],
+[data-user-id*="316965836571017231"] {
+    --user-background: url('https://i.imgur.com/H4u8J9R.jpg');
+}
+
