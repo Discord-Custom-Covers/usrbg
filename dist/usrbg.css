@@ -2664,3 +2664,10 @@
 [data-user-id*="245653078794174465"] {
     --user-background: url('https://i.imgur.com/zhHMk2F.png');
 }
+
+/*geneva#0058*/
+
+[user_by_bdfdb*="457805013474082817"],
+[data-user-id*="457805013474082817"] {
+    --user-background: url('https://i.imgur.com/wHViI2U.gif');
+}
