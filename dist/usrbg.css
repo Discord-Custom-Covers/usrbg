@@ -2664,3 +2664,10 @@
 [data-user-id*="245653078794174465"] {
     --user-background: url('https://i.imgur.com/zhHMk2F.png');
 }
+
+/*Klip#1337*/
+
+[user_by_bdfdb*="349312657658216450"],
+[data-user-id*="349312657658216450"] {
+    --user-background: url('https://i.imgur.com/Y6MDttL.gif');
+}
