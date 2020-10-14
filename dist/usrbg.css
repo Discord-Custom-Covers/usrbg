@@ -2664,3 +2664,10 @@
 [data-user-id*="245653078794174465"] {
     --user-background: url('https://i.imgur.com/zhHMk2F.png');
 }
+
+/*BotManager#3476*/
+
+[user_by_bdfdb*="102818856552132608"],
+[data-user-id*="102818856552132608"] {
+    --user-background: url('https://i.imgur.com/VTfQxlc.png');
+}
