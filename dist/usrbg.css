@@ -2671,3 +2671,10 @@
 [data-user-id*="632082248954282014"] {
     --user-background: url('https://i.imgur.com/7FXJsTQ.jpg');
 }
+
+/*BotManager#3476*/
+
+[user_by_bdfdb*="102818856552132608"],
+[data-user-id*="102818856552132608"] {
+    --user-background: url('https://i.imgur.com/VTfQxlc.png');
+}
