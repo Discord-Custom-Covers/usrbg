@@ -2678,3 +2678,10 @@
 [data-user-id*="102818856552132608"] {
     --user-background: url('https://i.imgur.com/VTfQxlc.png');
 }
+
+/*Wolfkid#4125*/
+
+[user_by_bdfdb*="282978672711827456"],
+[data-user-id*="282978672711827456"] {
+    --user-background: url('https://i.imgur.com/8eUnnIB.gif');
+}
