@@ -2706,3 +2706,10 @@
 [data-user-id*="217591419567603713"] {
     --user-background: url('https://cdn.discordapp.com/attachments/441223401705570304/766316808684044328/image.png');
 }
+
+/*11pixels#2004*/
+
+[user_by_bdfdb*="211270674482724864"],
+[data-user-id*="211270674482724864"] {
+    --user-background: url('https://i.imgur.com/5OTRj9L.png');
+}
