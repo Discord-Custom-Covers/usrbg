@@ -2699,3 +2699,10 @@
 [data-user-id*="189864625670586370"] {
     --user-background: url('https://i.imgur.com/CbZpsGQ.gif');
 }
+
+/*boustrophedonLanguage#8008*/
+
+[user_by_bdfdb*="217591419567603713"],
+[data-user-id*="217591419567603713"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/441223401705570304/766316808684044328/image.png');
+}
