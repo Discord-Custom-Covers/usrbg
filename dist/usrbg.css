@@ -2720,3 +2720,10 @@
 [data-user-id*="384342022955466753"] {
     --user-background: url('https://i.imgur.com/sF6pB74.gif');
 }
+
+/*Taikutsunan#6781*/
+
+[user_by_bdfdb*="334469240394481667"],
+[data-user-id*="334469240394481667"] {
+    --user-background: url('https://i.imgur.com/Zdojm22.gif');
+}
