@@ -2741,3 +2741,10 @@
 [data-user-id*="254281946828374016"] {
     --user-background: url('https://i.imgur.com/yVFXUiQ.gif');
 }
+
+/*🎃 Amply. 🎃#5996*/
+
+[user_by_bdfdb*="383919883341266945"],
+[data-user-id*="383919883341266945"] {
+    --user-background: url('https://i.imgur.com/TUu5aeE.jpg');
+}
