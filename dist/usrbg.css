@@ -2748,3 +2748,10 @@
 [data-user-id*="383919883341266945"] {
     --user-background: url('https://i.imgur.com/TUu5aeE.jpg');
 }
+
+/*Highwynde#4087*/
+
+[user_by_bdfdb*="95657348390977536"],
+[data-user-id*="95657348390977536"] {
+    --user-background: url('https://i.imgur.com/V01CqI1.gif');
+}
