@@ -2755,3 +2755,10 @@
 [data-user-id*="95657348390977536"] {
     --user-background: url('https://i.imgur.com/V01CqI1.gif');
 }
+
+/*Lane#9992*/
+
+[user_by_bdfdb*="764495937095204895"],
+[data-user-id*="764495937095204895"] {
+    --user-background: url('https://i.imgur.com/UAeXpnl.jpg');
+}
