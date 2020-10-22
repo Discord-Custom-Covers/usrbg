@@ -2783,3 +2783,10 @@
 [data-user-id*="286115886182432768"] {
     --user-background: url('https://i.imgur.com/WlUviLL.png');
 }
+
+/*Nowack#9942*/
+
+[user_by_bdfdb*="711568162612838410"],
+[data-user-id*="711568162612838410"] {
+    --user-background: url('https://i.imgur.com/AUSflxK.gif');
+}
