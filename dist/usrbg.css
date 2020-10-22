@@ -2790,3 +2790,10 @@
 [data-user-id*="711568162612838410"] {
     --user-background: url('https://i.imgur.com/AUSflxK.gif');
 }
+
+/*「ディラン」 ✿#9397*/
+
+[user_by_bdfdb*="438691119740747777"],
+[data-user-id*="438691119740747777"] {
+    --user-background: url('https://i.imgur.com/I3LlV8Q.gif');
+}
