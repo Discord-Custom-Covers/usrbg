@@ -2797,3 +2797,9 @@
 [data-user-id*="438691119740747777"] {
     --user-background: url('https://i.imgur.com/I3LlV8Q.gif');
 }
+
+/* Spooky WhiteRabbit#8248 */
+[user_by_bdfdb*="271787171889807360"],
+[data-user-id*="271787171889807360"] {
+    --user-background: url('https://i.imgur.com/SJIi8lP.png');
+}
