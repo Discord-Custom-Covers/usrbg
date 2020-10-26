@@ -2816,3 +2816,10 @@
 [data-user-id*="208698909718085633"] {
     --user-background: url('https://i.imgur.com/P2cMOOo.gif');
 }
+
+/*sanana the skenana#8689*/
+
+[user_by_bdfdb*="326359466171826176"],
+[data-user-id*="326359466171826176"] {
+    --user-background: url('https://images.unsplash.com/photo-1521235471678-c093499ca824');
+}
