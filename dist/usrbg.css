@@ -2823,3 +2823,10 @@
 [data-user-id*="326359466171826176"] {
     --user-background: url('https://images.unsplash.com/photo-1521235471678-c093499ca824');
 }
+
+/*Tunio#0777*/
+
+[user_by_bdfdb*="162960199970193408"],
+[data-user-id*="162960199970193408"] {
+    --user-background: url('https://i.imgur.com/AUSflxK.gif');
+}
