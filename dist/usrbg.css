@@ -2809,3 +2809,10 @@
 [data-user-id*="699029021563945010"] {
     --user-background: url('https://cdn.discordapp.com/attachments/699067700156039248/770271963230371860/1563926643347hi.png');
 }
+
+/*talon#0001*/
+
+[user_by_bdfdb*="208698909718085633"],
+[data-user-id*="208698909718085633"] {
+    --user-background: url('https://i.imgur.com/P2cMOOo.gif');
+}
