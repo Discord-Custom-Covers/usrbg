@@ -2837,3 +2837,10 @@
 [data-user-id*="703760464517005354"] {
     --user-background: url('https://i.imgur.com/NDZYhe3.jpg');
 }
+
+/*jule#3449*/
+
+[user_by_bdfdb*="718293346870624296"],
+[data-user-id*="718293346870624296"] {
+    --user-background: url('https://i.imgur.com/yuPGA3z.gif');
+}
