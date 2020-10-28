@@ -2866,3 +2866,10 @@
 [data-user-id*="756236571447001178"] {
     --user-background: url('https://i.imgur.com/Sq5PJH0.gif');
 }
+
+/*Pyx#5713*/
+
+[user_by_bdfdb*="336810212650385408"],
+[data-user-id*="336810212650385408"] {
+    --user-background: url('https://i.imgur.com/3ew3CEY.jpg');
+}
