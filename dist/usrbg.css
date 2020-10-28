@@ -2859,3 +2859,10 @@
 [data-user-id*="366255746645622784"] {
     --user-background: url('https://i.imgur.com/H3R76Xv.mp4');
 }
+
+/*Fandom#1234*/
+
+[user_by_bdfdb*="756236571447001178"],
+[data-user-id*="756236571447001178"] {
+    --user-background: url('https://i.imgur.com/Sq5PJH0.gif');
+}
