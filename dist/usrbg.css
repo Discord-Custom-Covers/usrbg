@@ -2873,3 +2873,10 @@
 [data-user-id*="336810212650385408"] {
     --user-background: url('https://i.imgur.com/3ew3CEY.jpg');
 }
+
+/*ex#0006*/
+
+[user_by_bdfdb*="552603413985361920"],
+[data-user-id*="552603413985361920"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/766726130228920320/771249734480166922/MOSHED-2020-10-28-22-50-30.gif');
+}
