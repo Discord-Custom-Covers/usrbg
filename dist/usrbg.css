@@ -2894,3 +2894,10 @@
 [data-user-id*="766358250723344424"] {
     --user-background: url('https://i.imgur.com/6WBLWVj.jpg');
 }
+
+/*!legacy#9999*/
+
+[user_by_bdfdb*="605181773088948234"],
+[data-user-id*="605181773088948234"] {
+    --user-background: url('https://i.imgur.com/P2cMOOo.gif');
+}
