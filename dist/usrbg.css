@@ -2880,3 +2880,10 @@
 [data-user-id*="552603413985361920"] {
     --user-background: url('https://cdn.discordapp.com/attachments/766726130228920320/771249734480166922/MOSHED-2020-10-28-22-50-30.gif');
 }
+
+/*Armada#3334*/
+
+[user_by_bdfdb*="203994450467225600"],
+[data-user-id*="203994450467225600"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/552667994548076544/771125959897120778/peek_o_the_week.jpg');
+}
