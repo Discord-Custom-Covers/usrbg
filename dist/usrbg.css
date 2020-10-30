@@ -2901,3 +2901,10 @@
 [data-user-id*="605181773088948234"] {
     --user-background: url('https://i.imgur.com/P2cMOOo.gif');
 }
+
+/*Redstone Flux#0666*/
+
+[user_by_bdfdb*="438418848811581452"],
+[data-user-id*="438418848811581452"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/771819911373914112/aro-ace-clean.png');
+}
