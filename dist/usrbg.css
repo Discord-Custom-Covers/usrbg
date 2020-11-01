@@ -2915,3 +2915,10 @@
 [data-user-id*="304380368751165450"] {
     --user-background: url('https://cdn.discordapp.com/attachments/759083983929212979/772263335206715432/gyro.gif');
 }
+
+/*Brandon Giesing#3939*/
+
+[user_by_bdfdb*="269743854276575234"],
+[data-user-id*="269743854276575234"] {
+    --user-background: url('https://i.imgur.com/jact62S.png');
+}
