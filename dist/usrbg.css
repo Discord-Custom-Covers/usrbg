@@ -2908,3 +2908,10 @@
 [data-user-id*="438418848811581452"] {
     --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/771819911373914112/aro-ace-clean.png');
 }
+
+/*Dredd#1144*/
+
+[user_by_bdfdb*="304380368751165450"],
+[data-user-id*="304380368751165450"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/759083983929212979/772263335206715432/gyro.gif');
+}
