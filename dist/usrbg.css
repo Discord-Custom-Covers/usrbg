@@ -2922,3 +2922,10 @@
 [data-user-id*="269743854276575234"] {
     --user-background: url('https://i.imgur.com/jact62S.png');
 }
+
+/*Aymeric#7822*/
+
+[user_by_bdfdb*="610980705643659284"],
+[data-user-id*="610980705643659284"] {
+    --user-background: url('https://i.imgur.com/I3LlV8Q.gif');
+}
