@@ -2936,3 +2936,10 @@
 [data-user-id*="266613136403070978"] {
     --user-background: url('https://i.imgur.com/0wiedEX.gif');
 }
+
+/*Voxel#8210*/
+
+[user_by_bdfdb*="123975424282853377"],
+[data-user-id*="123975424282853377"] {
+    --user-background: url('https://i.imgur.com/kTQmXHU.jpg');
+}
