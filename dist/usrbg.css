@@ -2929,3 +2929,10 @@
 [data-user-id*="610980705643659284"] {
     --user-background: url('https://i.imgur.com/I3LlV8Q.gif');
 }
+
+/*DELUUXE#1608*/
+
+[user_by_bdfdb*="266613136403070978"],
+[data-user-id*="266613136403070978"] {
+    --user-background: url('https://i.imgur.com/0wiedEX.gif');
+}
