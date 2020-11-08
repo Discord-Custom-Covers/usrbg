@@ -2943,3 +2943,10 @@
 [data-user-id*="123975424282853377"] {
     --user-background: url('https://i.imgur.com/kTQmXHU.jpg');
 }
+
+/*Tyzze /グレゴワル#5472*/
+
+[user_by_bdfdb*="349512889666895882"],
+[data-user-id*="349512889666895882"] {
+    --user-background: url('https://i.imgur.com/bd9hwlN.gif');
+}
