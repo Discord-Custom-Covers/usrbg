@@ -2950,3 +2950,10 @@
 [data-user-id*="259660889345622026"] {
     --user-background: url('https://cdn.discordapp.com/attachments/766726130228920320/771249734480166922/MOSHED-2020-10-28-22-50-30.gif');
 }
+
+/*ignacio#1337*/
+
+[user_by_bdfdb*="773366384104570901"],
+[data-user-id*="773366384104570901"] {
+    --user-background: url('https://i.imgur.com/AUSflxK.gif');
+}
