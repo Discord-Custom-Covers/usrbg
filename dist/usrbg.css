@@ -3027,3 +3027,9 @@
 [data-user-id*="152290837622030336"] {
     --user-background: url('https://cdn.discordapp.com/attachments/692304532360790016/776372978618728448/tumblr_pajdpo0LR01voj2s0o1_1280.png');
 }
+
+/* Relapse#3725 */
+[user_by_bdfdb*="772825397796667413"],
+[data-user-id*="772825397796667413"] {
+	--user-background: url('https://cdn.discordapp.com/attachments/727722358303096843/776820407738695730/newrelapsegif.gif');
+}
