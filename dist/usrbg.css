@@ -3033,3 +3033,10 @@
 [data-user-id*="772825397796667413"] {
 	--user-background: url('https://cdn.discordapp.com/attachments/727722358303096843/776820407738695730/newrelapsegif.gif');
 }
+
+/*Flond#0002*/
+
+[user_by_bdfdb*="500634902291546123"],
+[data-user-id*="500634902291546123"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/711343659563483247/777159383305945118/avatar_77664.gif');
+}
