@@ -3096,3 +3096,10 @@
 [data-user-id*="488954369769734146"] {
     --user-background: url('https://i.imgur.com/gaxdbB3.gif');
 }
+
+/*'Łord '78#0001*/
+
+[user_by_bdfdb*="650272869099765772"],
+[data-user-id*="650272869099765772"] {
+    --user-background: url('https://i.imgur.com/gaxdbB3.gif');
+}
