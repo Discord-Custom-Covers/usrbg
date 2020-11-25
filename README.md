@@ -31,7 +31,6 @@ If you are using BetterDiscord, you MUST have a plugin by devilbro running, as U
 
 ## Approved Request Locations
 All requests are processed manually by a select few theme developers (as of right now). You should expect to wait a short amount of time before your background is added.
-(note that you may also request a background through a pull request on this repo)
 
 * [Black Box](https://discord.gg/TeRQEPb)
 * [A user's stuff](https://discord.gg/6jQ4qJV)
