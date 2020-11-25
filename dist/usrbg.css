@@ -3124,3 +3124,10 @@
 [data-user-id*="247137071620292609"] {
     --user-background: url('https://cdn.discordapp.com/attachments/713128064610992298/777677332004732928/82298043_p0.png');
 }
+
+/*toned#0001*/
+
+[user_by_bdfdb*="239639119901360128"],
+[data-user-id*="239639119901360128"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/766318718300586015/775890851876175922/9a0985904bf1cca3be1a90010fa81ff1.gif');
+}
