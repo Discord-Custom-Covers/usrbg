@@ -3117,3 +3117,10 @@
 [data-user-id*="708483360204259348"] {
     --user-background: url('https://i.imgur.com/8lxGxBD.gif');
 }
+
+/*CyrenArkade#7974*/
+
+[user_by_bdfdb*="247137071620292609"],
+[data-user-id*="247137071620292609"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/713128064610992298/777677332004732928/82298043_p0.png');
+}
