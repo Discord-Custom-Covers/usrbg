@@ -3187,3 +3187,10 @@
 [data-user-id*="391850585734905857"] {
     --user-background: url('https://i.imgur.com/QiJrfdm.jpg');
 }
+
+/*Fuzer#0001*/
+
+[user_by_bdfdb*="237199505013997569"],
+[data-user-id*="237199505013997569"] {
+    --user-background: url('https://i.imgur.com/JFlZVob.gif');
+}
