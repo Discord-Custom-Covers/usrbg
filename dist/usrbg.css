@@ -3138,3 +3138,10 @@
 [data-user-id*="254980963845537794"] {
     --user-background: url('https://cdn.discordapp.com/attachments/732751624182693888/785198047213912084/70239a4bcd857fda808ce38a313ed332571f26832e8e3b4761c2bf70b9fd3d34_1.gif.gif');
 }
+
+/*Minori#0001*/
+
+[user_by_bdfdb*="582195041284653086"],
+[data-user-id*="582195041284653086"] {
+    --user-background: url('https://i.imgur.com/6g2zz7j.png');
+}
