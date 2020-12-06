@@ -3131,3 +3131,10 @@
 [data-user-id*="239639119901360128"] {
     --user-background: url('https://cdn.discordapp.com/attachments/766318718300586015/775890851876175922/9a0985904bf1cca3be1a90010fa81ff1.gif');
 }
+
+/*JustLex#4827*/
+
+[user_by_bdfdb*="254980963845537794"],
+[data-user-id*="254980963845537794"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/732751624182693888/785198047213912084/70239a4bcd857fda808ce38a313ed332571f26832e8e3b4761c2bf70b9fd3d34_1.gif.gif');
+}
