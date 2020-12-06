@@ -3159,3 +3159,10 @@
 [data-user-id*="402168454855000066"] {
     --user-background: url('https://cdn.discordapp.com/attachments/557231790398636065/784406897721475072/9a04b75634a883c479003200f4cab5709c47aa61r5-320-180_00.gif');
 }
+
+/*void#1000*/
+
+[user_by_bdfdb*="579731384868798464"],
+[data-user-id*="579731384868798464"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/750863072566050817/783815586211168266/ueVK30FFql6o.gif');
+}
