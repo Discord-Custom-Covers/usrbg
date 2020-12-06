@@ -3145,3 +3145,10 @@
 [data-user-id*="582195041284653086"] {
     --user-background: url('https://i.imgur.com/6g2zz7j.png');
 }
+
+/*Shy#8342*/
+
+[user_by_bdfdb*="459498565371166720"],
+[data-user-id*="459498565371166720"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/784446639850520610/7zhR.png');
+}
