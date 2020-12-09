@@ -3201,3 +3201,10 @@
 [data-user-id*="597072695875600385"] {
     --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/770134031609102336/debora-pilati-dOG0z4-gqp0-unsplash_modded.png');
 }
+
+/*snapperito#0001*/
+
+[user_by_bdfdb*="431883840483491850"],
+[data-user-id*="431883840483491850"] {
+    --user-background: url('https://i.imgur.com/uw1T1dw.jpeg');
+}
