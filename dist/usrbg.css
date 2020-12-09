@@ -3194,3 +3194,10 @@
 [data-user-id*="237199505013997569"] {
     --user-background: url('https://i.imgur.com/JFlZVob.gif');
 }
+
+/*Euphorianic  ✔#0296*/
+
+[user_by_bdfdb*="597072695875600385"],
+[data-user-id*="597072695875600385"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/770134031609102336/debora-pilati-dOG0z4-gqp0-unsplash_modded.png');
+}
