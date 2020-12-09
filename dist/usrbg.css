@@ -3222,3 +3222,10 @@
 [data-user-id*="465668689920917534"] {
     --user-background: url('https://cdn.discordapp.com/attachments/748714750463967333/786002344198275072/usrbg.gif');
 }
+
+/*Mrdizzy14#5845*/
+
+[user_by_bdfdb*="294923397916393472"],
+[data-user-id*="294923397916393472"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/602580109396017153/786040479489720320/Expand.gif');
+}
