@@ -3208,3 +3208,10 @@
 [data-user-id*="431883840483491850"] {
     --user-background: url('https://i.imgur.com/uw1T1dw.jpeg');
 }
+
+/*Doqabi#1997*/
+
+[user_by_bdfdb*="239393343740706818"],
+[data-user-id*="239393343740706818"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/732751624182693888/785198047213912084/70239a4bcd857fda808ce38a313ed332571f26832e8e3b4761c2bf70b9fd3d34_1.gif.gif');
+}
