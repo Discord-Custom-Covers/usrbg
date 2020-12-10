@@ -3229,3 +3229,10 @@
 [data-user-id*="294923397916393472"] {
     --user-background: url('https://cdn.discordapp.com/attachments/602580109396017153/786040479489720320/Expand.gif');
 }
+
+/*ItsRubix#2321*/
+
+[user_by_bdfdb*="298600900606296066"],
+[data-user-id*="298600900606296066"] {
+    --user-background: url('https://i.imgur.com/TUp4w8x.png');
+}
