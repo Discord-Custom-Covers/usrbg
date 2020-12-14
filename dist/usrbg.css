@@ -3251,3 +3251,10 @@
     --user-background: url('https://i.imgur.com/LJT5Di7.png');
     --user-popout-position: left !important;
 }
+
+/*lux#4492*/
+
+[user_by_bdfdb*="315261361095442442"],
+[data-user-id*="315261361095442442"] {
+    --user-background: url('https://i.imgur.com/RPGO4RY.gif');
+}
