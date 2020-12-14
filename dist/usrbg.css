@@ -3243,3 +3243,11 @@
 [data-user-id*="558553662910234625"] {
     --user-background: url('https://cdn.discordapp.com/attachments/280092803587899392/787627141888999464/--3052132.gif');
 }
+
+/*CKHO#0001*/
+
+[user_by_bdfdb*="354566301714219031"],
+[data-user-id*="354566301714219031"] {
+    --user-background: url('https://i.imgur.com/LJT5Di7.png');
+    --user-popout-position: left !important;
+}
