@@ -3236,3 +3236,10 @@
 [data-user-id*="219128351481266176"] {
     --user-background: url('https://i.imgur.com/rfRxncs.jpeg');
 }
+
+/*Kuro#0203*/
+
+[user_by_bdfdb*="558553662910234625"],
+[data-user-id*="558553662910234625"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/280092803587899392/787627141888999464/--3052132.gif');
+}
