@@ -3056,6 +3056,13 @@
     --user-background: url('https://cdn.discordapp.com/attachments/770416998420971542/778919696270491658/cute.gif');
 }
 
+/* AzE.ExE#4291 */
+
+[user_by_bdfdb="340841782180839424"],
+[data-user-id="340841782180839424"] {
+    --user-background: url('https://i.imgur.com/dDrMuPA.gif');
+}
+
 /*a/sweqtyy#0001*/
 
 [user_by_bdfdb*="271387672986124289"],
