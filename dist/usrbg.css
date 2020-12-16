@@ -3273,3 +3273,10 @@
 [data-user-id*="595780919344758799"] {
     --user-background: url('https://i.imgur.com/lRn30LO.gif');
 }
+
+/*Euphorianic  ✔#0296*/
+
+[user_by_bdfdb*="597072695875600385"],
+[data-user-id*="597072695875600385"] {
+    --user-background: url('https://i.imgur.com/MdwE7TK.gif');
+}
