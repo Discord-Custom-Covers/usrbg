@@ -3266,3 +3266,10 @@
 [data-user-id*="396949014245015562"] {
     --user-background: url('https://cdn.discordapp.com/attachments/723023083421696002/788693066201694208/These-8-Bit-GIFs-Perfectly-Capture-the-Subtle-Movements-in-.gif');
 }
+
+/*Kowalski#1700*/
+
+[user_by_bdfdb*="244519424562823168"],
+[data-user-id*="244519424562823168"] {
+    --user-background: url('https://i.imgur.com/YmLg4VY.gif');
+}
