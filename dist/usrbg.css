@@ -3266,3 +3266,10 @@
 [data-user-id*="244519424562823168"] {
     --user-background: url('https://i.imgur.com/YmLg4VY.gif');
 }
+
+/*saratonin#0002*/
+
+[user_by_bdfdb*="595780919344758799"],
+[data-user-id*="595780919344758799"] {
+    --user-background: url('https://i.imgur.com/lRn30LO.gif');
+}
