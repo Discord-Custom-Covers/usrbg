@@ -3252,3 +3252,10 @@
 [data-user-id*="685289305056477188"] {
     --user-background: url('https://i.imgur.com/GifaT5c.gif');
 }
+
+/*Flaiboy#7903*/
+
+[user_by_bdfdb*="299944995241066496"],
+[data-user-id*="299944995241066496"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/556861153637302272/772929671066681404/ezgif.com-crop_4.gif');
+}
