@@ -3280,3 +3280,10 @@
 [data-user-id*="597072695875600385"] {
     --user-background: url('https://i.imgur.com/MdwE7TK.gif');
 }
+
+/*Platinum#1240*/
+
+[user_by_bdfdb*="714193746878791801"],
+[data-user-id*="714193746878791801"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/718217466127319151/728389728243679273/platinumbanner.png');
+}
