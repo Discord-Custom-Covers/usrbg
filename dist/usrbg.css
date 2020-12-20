@@ -3301,3 +3301,10 @@
 [data-user-id*="518515953034592257"] {
     --user-background: url('https://cdn.discordapp.com/attachments/556861153637302272/772929671066681404/ezgif.com-crop_4.gif');
 }
+
+/*Klip#1337*/
+
+[user_by_bdfdb*="349312657658216450"],
+[data-user-id*="349312657658216450"] {
+    --user-background: url('https://i.imgur.com/yVmJqd7.gif');
+}
