@@ -3350,3 +3350,10 @@
 [data-user-id*="657712948097318912"] {
     --user-background: url('https://cdn.discordapp.com/attachments/755611643068809238/789288706958688286/2020-12-17_16.45.48.png');
 }
+
+/*Fujisawa Leah#6009*/
+
+[user_by_bdfdb*="256422547556401152"],
+[data-user-id*="256422547556401152"] {
+    --user-background: url('https://i.imgur.com/FkDmANZ.gif');
+}
