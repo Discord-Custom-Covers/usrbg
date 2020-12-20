@@ -3294,3 +3294,10 @@
 [data-user-id*="559031689163309066"] {
     --user-background: url('https://cdn.discordapp.com/attachments/745306672867836037/789230462644125716/cf8be9d73a9f97f2.png');
 }
+
+/*DragonFire#5404*/
+
+[user_by_bdfdb*="518515953034592257"],
+[data-user-id*="518515953034592257"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/556861153637302272/772929671066681404/ezgif.com-crop_4.gif');
+}
