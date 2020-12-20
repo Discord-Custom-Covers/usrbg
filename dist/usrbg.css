@@ -3315,3 +3315,10 @@
 [data-user-id*="459448297858400256"] {
     --user-background: url('https://i.imgur.com/CYT6aqK.gif');
 }
+
+/*Куzа#4605*/
+
+[user_by_bdfdb*="220584715265114113"],
+[data-user-id*="220584715265114113"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/639664211592478720/789895319105699871/standard.gif');
+}
