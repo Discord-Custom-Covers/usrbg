@@ -3329,3 +3329,10 @@
 [data-user-id*="610945092504780823"] {
     --user-background: url('https://i.imgur.com/kY0A7O3.gif');
 }
+
+/*𝘽𝙚𝙧𝙗#8327*/
+
+[user_by_bdfdb*="269893876100104192"],
+[data-user-id*="269893876100104192"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/789731665190060043/discord.png');
+}
