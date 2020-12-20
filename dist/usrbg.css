@@ -3322,3 +3322,10 @@
 [data-user-id*="220584715265114113"] {
     --user-background: url('https://cdn.discordapp.com/attachments/639664211592478720/789895319105699871/standard.gif');
 }
+
+/*It's Rad, Not Red#0001*/
+
+[user_by_bdfdb*="610945092504780823"],
+[data-user-id*="610945092504780823"] {
+    --user-background: url('https://i.imgur.com/kY0A7O3.gif');
+}
