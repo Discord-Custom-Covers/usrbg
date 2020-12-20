@@ -3336,3 +3336,10 @@
 [data-user-id*="269893876100104192"] {
     --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/789731665190060043/discord.png');
 }
+
+/*Mrdizzy14#5845*/
+
+[user_by_bdfdb*="294923397916393472"],
+[data-user-id*="294923397916393472"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/602580109396017153/787166989495173150/bears.gif');
+}
