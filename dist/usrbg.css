@@ -3364,3 +3364,10 @@
 [data-user-id*="671487110825508936"] {
     --user-background: url('https://i.imgur.com/QWIW2iY.gif');
 }
+
+/*Unavy#6666*/
+
+[user_by_bdfdb*="559031689163309066"],
+[data-user-id*="559031689163309066"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/747803405094748291/790630332944744458/f16fedc86686146624897737cf4338d8.png');
+}
