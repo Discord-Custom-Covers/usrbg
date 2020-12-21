@@ -3350,3 +3350,10 @@
 [data-user-id*="597072695875600385"] {
     --user-background: url('https://i.imgur.com/6qDYdJL.gif');
 }
+
+/*Kuro#0203*/
+
+[user_by_bdfdb*="558553662910234625"],
+[data-user-id*="558553662910234625"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/787393127484096565/790545001260122132/artworks-000457284423-s11yyn-t500x500.jpg');
+}
