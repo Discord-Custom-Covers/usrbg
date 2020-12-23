@@ -3371,3 +3371,10 @@
 [data-user-id*="145927037377314816"] {
     --user-background: url('https://i.imgur.com/HVXdz7f.gif');
 }
+
+/*soap#3958*/
+
+[user_by_bdfdb*="264110118092668929"],
+[data-user-id*="264110118092668929"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/594588710708969473/791081218388131920/trans_flag_wood_1.png');
+}
