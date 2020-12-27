@@ -3385,3 +3385,10 @@
 [data-user-id*="597072695875600385"] {
     --user-background: url('https://i.imgur.com/eWP9fV9.png');
 }
+
+/*vossey#9914*/
+
+[user_by_bdfdb*="677773364345044992"],
+[data-user-id*="677773364345044992"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/739187595413815316/778012208013508648/tearsinrain.gif');
+}
