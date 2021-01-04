@@ -3441,3 +3441,10 @@
 [data-user-id*="523511521741897728"] {
     --user-background: url('https://i.imgur.com/Zdojm22.gif');
 }
+
+/*forcast#2727*/
+
+[user_by_bdfdb*="517055651604856885"],
+[data-user-id*="517055651604856885"] {
+    --user-background: url('https://i.imgur.com/yVmJqd7.gif');
+}
