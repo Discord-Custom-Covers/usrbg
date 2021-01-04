@@ -3420,3 +3420,10 @@
 [data-user-id*="704807075011887155"] {
     --user-background: url('https://i.imgur.com/jZYkLDi.gif');
 }
+
+/*AlexVeeBee#4821*/
+
+[user_by_bdfdb*="166599852799557632"],
+[data-user-id*="166599852799557632"] {
+    --user-background: url('https://i.imgur.com/B1zq3t2.png');
+}
