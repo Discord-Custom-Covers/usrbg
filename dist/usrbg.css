@@ -3455,3 +3455,10 @@
 [data-user-id*="547762448082665472"] {
     --user-background: url('https://i.imgur.com/yVmJqd7.gif');
 }
+
+/*Dark Falz [Cheren]#6702*/
+
+[user_by_bdfdb*="195610668177555457"],
+[data-user-id*="195610668177555457"] {
+    --user-background: url('https://i.imgur.com/qKpYzom.gif');
+}
