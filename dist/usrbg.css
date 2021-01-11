@@ -3518,3 +3518,10 @@
 [data-user-id*="630062119915880448"] {
     --user-background: url('https://i.imgur.com/P3Yp7z9.gif');
 }
+
+/*Dork#7407*/
+
+[user_by_bdfdb*="710620127804260384"],
+[data-user-id*="710620127804260384"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
