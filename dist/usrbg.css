@@ -3532,3 +3532,10 @@
 [data-user-id*="434521295020097546"] {
     --user-background: url('https://i.imgur.com/Zdojm22.gif');
 }
+
+/*Hitman#6969*/
+
+[user_by_bdfdb*="687048780809240598"],
+[data-user-id*="687048780809240598"] {
+    --user-background: url('https://i.imgur.com/PV3Txh5.gifv');
+}
