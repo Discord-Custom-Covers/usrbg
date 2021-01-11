@@ -3504,3 +3504,10 @@
 [data-user-id*="81627665794072576"] {
     --user-background: url('https://i.imgur.com/fyN1VAp.gif');
 }
+
+/*Twizzer#0001*/
+
+[user_by_bdfdb*="221049339689172992"],
+[data-user-id*="221049339689172992"] {
+    --user-background: url('https://i.imgur.com/wtP6b2L.gif');
+}
