@@ -3462,3 +3462,10 @@
 [data-user-id*="195610668177555457"] {
     --user-background: url('https://i.imgur.com/qKpYzom.gif');
 }
+
+/*Monster-X#3379*/
+
+[user_by_bdfdb*="652491625142026241"],
+[data-user-id*="652491625142026241"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
