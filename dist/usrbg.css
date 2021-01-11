@@ -3511,3 +3511,10 @@
 [data-user-id*="221049339689172992"] {
     --user-background: url('https://i.imgur.com/wtP6b2L.gif');
 }
+
+/*Jelag#9998*/
+
+[user_by_bdfdb*="630062119915880448"],
+[data-user-id*="630062119915880448"] {
+    --user-background: url('https://i.imgur.com/P3Yp7z9.gif');
+}
