@@ -3539,3 +3539,10 @@
 [data-user-id*="221565509915639808"] {
     --user-background: url('https://i.imgur.com/I0Jyeap.jpg');
 }
+
+/*itsaheadshot#8309*/
+
+[user_by_bdfdb*="313756214268002305"],
+[data-user-id*="313756214268002305"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
