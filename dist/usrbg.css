@@ -3469,3 +3469,10 @@
 [data-user-id*="652491625142026241"] {
     --user-background: url('https://i.imgur.com/NBhbJHx.gif');
 }
+
+/*Да#6666*/
+
+[user_by_bdfdb*="793153286500646952"],
+[data-user-id*="793153286500646952"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/793154841132269608/797275769922650122/e05bb832fbfb05985af664bba9a9ff32.gif');
+}
