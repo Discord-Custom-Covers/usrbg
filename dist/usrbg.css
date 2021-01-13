@@ -3602,3 +3602,12 @@
 [data-user-id*="647480386577760256"] {
     --user-background: url('https://i.imgur.com/GifaT5c.gif');
 }
+
+/*P1NK.ENLUKA#1854 and Enluka#1586*/
+
+[user_by_bdfdb*="106431546944159744"],
+[data-user-id*="106431546944159744"],
+[user_by_bdfdb*="206109132707594241"],
+[data-user-id*="206109132707594241"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/282140104548548608/798973219137912892/initiald2.gif');
+}
