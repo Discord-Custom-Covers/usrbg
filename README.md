@@ -13,7 +13,6 @@
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
 ## Known themes that have usrbg built-in:
-* [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintained)
 * [Basic Background](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground) from DevilBro
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
