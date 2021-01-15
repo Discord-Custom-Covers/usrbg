@@ -3546,3 +3546,12 @@
 [data-user-id*="313756214268002305"] {
     --user-background: url('https://i.imgur.com/NBhbJHx.gif');
 }
+
+/*Keanu#2871 and keanucode#7888*/
+
+[user_by_bdfdb*="465662909645848577"],
+[data-user-id*="465662909645848577"],
+[user_by_bdfdb*="717352467280691331"],
+[data-user-id*="717352467280691331"]{
+	--user-background: url('https://i.imgur.com/9ULPQG3.png');
+}
