@@ -3588,3 +3588,10 @@
 [data-user-id*="417798132206927893"] {
     --user-background: url('https://i.imgur.com/7etElHN.gif');
 }
+
+/*samie#1337*/
+
+[user_by_bdfdb*="336250337075658752"],
+[data-user-id*="336250337075658752"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/775874408408416276/798611801772261426/image0.jpg');
+}
