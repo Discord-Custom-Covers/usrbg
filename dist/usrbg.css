@@ -3546,3 +3546,10 @@
 [data-user-id*="313756214268002305"] {
     --user-background: url('https://i.imgur.com/NBhbJHx.gif');
 }
+
+/*Hayes#0666*/
+
+[user_by_bdfdb*="227042442107551745"],
+[data-user-id*="227042442107551745"] {
+    --user-background: url('https://i.imgur.com/irGhMIO.jpg');
+}
