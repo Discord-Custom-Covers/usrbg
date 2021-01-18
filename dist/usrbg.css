@@ -3581,3 +3581,10 @@
 [data-user-id*="582922891499143190"] {
     --user-background: url('https://i.imgur.com/MtThle2.gif');
 }
+
+/*unicxrn#3287*/
+
+[user_by_bdfdb*="417798132206927893"],
+[data-user-id*="417798132206927893"] {
+    --user-background: url('https://i.imgur.com/7etElHN.gif');
+}
