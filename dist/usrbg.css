@@ -3553,3 +3553,10 @@
 [data-user-id*="227042442107551745"] {
     --user-background: url('https://i.imgur.com/irGhMIO.jpg');
 }
+
+/*yumα#2402*/
+
+[user_by_bdfdb*="178525733600100352"],
+[data-user-id*="178525733600100352"] {
+    --user-background: url('https://i.imgur.com/JFlZVob.gif');
+}
