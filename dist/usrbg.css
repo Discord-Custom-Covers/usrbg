@@ -3552,6 +3552,62 @@
 [user_by_bdfdb*="465662909645848577"],
 [data-user-id*="465662909645848577"],
 [user_by_bdfdb*="717352467280691331"],
-[data-user-id*="717352467280691331"]{
+[data-user-id*="717352467280691331"] {
 	--user-background: url('https://i.imgur.com/9ULPQG3.png');
+}
+
+/*Hayes#0666*/
+
+[user_by_bdfdb*="227042442107551745"],
+[data-user-id*="227042442107551745"] {
+    --user-background: url('https://i.imgur.com/irGhMIO.jpg');
+}
+
+/*yumα#2402*/
+
+[user_by_bdfdb*="178525733600100352"],
+[data-user-id*="178525733600100352"] {
+    --user-background: url('https://i.imgur.com/JFlZVob.gif');
+}
+
+/*AdrianWorld#6985*/
+
+[user_by_bdfdb*="259796444477784064"],
+[data-user-id*="259796444477784064"] {
+    --user-background: url('https://i.imgur.com/kY0A7O3.gif');
+}
+
+/*ceo winter#0108*/
+
+[user_by_bdfdb*="284337811878838273"],
+[data-user-id*="284337811878838273"] {
+    --user-background: url('https://i.imgur.com/y4uRCpq.png');
+}
+
+/*kyakuryc#6920*/
+
+[user_by_bdfdb*="582922891499143190"],
+[data-user-id*="582922891499143190"] {
+    --user-background: url('https://i.imgur.com/MtThle2.gif');
+}
+
+/*unicxrn#3287*/
+
+[user_by_bdfdb*="417798132206927893"],
+[data-user-id*="417798132206927893"] {
+    --user-background: url('https://i.imgur.com/7etElHN.gif');
+}
+
+/*samie#1337*/
+
+[user_by_bdfdb*="336250337075658752"],
+[data-user-id*="336250337075658752"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/775874408408416276/798611801772261426/image0.jpg');
+}
+
+/*Kreato#5771*/
+
+[user_by_bdfdb*="647480386577760256"],
+[data-user-id*="647480386577760256"] {
+    --user-background: url('https://i.imgur.com/GifaT5c.gif');
 }
