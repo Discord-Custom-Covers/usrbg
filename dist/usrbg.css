@@ -3611,3 +3611,21 @@
 [data-user-id*="647480386577760256"] {
     --user-background: url('https://i.imgur.com/GifaT5c.gif');
 }
+
+/*P1NK.ENLUKA#1854 and Enluka#1586*/
+
+[user_by_bdfdb*="106431546944159744"],
+[data-user-id*="106431546944159744"],
+[user_by_bdfdb*="206109132707594241"],
+[data-user-id*="206109132707594241"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/282140104548548608/798973219137912892/initiald2.gif');
+}
+
+/*Kesefon#0672 and Kesefon, the Ⅱ#8541*/
+
+[user_by_bdfdb*="237618830896005122"],
+[data-user-id*="237618830896005122"],
+[user_by_bdfdb*="770980535073505301"],
+[data-user-id*="770980535073505301"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/770981466590412810/798983098972372992/dingding_18_x_24_copy_1000x1500.jpg');
+}
