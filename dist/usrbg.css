@@ -3629,3 +3629,10 @@
 [data-user-id*="770980535073505301"] {
     --user-background: url('https://cdn.discordapp.com/attachments/770981466590412810/798983098972372992/dingding_18_x_24_copy_1000x1500.jpg');
 }
+
+/*WillOBot#1321*/
+
+[user_by_bdfdb*="307235873856946197"],
+[data-user-id*="307235873856946197"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/694477475287400478/801932979370065970/OrangeBallIllusionGif.gif');
+}
