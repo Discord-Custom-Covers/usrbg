@@ -3657,3 +3657,10 @@
 [data-user-id*="301528679089963009"] {
     --user-background: url('https://i.imgur.com/o7115Zd.gif');
 }
+
+/*Bosnianvader#0801*/
+
+[user_by_bdfdb*="155464485321179136"],
+[data-user-id*="155464485321179136"] {
+    --user-background: url('https://i.imgur.com/2y2R0CL.png');
+}
