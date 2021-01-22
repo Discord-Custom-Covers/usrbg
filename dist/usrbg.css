@@ -3664,3 +3664,10 @@
 [data-user-id*="155464485321179136"] {
     --user-background: url('https://i.imgur.com/2y2R0CL.png');
 }
+
+/*Takraa#8833*/
+
+[user_by_bdfdb*="295297457175134209"],
+[data-user-id*="295297457175134209"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/744278985588080650/800705181817765928/tenor.gif');
+}
