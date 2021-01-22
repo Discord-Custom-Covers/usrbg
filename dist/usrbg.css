@@ -3678,3 +3678,10 @@
 [data-user-id*="215458564934729728"] {
     --user-background: url('https://i.imgur.com/YD6p3kb.gif');
 }
+
+/*Leafy#9999*/
+
+[user_by_bdfdb*="287633455955836929"],
+[data-user-id*="287633455955836929"] {
+    --user-background: url('https://i.imgur.com/xAgbG3C.gif');
+}
