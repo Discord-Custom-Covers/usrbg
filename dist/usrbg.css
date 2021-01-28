@@ -3720,3 +3720,10 @@
 [data-user-id*="342733214907105280"] {
     --user-background: url('https://i.imgur.com/IFucS3d.gif');
 }
+
+/*Sprot#1999*/
+
+[user_by_bdfdb*="782052565181268039"],
+[data-user-id*="782052565181268039"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/802243702294315018/802247499418959931/plan.gif');
+}
