@@ -3748,3 +3748,10 @@
 [data-user-id*="122160152248844290"] {
     --user-background: url('https://cdn.discordapp.com/attachments/735839023322628186/736248069141692446/GenesisLogo.gif');
 }
+
+/*Beans#4949*/
+
+[user_by_bdfdb*="513368613554618383"],
+[data-user-id*="513368613554618383"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/735839023322628186/736248069141692446/GenesisLogo.gif');
+}
