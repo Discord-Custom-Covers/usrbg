@@ -3755,3 +3755,10 @@
 [data-user-id*="513368613554618383"] {
     --user-background: url('https://cdn.discordapp.com/attachments/735839023322628186/736248069141692446/GenesisLogo.gif');
 }
+
+/*decline#0001*/
+
+[user_by_bdfdb*="252510598904938496"],
+[data-user-id*="252510598904938496"] {
+    --user-background: url('https://i.imgur.com/3crPGWN.gif');
+}
