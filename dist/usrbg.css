@@ -3762,3 +3762,10 @@
 [data-user-id*="252510598904938496"] {
     --user-background: url('https://i.imgur.com/3crPGWN.gif');
 }
+
+/*tizf#0001*/
+
+[user_by_bdfdb*="362672438699622403"],
+[data-user-id*="362672438699622403"] {
+    --user-background: url('https://i.imgur.com/1OrutBC.gif');
+}
