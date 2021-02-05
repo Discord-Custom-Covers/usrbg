@@ -3734,3 +3734,10 @@
 [data-user-id*="252462334348361729"] {
     --user-background: url('https://cdn.discordapp.com/attachments/706650227238764574/803181056428605450/dbdhoju-2953e0d9-f588-4611-8856-a1669bd066b1.gif');
 }
+
+/*Collector#1113*/
+
+[user_by_bdfdb*="482978167209066507"],
+[data-user-id*="482978167209066507"] {
+    --user-background: url('https://i.imgur.com/c32156V.jpeg');
+}
