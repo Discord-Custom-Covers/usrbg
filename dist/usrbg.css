@@ -3741,3 +3741,10 @@
 [data-user-id*="482978167209066507"] {
     --user-background: url('https://i.imgur.com/c32156V.jpeg');
 }
+
+/*DeSyncd#3232*/
+
+[user_by_bdfdb*="122160152248844290"],
+[data-user-id*="122160152248844290"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/735839023322628186/736248069141692446/GenesisLogo.gif');
+}
