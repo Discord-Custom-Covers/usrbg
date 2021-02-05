@@ -3804,3 +3804,10 @@
 [data-user-id*="316951291966259201"] {
     --user-background: url('https://i.imgur.com/xq4tRh0.gif');
 }
+
+/*'Andy Derek Ross#0016*/
+
+[user_by_bdfdb*="345465750007578624"],
+[data-user-id*="345465750007578624"] {
+    --user-background: url('https://i.imgur.com/jvuXUyy.png');
+}
