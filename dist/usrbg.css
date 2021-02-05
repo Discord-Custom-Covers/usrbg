@@ -3790,3 +3790,10 @@
 [data-user-id*="421736161132806144"] {
     --user-background: url('https://i.imgur.com/hfETVvn.jpg');
 }
+
+/*korea#8359*/
+
+[user_by_bdfdb*="779682012490498048"],
+[data-user-id*="779682012490498048"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/793154841132269608/797275769922650122/e05bb832fbfb05985af664bba9a9ff32.gif');
+}
