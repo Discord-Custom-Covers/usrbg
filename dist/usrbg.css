@@ -3881,3 +3881,10 @@
 [data-user-id*="526696440089673729"] {
     --user-background: url('https://images.unsplash.com/photo-1547534887-8d299f2c126b');
 }
+
+/*Frostwind#3646*/
+
+[user_by_bdfdb*="190321284406706176"],
+[data-user-id*="190321284406706176"] {
+    --user-background: url('https://i.imgur.com/FVmC8hN.png');
+}
