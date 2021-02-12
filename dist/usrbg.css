@@ -3853,3 +3853,10 @@
 [data-user-id*="312689531868676106"] {
     --user-background: url('https://i.imgur.com/Id75T7k.gif');
 }
+
+/*Munix#3080*/
+
+[user_by_bdfdb*="398278213203263488"],
+[data-user-id*="398278213203263488"] {
+    --user-background: url('https://i.imgur.com/A66ftKe.jpg');
+}
