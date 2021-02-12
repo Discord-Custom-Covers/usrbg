@@ -3860,3 +3860,10 @@
 [data-user-id*="398278213203263488"] {
     --user-background: url('https://i.imgur.com/A66ftKe.jpg');
 }
+
+/*Alt Account 2#2261*/
+
+[user_by_bdfdb*="553664698470498355"],
+[data-user-id*="553664698470498355"] {
+    --user-background: url('https://i.imgur.com/ySH39Gv.jpg');
+}
