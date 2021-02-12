@@ -3888,3 +3888,10 @@
 [data-user-id*="190321284406706176"] {
     --user-background: url('https://i.imgur.com/FVmC8hN.png');
 }
+
+/*CamGast#3945*/
+
+[user_by_bdfdb*="285970819585277962"],
+[data-user-id*="285970819585277962"] {
+    --user-background: url('https://i.imgur.com/FVmC8hN.png');
+}
