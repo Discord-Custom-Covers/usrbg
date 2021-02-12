@@ -3839,3 +3839,10 @@
 [data-user-id*="402063396641439757"] {
     --user-background: url('https://cdn.discordapp.com/attachments/708305566979850300/809070628371562517/1080.jpg');
 }
+
+/*_david_#0218*/
+
+[user_by_bdfdb*="369189076437565451"],
+[data-user-id*="369189076437565451"] {
+    --user-background: url('https://i.imgur.com/YapRooK.gif');
+}
