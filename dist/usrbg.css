@@ -3895,3 +3895,10 @@
 [data-user-id*="285970819585277962"] {
     --user-background: url('https://i.imgur.com/FVmC8hN.png');
 }
+
+/*toffik#6666*/
+
+[user_by_bdfdb*="313144072451653632"],
+[data-user-id*="313144072451653632"] {
+    --user-background: url('https://i.imgur.com/zH4v2M9.gif');
+}
