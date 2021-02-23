@@ -3917,3 +3917,10 @@
 [data-user-id*="728446410290233466"] {
     --user-background: url('https://i.imgur.com/CL6gHVe.jpeg');
 }
+
+/*Ice#0998*/
+
+[user_by_bdfdb*="725059578034782248"],
+[data-user-id*="725059578034782248"] {
+    --user-background: url('https://i.imgur.com/0xeRf12.gif');
+}
