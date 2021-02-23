@@ -3924,3 +3924,10 @@
 [data-user-id*="725059578034782248"] {
     --user-background: url('https://i.imgur.com/0xeRf12.gif');
 }
+
+/*imjamnotjelly#2954*/
+
+[user_by_bdfdb*="681627567501213802"],
+[data-user-id*="681627567501213802"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/695347297206140948/813780334126563358/1594746936_Cyberpunk_gif_1.gif');
+}
