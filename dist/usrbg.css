@@ -3938,3 +3938,10 @@
 [data-user-id*="86274579202338816"] {
     --user-background: url('https://cdn.discordapp.com/attachments/813643556530159630/813643648138084402/ezgif.com-gif-maker.gif');
 }
+
+/*バレリアン「Valérian」#0001*/
+
+[user_by_bdfdb*="64454230802444288"],
+[data-user-id*="64454230802444288"] {
+    --user-background: url('https://i.imgur.com/I3RYbGJ.gif');
+}
