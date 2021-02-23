@@ -3980,3 +3980,10 @@
 [data-user-id*="327214709252030464"] {
     --user-background: url('https://i.imgur.com/kGXr4fk.png');
 }
+
+/*pandora#3067*/
+
+[user_by_bdfdb*="468922513410490368"],
+[data-user-id*="468922513410490368"] {
+    --user-background: url('https://i.imgur.com/qwZt35q.gif');
+}
