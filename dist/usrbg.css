@@ -3945,3 +3945,10 @@
 [data-user-id*="64454230802444288"] {
     --user-background: url('https://i.imgur.com/I3RYbGJ.gif');
 }
+
+/*Rud#4634*/
+
+[user_by_bdfdb*="318066430010720256"],
+[data-user-id*="318066430010720256"] {
+    --user-background: url('https://i.imgur.com/O0qt88C.gif');
+}
