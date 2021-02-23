@@ -3959,3 +3959,10 @@
 [data-user-id*="545992276632010763"] {
     --user-background: url('https://cdn.discordapp.com/attachments/776996658742689803/813430030688059422/tumblr_6f139c331cddcd0c805985f775cce841_bbb31fd3_500.gif');
 }
+
+/*sheep#2428*/
+
+[user_by_bdfdb*="429303151598895106"],
+[data-user-id*="429303151598895106"] {
+    --user-background: url('https://i.imgur.com/Ebaa492.png');
+}
