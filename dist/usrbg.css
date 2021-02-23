@@ -3994,3 +3994,10 @@
 [data-user-id*="397841716947845122"] {
     --user-background: url('https://cdn.discordapp.com/attachments/789163055925821481/812127291353989140/Barotrauma_Wallpaper_04.png');
 }
+
+/*Atom#1022*/
+
+[user_by_bdfdb*="192717549979303936"],
+[data-user-id*="192717549979303936"] {
+    --user-background: url('https://i.imgur.com/agKhImg.gif');
+}
