@@ -4072,3 +4072,10 @@
 [data-user-id*="685227194519388214"] {
     --user-background: url('https://i.imgur.com/oNoujtc.gif');
 }
+
+/*a random person#4629*/
+
+[user_by_bdfdb*="135097864631222273"],
+[data-user-id*="135097864631222273"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/806176256995491850/814484687325757490/X1IGRBk_-_Imgur.gif');
+}
