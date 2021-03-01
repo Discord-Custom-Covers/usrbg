@@ -3708,13 +3708,6 @@
     --user-background: url('https://i.imgur.com/IFucS3d.gif');
 }
 
-/*Sprot#1999*/
-
-[user_by_bdfdb*="782052565181268039"],
-[data-user-id*="782052565181268039"] {
-    --user-background: url('https://cdn.discordapp.com/attachments/802243702294315018/802247499418959931/plan.gif');
-}
-
 /*HypeLevels#0074*/
 
 [user_by_bdfdb*="290475611879768064"],
@@ -4016,9 +4009,3 @@
     --user-background: url('https://cdn.discordapp.com/attachments/716851234421735445/810738030696071230/92fd31b9becf4ecccfcce765db9d6d02.gif');
 }
 
-/*Adrazaelle#0001*/
-
-[user_by_bdfdb*="806929668933550181"],
-[data-user-id*="806929668933550181"] {
-    --user-background: url('https://i.imgur.com/bN2jvqv.jpeg');
-}
