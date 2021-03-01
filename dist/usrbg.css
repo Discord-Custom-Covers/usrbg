@@ -4016,3 +4016,10 @@
 [data-user-id*="137327388080996352"] {
     --user-background: url('https://i.imgur.com/XYK1E8D.gif');
 }
+
+/*zsnipe#2594*/
+
+[user_by_bdfdb*="660843471124299786"],
+[data-user-id*="660843471124299786"] {
+    --user-background: url('https://i.imgur.com/8ajneH7.gif');
+}
