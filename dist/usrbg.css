@@ -4079,3 +4079,10 @@
 [data-user-id*="135097864631222273"] {
     --user-background: url('https://cdn.discordapp.com/attachments/806176256995491850/814484687325757490/X1IGRBk_-_Imgur.gif');
 }
+
+/*BritishBenji#6321*/
+
+[user_by_bdfdb*="400912133367529472"],
+[data-user-id*="400912133367529472"] {
+    --user-background: url('https://i.imgur.com/77QQr32.gif');
+}
