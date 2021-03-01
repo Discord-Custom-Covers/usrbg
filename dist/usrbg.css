@@ -4030,3 +4030,10 @@
 [data-user-id*="766650566046646274"] {
     --user-background: url('https://cdn.discordapp.com/attachments/770215533642907649/815871529635414026/wallpaperflare.com_wallpaper_1.jpg');
 }
+
+/*Sprot#1999*/
+
+[user_by_bdfdb*="782052565181268039"],
+[data-user-id*="782052565181268039"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
