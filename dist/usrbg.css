@@ -4065,3 +4065,10 @@
 [data-user-id*="200616909782253568"] {
     --user-background: url('https://i.imgur.com/MfX6Qw8.gif');
 }
+
+/*chill#6917*/
+
+[user_by_bdfdb*="685227194519388214"],
+[data-user-id*="685227194519388214"] {
+    --user-background: url('https://i.imgur.com/oNoujtc.gif');
+}
