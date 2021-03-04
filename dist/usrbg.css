@@ -4100,3 +4100,10 @@
 [data-user-id*="322023616222986241"] {
     --user-background: url('https://i.imgur.com/8a5EFat.gif');
 }
+
+/*Indexerrowaty#2141*/
+
+[user_by_bdfdb*="682617926909427743"],
+[data-user-id*="682617926909427743"] {
+	--user-background: url('https://i.imgur.com/bRzXlS5.png');
+}
