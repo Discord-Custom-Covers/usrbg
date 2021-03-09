@@ -4310,3 +4310,10 @@
 [data-user-id*="768833588409794670"] {
     --user-background: url('https://i.imgur.com/YD6p3kb.gif');
 }
+
+/*Ądam#4740*/
+
+[user_by_bdfdb*="301766077321445376"],
+[data-user-id*="301766077321445376"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/816600993897775144/kaneki_switch_gif.gif');
+}
