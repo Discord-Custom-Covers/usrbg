@@ -4268,3 +4268,10 @@
 [data-user-id*="817047488183795712"] {
     --user-background: url('https://cdn.discordapp.com/attachments/817071797463154691/817832894579605594/edamame.gif');
 }
+
+/*Misa#9627*/
+
+[user_by_bdfdb*="346849257707405312"],
+[data-user-id*="346849257707405312"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/817541209207341067/817542771573260288/loop.gif');
+}
