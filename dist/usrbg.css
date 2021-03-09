@@ -4324,3 +4324,10 @@
 [data-user-id*="355247807524896779"] {
     --user-background: url('https://i.imgur.com/Yum076f.gif');
 }
+
+/*vipgio#4884*/
+
+[user_by_bdfdb*="473436055958192128"],
+[data-user-id*="473436055958192128"] {
+    --user-background: url('https://i.imgur.com/7dt9S8S.jpg');
+}
