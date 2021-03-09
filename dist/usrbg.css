@@ -4331,3 +4331,10 @@
 [data-user-id*="473436055958192128"] {
     --user-background: url('https://i.imgur.com/7dt9S8S.jpg');
 }
+
+/*AstroPlayz#4895*/
+
+[user_by_bdfdb*="796655698896617472"],
+[data-user-id*="796655698896617472"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
