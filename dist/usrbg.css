@@ -4142,3 +4142,10 @@
 [data-user-id*="270245240642863115"] {
     --user-background: url('https://i.imgur.com/jL1dLFD.gif');
 }
+
+/*eurobliksem#4401*/
+
+[user_by_bdfdb*="331306163117490176"],
+[data-user-id*="331306163117490176"] {
+    --user-background: url('https://i.imgur.com/umHKnKY.gif');
+}
