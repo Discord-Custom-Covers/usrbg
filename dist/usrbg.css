@@ -4261,3 +4261,10 @@
 [data-user-id*="782052565181268039"] {
     --user-background: url('https://i.imgur.com/NBhbJHx.gif');
 }
+
+/*nacava#2189*/
+
+[user_by_bdfdb*="817047488183795712"],
+[data-user-id*="817047488183795712"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/817071797463154691/817832894579605594/edamame.gif');
+}
