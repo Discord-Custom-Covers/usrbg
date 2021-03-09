@@ -4107,3 +4107,10 @@
 [data-user-id*="284782435932176384"] {
     --user-background: url('https://i.imgur.com/am0eYJO.gif');
 }
+
+/*Fanservice#5800*/
+
+[user_by_bdfdb*="250102846563811329"],
+[data-user-id*="250102846563811329"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/505178871965024257/806293124728094720/illust_79348238_20210202_153833.jpg');
+}
