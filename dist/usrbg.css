@@ -4212,3 +4212,10 @@
 [data-user-id*="300367205684477957"] {
     --user-background: url('https://i.imgur.com/umHKnKY.gif');
 }
+
+/*Miyamoto Musashi#6810*/
+
+[user_by_bdfdb*="249912055396696065"],
+[data-user-id*="249912055396696065"] {
+    --user-background: url('https://i.imgur.com/DPpvzuw.gif');
+}
