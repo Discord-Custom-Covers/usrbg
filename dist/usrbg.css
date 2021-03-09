@@ -4254,3 +4254,10 @@
 [data-user-id*="575639212955664392"] {
     --user-background: url('https://i.imgur.com/W05YF4m.gif');
 }
+
+/*Sprot#1999*/
+
+[user_by_bdfdb*="782052565181268039"],
+[data-user-id*="782052565181268039"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
