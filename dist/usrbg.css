@@ -4184,3 +4184,10 @@
 [data-user-id*="454374063171829763"] {
     --user-background: url('https://i.imgur.com/MtThle2.gif');
 }
+
+/*Flicker#7169*/
+
+[user_by_bdfdb*="260243784405614594"],
+[data-user-id*="260243784405614594"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/818547837444292639/1543069330_Futaba_GIF.gif');
+}
