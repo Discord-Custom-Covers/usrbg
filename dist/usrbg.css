@@ -4198,3 +4198,10 @@
 [data-user-id*="220161488516546561"] {
     --user-background: url('https://i.imgur.com/umHKnKY.gif');
 }
+
+/*94#0666*/
+
+[user_by_bdfdb*="481410094152810506"],
+[data-user-id*="481410094152810506"] {
+    --user-background: url('https://i.imgur.com/jL1dLFD.gif');
+}
