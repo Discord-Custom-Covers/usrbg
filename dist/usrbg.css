@@ -4240,3 +4240,10 @@
 [data-user-id*="687521563096252483"] {
     --user-background: url('https://i.imgur.com/Ebaa492.png');
 }
+
+/*Andrew Price#0056*/
+
+[user_by_bdfdb*="743269207491346512"],
+[data-user-id*="743269207491346512"] {
+    --user-background: url('https://i.imgur.com/NBhbJHx.gif');
+}
