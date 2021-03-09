@@ -4296,3 +4296,10 @@
 [data-user-id*="182932146690719744"] {
     --user-background: url('https://i.imgur.com/X16oZoK.gif');
 }
+
+/*sin.#4444*/
+
+[user_by_bdfdb*="567441127083474956"],
+[data-user-id*="567441127083474956"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/813967114804264981/816789990474121286/gifntext-gif.gif');
+}
