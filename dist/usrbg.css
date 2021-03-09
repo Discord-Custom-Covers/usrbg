@@ -4275,3 +4275,10 @@
 [data-user-id*="346849257707405312"] {
     --user-background: url('https://cdn.discordapp.com/attachments/817541209207341067/817542771573260288/loop.gif');
 }
+
+/*AleksHSE#5523*/
+
+[user_by_bdfdb*="170954256227106817"],
+[data-user-id*="170954256227106817"] {
+    --user-background: url('https://i.imgur.com/iVNoGow.gif');
+}
