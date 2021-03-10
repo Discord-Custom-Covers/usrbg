@@ -4333,3 +4333,9 @@
     --user-background: url('https://cdn.discordapp.com/attachments/427153930305273856/818820175813148702/tenor_1.gif');
 }
 
+/*Indexerrowaty#2141*/
+
+[user_by_bdfdb*="682617926909427743"],
+[data-user-id*="682617926909427743"] {
+	--user-background: url('https://i.imgur.com/bRzXlS5.png');
+}
