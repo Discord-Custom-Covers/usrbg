@@ -4367,3 +4367,11 @@
 [data-user-id*="160107090629754881"] {
    --user-background: url('https://i.imgur.com/uBmKd9R.png');
 }
+
+/*Keisuu#2300*/
+
+[user_by_bdfdb*="181714744128962562"],
+[data-user-id*="181714744128962562"] {
+   --user-background: url('https://i.imgur.com/916N2DB.jpg');
+}
+
