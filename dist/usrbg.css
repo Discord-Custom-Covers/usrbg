@@ -4331,3 +4331,10 @@
 [data-user-id*="796655698896617472"] {
     --user-background: url('https://i.imgur.com/NBhbJHx.gif');
 }
+
+/*Cascade#0001*/
+
+[user_by_bdfdb*="442612628104151040"],
+[data-user-id*="442612628104151040"] {
+    --user-background: url('https://i.imgur.com/Ka1dlAg.gif');
+}
