@@ -4360,3 +4360,10 @@
 [data-user-id*="208223446583214080"] {
     --user-background: url('https://i.imgur.com/ysJZKNF.jpg');
 }
+
+/*Tanaka Mihama-Rose#8768*/
+
+[user_by_bdfdb*="160107090629754881"],
+[data-user-id*="160107090629754881"] {
+   --user-background: url('https://i.imgur.com/uBmKd9R.png');
+}
