@@ -4389,3 +4389,10 @@
 [data-user-id*="297155975117275136"] {
     --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/819321981505241128/IdenticalShoddyCivet-size_restricted.gif');
 }
+
+/*Koloseq#7102*/
+
+[user_by_bdfdb*="401484493619200000"],
+[data-user-id*="401484493619200000"] {
+    --user-background: url('https://i.imgur.com/YD6p3kb.gif');
+}
