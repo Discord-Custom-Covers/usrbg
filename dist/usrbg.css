@@ -4382,3 +4382,10 @@
 [data-user-id*="409494455079403533"] {
     --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/819011928764448768/smonked.png');
 }
+
+/*02#2020*/
+
+[user_by_bdfdb*="555661190743982080"],
+[data-user-id*="555661190743982080"] {
+    --user-background: url('https://i.imgur.com/tkx5mg4.gif');
+}
