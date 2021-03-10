@@ -4375,3 +4375,10 @@
    --user-background: url('https://i.imgur.com/916N2DB.jpg');
 }
 
+
+/*MapleKip#4141*/
+
+[user_by_bdfdb*="409494455079403533"],
+[data-user-id*="409494455079403533"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/819011928764448768/smonked.png');
+}
