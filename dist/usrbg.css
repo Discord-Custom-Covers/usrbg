@@ -4431,3 +4431,10 @@
 [data-user-id*="486943409341464588"] {
     --user-background: url('https://i.imgur.com/tkx5mg4.gif');
 }
+
+/*! bibi#3827*/
+
+[user_by_bdfdb*="749789188378984591"],
+[data-user-id*="749789188378984591"] {
+    --user-background: url('https://i.imgur.com/EipgmvH.gif');
+}
