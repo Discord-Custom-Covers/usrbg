@@ -4441,15 +4441,15 @@
 
 /*Dk#0999*/
 
-[user_by_bdfdb*="757291603076317304"],
-[data-user-id*="757291603076317304"] {
+[user_by_bdfdb="757291603076317304"],
+[data-user-id="757291603076317304"] {
     --user-background: url('https://cdn.discordapp.com/attachments/808700140830457857/819583165407428608/homebutton.gif');
 }
 
 /*sebi.state#4515*/
 
-[user_by_bdfdb*="706122519240900659"],
-[data-user-id*="706122519240900659"] {
+[user_by_bdfdb="706122519240900659"],
+[data-user-id="706122519240900659"] {
     --user-background: url('https://i.imgur.com/YyK7qTa.gif');
 }
 
