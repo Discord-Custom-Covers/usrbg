@@ -4438,3 +4438,10 @@
 [data-user-id="749789188378984591"] {
     --user-background: url('https://i.imgur.com/EipgmvH.gif');
 }
+
+/*Dk#0999*/
+
+[user_by_bdfdb*="757291603076317304"],
+[data-user-id*="757291603076317304"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/808700140830457857/819583165407428608/homebutton.gif');
+}
