@@ -4464,6 +4464,7 @@
 [user_by_bdfdb="135846943648776192"],
 [data-user-id="135846943648776192"] {
     --user-background: url('https://i.imgur.com/yggWwQk.gif');
+    --user-popout-position: left !important;`
 }
 
 /*Chilly#5031*/
