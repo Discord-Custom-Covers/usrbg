@@ -4488,3 +4488,10 @@
     --user-background: url('https://i.imgur.com/MN9DktW.jpg');
     --user-popout-position: right !important;
 }
+
+/*syp#1306*/
+
+[user_by_bdfdb="444132501233991680"],
+[data-user-id="444132501233991680"] {
+    --user-background: url('https://i.imgur.com/819JrOc.gif');
+}
