@@ -4480,3 +4480,11 @@
 [data-user-id="742063019923734618"] {
     --user-background: url('https://cdn.discordapp.com/attachments/456316408465195009/811839934372904990/famke-jochems-finished-x2-wm.gif');
 }
+
+/*Maclean#8719*/
+
+[user_by_bdfdb="421890156686213120"],
+[data-user-id="421890156686213120"] {
+    --user-background: url('https://i.imgur.com/MN9DktW.jpg');
+    --user-popout-position: right !important;
+}
