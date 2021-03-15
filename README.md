@@ -24,6 +24,8 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 * [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
+* [Comfy](https://github.com/NYRI4/Comfy) by Nyria
+* [Nebula](https://github.com/Pavui/Nebula) by Pavui
 
 ## Important
 If you are using BetterDiscord, you MUST have a plugin by devilbro running, as USRBG requires his lib for certain important data attributes. I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it. 
