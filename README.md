@@ -1,8 +1,18 @@
-<h1 align="center">Usrbg</h1>
+<h1 align="center">USRBG</h1>
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
-<p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
 ![](https://i.imgur.com/dvrQxNh.png)
+
+## Request your own USRBG
+Option 1:
+* Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-request](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
+
+Option 2:
+* Make a pull request.
+
+**All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
+
+All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or **unsplash.com**. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
 
 ## Importing the Database
 
@@ -27,13 +37,5 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Comfy](https://github.com/NYRI4/Comfy) by Nyria
 * [Nebula](https://github.com/Pavui/Nebula) by Pavui
 
-## Important
-If you are using BetterDiscord, you MUST have a plugin by devilbro running, as USRBG requires his lib for certain important data attributes. I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it. 
-
-## Approved Request Locations
-All requests are processed manually by a select few theme developers (as of right now). You should expect to wait a short amount of time before your background is added.
-
-* [Black Box](https://discord.gg/TeRQEPb)
-* [A user's stuff](https://discord.gg/6jQ4qJV)
-
-All requests MUST be hosted on i.imgur.com or cdn.discordapp.com, or unsplash.com. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
+## Requirements
+If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://github.com/mwittrien/BetterDiscordAddons) running**, as **USRBG requires his lib** for certain important data attributes. *I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it.*
