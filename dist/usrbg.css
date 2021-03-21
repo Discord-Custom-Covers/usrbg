@@ -4817,3 +4817,10 @@
 [data-user-id="293196245974122497"] {
     --user-background: url('https://i.imgur.com/8s8RXe2.gif');
 }
+
+/*BetterDiscordWeb#0540*/
+
+[user_by_bdfdb="777264613867257857"],
+[data-user-id="777264613867257857"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/813897675790483508/819271074679881758/unknown.png');
+}
