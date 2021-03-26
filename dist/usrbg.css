@@ -4936,3 +4936,10 @@
 [data-user-id="760968246773022771"] {
     --user-background: url('https://i.imgur.com/aXLFF36.gif');
 }
+
+/*Hacka#9994*/
+
+[user_by_bdfdb="462054409585819669"],
+[data-user-id="462054409585819669"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/824833810201182249/svg.png');
+}
