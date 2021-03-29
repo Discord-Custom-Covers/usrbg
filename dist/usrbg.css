@@ -5104,3 +5104,10 @@
 [data-user-id="597072695875600385"] {
     --user-background: url('https://source.unsplash.com/featured/?{nebula}');
 }
+
+/*-Storm-#2143*/
+
+[user_by_bdfdb="260495694882668547"],
+[data-user-id="260495694882668547"] {
+    --user-background: url('https://i.imgur.com/AIx7Lwa.gif');
+}
