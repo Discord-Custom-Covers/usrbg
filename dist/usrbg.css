@@ -5175,3 +5175,10 @@
     --user-background: url('https://i.imgur.com/nbl11hF.png');
     --user-popout-position: left !important;
 }
+
+/*gabbee#0001*/
+
+[user_by_bdfdb="504296148572569620"],
+[data-user-id="504296148572569620"] {
+    --user-background: url('https://i.imgur.com/vIEoh89.gif');
+}
