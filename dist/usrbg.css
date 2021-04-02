@@ -5224,3 +5224,11 @@
 [data-user-id="824253075643432982"] {
     --user-background: url('https://i.imgur.com/s39k2jM.jpg');
 }
+
+/*Red#0151*/
+
+[user_by_bdfdb="197373076638400513"],
+[data-user-id="197373076638400513"] {
+    --user-background: url('https://i.imgur.com/GhCbr1h.gif');
+    --user-popout-position: left !important;
+}
