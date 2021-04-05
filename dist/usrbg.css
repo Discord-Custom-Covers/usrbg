@@ -5463,3 +5463,10 @@
 [data-user-id="257266614465069058"] {
     --user-background: url('https://cdn.discordapp.com/attachments/759617690792230913/828296077669040180/fa85fcb6c2756dde45a0c00956e72741.png');
 }
+
+/*MH#5893*/
+
+[user_by_bdfdb="318213132407275530"],
+[data-user-id="318213132407275530"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/813010470499516427/828200885594619944/wave.gif');
+}
