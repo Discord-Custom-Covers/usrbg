@@ -16,8 +16,8 @@ other contributors to USRBG.
 .root-SR8cQa {
   transform: translateZ(0);
 }
-.header-QKLPzZ .wrapper-3t9DeA::before {
-  content: '';
+#app-mount .header-QKLPzZ .wrapper-3t9DeA::before {
+  content: '' !important;
   position: fixed;
   top: 0;
   left: 0;
