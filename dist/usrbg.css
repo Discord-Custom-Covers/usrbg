@@ -5498,3 +5498,10 @@
 [data-user-id="508956030340956171"] {
     --user-background: url('https://i.imgur.com/lrvAiye.jpg');
 }
+
+/*carbon#9473*/
+
+[user_by_bdfdb="216874228174028800"],
+[data-user-id="216874228174028800"] {
+    --user-background: url('https://i.imgur.com/2lL99XN.gif');
+}
