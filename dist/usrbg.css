@@ -5624,3 +5624,10 @@
 [data-user-id="215235786012884993"] {
     --user-background: url('https://i.imgur.com/sIZ4oI4.gif');
 }
+
+/*Windows#1913*/
+
+[user_by_bdfdb="599671022807023627"],
+[data-user-id="599671022807023627"] {
+    --user-background: url('https://i.imgur.com/9qaBSSJ.jpg');
+}
