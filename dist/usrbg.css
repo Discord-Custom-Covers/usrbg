@@ -5484,3 +5484,10 @@
 [data-user-id="277265601838317568"]:not(img) {
     --user-background: url('https://cdn.discordapp.com/attachments/682007962880835631/827643486035116072/blossom1.gif');
 }
+
+/*Las#0001*/
+
+[user_by_bdfdb="469013013387804702"],
+[data-user-id="469013013387804702"] {
+    --user-background: url('https://i.imgur.com/zIrPwUJ.gif');
+}
