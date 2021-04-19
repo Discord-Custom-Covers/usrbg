@@ -23,17 +23,19 @@ All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
 ## Known themes that have USRBG built-in:
-* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintained)
-* [Basic Background](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground) from DevilBro
+* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) by A user (unmaintained)
+* [Basic Background](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground) by DevilBro
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
 * [Comfy](https://github.com/NYRI4/Comfy) by Nyria
-* [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) from A user
-* [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs and Creatable
-* [Frosted Glass](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
+* [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) by A user (unmaintained)
+* [Discord.tv](https://github.com/userMacieG/userMacieG.github.io/blob/master/betterdiscord/discord-tv.theme.css) by userMacieG
+* [Dream Frame](https://github.com/dream-frame/Dream-Frame) by Korbs and Creatable (unmaintained)
+* [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass) by Gibbu
 * [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical (unmaintained)
+* [Midnight Mars](https://github.com/LuckFire/midnight-mars) by LuckFire
 * [Nebula](https://github.com/Pavui/Nebula) by Pavui
 * [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
-* [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
+* [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
 * [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 
