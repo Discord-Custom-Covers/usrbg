@@ -6107,3 +6107,11 @@
 [data-user-id="405350556090236932"] {
     --user-background: url('https://i.imgur.com/Z1xCWPU.jpg');
 }
+
+/* nattadasu#3867 and Neko Len#1917 */
+[user_by_bdfdb="384089845527478272"],
+[data-user-id="384089845527478272"],
+[user_by_bdfdb="526783861812756490"],
+[data-user-id="526783861812756490"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/591889046020554772/834136688070623252/Kagamine.Len.full.3087412.png')
+}
