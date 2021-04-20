@@ -5925,3 +5925,10 @@
 .userPopout-3XzG_A [data-user-id="350796258744598528"] {
     --user-background: url('https://cdn.discordapp.com/attachments/533762911831851008/833829085016883200/source.gif');
 }
+
+/*Beck#5150*/
+
+.root-SR8cQa [data-user-id="305570408646574080"],
+.userPopout-3XzG_A [data-user-id="305570408646574080"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/641040786481479680/833779413405401118/1200x1200bf-60.png');
+}
