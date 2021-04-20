@@ -5883,3 +5883,10 @@
 .userPopout-3XzG_A [data-user-id="524597582236876800"] {
     --user-background: url('https://i.imgur.com/zhIn93l.gif');
 }
+
+/*jareb#2579*/
+
+.root-SR8cQa [data-user-id="191255492700536843"],
+.userPopout-3XzG_A [data-user-id="191255492700536843"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/345351706256867331/833962745648119828/Featured-Image_Omori-Looks-In-A-Mirror-Cropped.png');
+}
