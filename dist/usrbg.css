@@ -6092,3 +6092,10 @@
 [data-user-id="405350556090236932"] {
     --user-background: url('https://i.imgur.com/Z1xCWPU.jpg');
 }
+
+/* LuckFire#4800 */
+
+.root-SR8cQa [data-user-id="399416615742996480"],
+.userPopout-3XzG_A [data-user-id="399416615742996480"] {
+    --user-background: url('https://i.imgur.com/Yivh6dP.jpg');
+}
