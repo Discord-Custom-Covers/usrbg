@@ -28,6 +28,7 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
 * [Comfy](https://github.com/NYRI4/Comfy) by Nyria
 * [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) by A user (unmaintained)
+* [DarkMatter](https://github.com/DiscordStyles/DarkMatter) by Tropical and Hammock
 * [Discord.tv](https://github.com/userMacieG/userMacieG.github.io/blob/master/betterdiscord/discord-tv.theme.css) by userMacieG
 * [DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) by CommandCrafterHD
 * [DiscordNight](https://github.com/KillYoy/DiscordNight) by KillYoy
