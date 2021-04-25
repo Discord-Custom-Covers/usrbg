@@ -6289,3 +6289,10 @@
 .userPopout-3XzG_A [data-user-id="409639495030538250"] {
     --user-background: url('https://i.imgur.com/Tm033rx.jpeg');
 }
+
+/*Hammer#8258*/
+
+.root-SR8cQa [data-user-id="364745484168069121"],
+.userPopout-3XzG_A [data-user-id="364745484168069121"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/813581340296347678/835495550693670922/giphy.gif');
+}
