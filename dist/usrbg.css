@@ -6366,3 +6366,12 @@
 .userPopout-3XzG_A [data-user-id="256841158687195137"] {
     --user-background: url('https://cdn.discordapp.com/attachments/509356823162126336/835941389032357951/tumblr_fd7d0665d70c97ea07cdd82c6ef81228_52ca816d_500.gif');
 }
+
+/* nattadasu#3867 and Neko Len#1917 */
+.root-SR8cQa [data-user-id="384089845527478272"],
+.userPopout-3XzG_A [data-user-id="384089845527478272"],
+.root-SR8cQa [data-user-id="526783861812756490"],
+.userPopout-3XzG_A [data-user-id="526783861812756490"]{
+    --user-background: url('https://cdn.discordapp.com/attachments/591889046020554772/834136688070623252/Kagamine.Len.full.3087412.png');
+    --user-popout-position: center !important;
+}
