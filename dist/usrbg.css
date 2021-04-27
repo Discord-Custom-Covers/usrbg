@@ -2748,7 +2748,7 @@
 /* fragraccunix#4614 */
 .root-SR8cQa [data-user-id="369171050287595521"],
 .userPopout-3XzG_A [data-user-id="369171050287595521"] {
-    --user-background: url('https://cdn.discordapp.com/attachments/699015866519650377/805172907701305384/b55e3bafe484a0ead34d5e3849bd1e11.gif');
+    --user-background: url('https://cdn.discordapp.com/attachments/645627516794699787/836034479868477500/ae0ce31730fcfff83c373e404648419e.gif');
 }
 
 /* Casey Alanir Castillo#9802 */
@@ -4832,7 +4832,7 @@
     --user-background: url('https://i.imgur.com/MjadsJm.gif');
 }
 
-/*Visual#1337*/
+/*Visual#9999*/
 
 .root-SR8cQa [data-user-id="688329382011600917"],
 .userPopout-3XzG_A [data-user-id="688329382011600917"] {
@@ -6372,4 +6372,14 @@
 .root-SR8cQa [data-user-id="600424503864066053"],
 .userPopout-3XzG_A [data-user-id="600424503864066053"] {
     --user-background: url('https://i.imgur.com/bTBCIgC.png');
+}
+
+
+/* nattadasu#3867 and Neko Len#1917 */
+.root-SR8cQa [data-user-id="384089845527478272"],
+.userPopout-3XzG_A [data-user-id="384089845527478272"],
+.root-SR8cQa [data-user-id="526783861812756490"],
+.userPopout-3XzG_A [data-user-id="526783861812756490"]{
+    --user-background: url('https://cdn.discordapp.com/attachments/591889046020554772/834136688070623252/Kagamine.Len.full.3087412.png');
+    --user-popout-position: center !important;
 }
