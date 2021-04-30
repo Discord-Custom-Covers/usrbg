@@ -6794,3 +6794,10 @@
 .userPopout-3XzG_A [data-user-id="481532274211422209"] {
     --user-background: url('https://cdn.discordapp.com/attachments/805115196829335602/837006562454142986/wp4591608.png');
 }
+
+/*bep#3399*/
+
+.root-SR8cQa [data-user-id="147077474222604288"],
+.userPopout-3XzG_A [data-user-id="147077474222604288"] {
+    --user-background: url('https://i.imgur.com/esNsSum.jpg');
+}
