@@ -35,6 +35,7 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Dream Frame](https://github.com/dream-frame/Dream-Frame) by Korbs and Creatable (unmaintained)
 * [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass) by Gibbu
 * [LilyPichu](https://github.com/NYRI4/LilyPichu) by Nyria
+* [Lode](https://github.com/leeprky/Lode) by Leeprky
 * [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical (unmaintained)
 * [Midnight Mars](https://github.com/LuckFire/midnight-mars) by LuckFire
 * [Nebula](https://github.com/Pavui/Nebula) by Pavui
