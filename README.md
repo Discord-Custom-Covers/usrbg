@@ -29,6 +29,7 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Comfy](https://github.com/NYRI4/Comfy) by Nyria
 * [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) by A user (unmaintained)
 * [DarkMatter](https://github.com/DiscordStyles/DarkMatter) by Tropical and Hammock
+* [deepbluetheme](https://github.com/OnscreenProton/deepbluetheme) by OnscreenProton
 * [Discord.tv](https://github.com/userMacieG/userMacieG.github.io/blob/master/betterdiscord/discord-tv.theme.css) by userMacieG
 * [DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) by CommandCrafterHD
 * [DiscordNight](https://github.com/KillYoy/DiscordNight) by KillYoy
@@ -42,6 +43,7 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 * [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
 * [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
+* [Slook Remastered](https://github.com/leeprky/Slook-Remastered) by Leeprky
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 
 ## Requirements
