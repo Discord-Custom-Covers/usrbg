@@ -7739,3 +7739,10 @@
 .userPopout-3XzG_A [data-user-id="256962349217349632"] {
     --user-background: url('https://cdn.discordapp.com/attachments/783339737389072415/841266242907799552/aqua.gif');
 }
+
+/*TNA#6621*/
+
+.root-SR8cQa [data-user-id="781184147942801419"],
+.userPopout-3XzG_A [data-user-id="781184147942801419"] {
+    --user-background: url('https://cdn.discordapp.com/attachments/800682634518069258/841217353970876456/fac9e1ccc76717cb270b8bed75ecfa3f.gif');
+}
