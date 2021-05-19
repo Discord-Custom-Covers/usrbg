@@ -1,0 +1,49 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Build JSON -> CSS
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    paths:
+      - 'dist/usrbg.json'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        
+    - name: Setup Node.js 16.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16.x
+    
+    - name: Install NPM dependencies
+      run: cd BGCompiler; npm ci
+      
+    - name: Compile background list
+      run: cd BGCompiler; node src/jsontocss.js ../dist/usrbg.json ../dist/usrbg.css
+      
+    - name: Stage build files
+      run: git add dist
+
+    - name: Commit build files
+      run: |
+        git config --local user.email "creatableog@protonmail.com"
+        git config --local user.name "BGCompiler"
+        git commit -m "[CI Chore] Compile backgrounds" || true
+    
+    - name: Push build commit
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
