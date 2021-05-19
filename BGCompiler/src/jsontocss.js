@@ -67,15 +67,15 @@ const fs = require("fs").promises;
 
   for (const background in backgrounds) {
     finalCss += createRule(backgrounds[background], [
-      `--user-background:url("${background}")`,
+      `--user-background:url("${background}");`,
     ]);
   }
 
   for (const position in positionedBackgrounds) {
     for (const background in positionedBackgrounds[position]) {
       finalCss += createRule(positionedBackgrounds[position][background], [
-        `--user-background:url("${background}")`,
-        `--user-popout-position:${position}!important`,
+        `--user-background:url("${background}");`,
+        `--user-popout-position:${position}!important;`,
       ]);
     }
   }
