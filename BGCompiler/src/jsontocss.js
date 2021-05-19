@@ -60,7 +60,7 @@ const fs = require("fs").promises;
     }
 
     const finalSelector = selectorList.join(",");
-    const joinedRules = rules.join(";");
+    const joinedRules = rules.join("");
 
     return `${finalSelector}{${joinedRules}}`;
   }
