@@ -4,11 +4,7 @@
 ![](https://i.imgur.com/dvrQxNh.png)
 
 ## Request your own USRBG
-Option 1:
-* Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-requests](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
-
-Option 2:
-* Make a pull request modifying the file `dist/usrbg.json` and wait for it to be merged.
+### Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-requests](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
 
 **All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
 
