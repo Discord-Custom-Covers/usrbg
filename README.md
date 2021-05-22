@@ -19,6 +19,7 @@ All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
 ## Known themes that have USRBG built-in:
+* [AMOLED-Cord](https://github.com/LuckFire/amoled-cord) by LuckFire
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) by A user (unmaintained)
 * [Basic Background](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground) by DevilBro
 * [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
