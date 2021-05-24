@@ -37,6 +37,7 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 * [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical (unmaintained)
 * [Midnight Mars](https://github.com/LuckFire/midnight-mars) by LuckFire
 * [Nebula](https://github.com/Pavui/Nebula) by Pavui
+* [Quarrel](https://github.com/leeprky/Quarrel) by Leeprky
 * [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 * [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
 * [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
