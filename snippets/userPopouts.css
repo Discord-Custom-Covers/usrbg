@@ -9,6 +9,7 @@
 
 .userPopout-3XzG_A {
 	overflow: hidden;
+	transform: translateZ(0) !important;
 	--USRBG-banner-height: 60px;
 }
 
