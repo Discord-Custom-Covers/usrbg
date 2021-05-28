@@ -1,39 +1,23 @@
 /*
-USRBG Popouts by Tropix126.
-===========================================
-Please note that this snippet requires basic
-transparency on the user popout in order for
-the background to be fully visible.
-
-You are allowed to use this in your theme
-without prior permission from me or any
-other contributors to USRBG.
+ * USRBG Userpopouts Implimentation
+ * 
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
 */
+
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 
-.userPopout-3XzG_A {
-	transform:translateZ(0);
-}
-
-.userPopout-3XzG_A .wrapper-3t9DeA::after {
-	content: '';
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: -1;
-	pointer-events: none;
-	opacity: .5;
+.userPopout-3XzG_A .profileBanner-33-uE1 {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: var(--user-popout-position) center;
+	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
-	-webkit-mask-image: linear-gradient(#000, transparent);
 }
 
-.userPopout-3XzG_A  .header-2BwW8b,
-.userPopout-3XzG_A  .scroller-2FKFPG,
-.userPopout-3XzG_A  .footer-1fjuF6 {
-	z-index: 1;
+.userPopout-3XzG_A[style*="-user-"] .profileBanner-33-uE1 {
+	height: 120px;
+}
+
+.userPopout-3XzG_A[style*="-user-"] .avatarWrapperNormal-2tu8Ts {
+  	top: 76px;
 }
