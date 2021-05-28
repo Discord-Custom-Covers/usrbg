@@ -33,7 +33,8 @@
   	top: var(--USRBG-avatar-offset, 76px);
 }
 
-.userPopout-3XzG_A:not([style*="-user-"]) .avatar-22FtUu {
+.userPopout-3XzG_A:not([style*="-user-"]) .avatar-22FtUu,
+.userPopout-3XzG_A:not([style*="-user-"]) .avatarHint-1E3LMl{
 	z-index: 1;
 }
 
