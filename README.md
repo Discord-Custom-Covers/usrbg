@@ -1,5 +1,5 @@
 <h1 align="center">USRBG</h1>
-<p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
+<p align="center">A database of custom user requested backgrounds.</p>
 
 ![](https://i.imgur.com/dvrQxNh.png)
 
@@ -10,6 +10,9 @@
 
 All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or **unsplash.com**. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
 
+## Requirements
+If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://betterdiscord.app/developer/DevilBro) running**, as **USRBG requires his [library](https://betterdiscord.app/plugin/BDFDB)** for certain important data attributes. *I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it.*
+
 ## Importing the Database
 
 ```css
@@ -18,31 +21,27 @@ All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or
 
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
 
-## Known themes that have USRBG built-in:
-* [AMOLED-Cord](https://github.com/LuckFire/amoled-cord) by LuckFire
-* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) by A user (unmaintained)
-* [Basic Background](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground) by DevilBro
-* [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
-* [Comfy](https://github.com/NYRI4/Comfy) by Nyria
-* [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) by A user (unmaintained)
-* [DarkMatter](https://github.com/DiscordStyles/DarkMatter) by Tropical and Hammock
-* [deepbluetheme](https://github.com/OnscreenProton/deepbluetheme) by OnscreenProton
-* [Discord.tv](https://github.com/userMacieG/userMacieG.github.io/blob/master/betterdiscord/discord-tv.theme.css) by userMacieG
-* [DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) by CommandCrafterHD
-* [DiscordNight](https://github.com/KillYoy/DiscordNight) by KillYoy
-* [Dream Frame](https://github.com/dream-frame/Dream-Frame) by Korbs and Creatable (unmaintained)
-* [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass) by Gibbu
-* [LilyPichu](https://github.com/NYRI4/LilyPichu) by Nyria
-* [Lode](https://github.com/leeprky/Lode) by Leeprky
-* [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical (unmaintained)
-* [Midnight Mars](https://github.com/LuckFire/midnight-mars) by LuckFire
-* [Nebula](https://github.com/Pavui/Nebula) by Pavui
-* [Quarrel](https://github.com/leeprky/Quarrel) by Leeprky
-* [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
-* [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
-* [Slate](https://gibbu.github.io/BetterDiscord-Themes/Slate) by Tropical and Gibbu
-* [Slook Remastered](https://github.com/leeprky/Slook-Remastered) by Leeprky
-* [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
+Importing it is **not required if you have BDFDB.**
 
-## Requirements
-If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://github.com/mwittrien/BetterDiscordAddons) running**, as **USRBG requires his lib** for certain important data attributes. *I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it.*
+## Known themes that have USRBG built-in:
+* [AMOLED-Cord](https://betterdiscord.app/theme/AMOLED-Cord) by LuckFire
+* [Basic Background](https://betterdiscord.app/theme/BasicBackground) by DevilBro
+* [Black Hole](https://betterdiscord.app/theme/Black%20Hole) by monstrousdev
+* [Comfy](https://betterdiscord.app/theme/Comfy) by Nyria
+* [Couve](https://betterdiscord.app/theme/Couve) by Nyria
+* [DarkMatter](https://betterdiscord.app/theme/Dark%20Matter) by Tropical and Hammock
+* [deepbluetheme](https://betterdiscord.app/theme/deepbluetheme) by OnscreenProton
+* [Discord.tv](https://betterdiscord.app/theme/Discord.tv) by userMacieG
+* [DiscordDarkNeon](https://betterdiscord.app/theme/Dark%20Neon) by CommandCrafterHD
+* [DiscordNight](https://betterdiscord.app/theme/DiscordNight) by KillYoy
+* [Frosted Glass](https://betterdiscord.app/theme/Frosted%20Glass) by Gibbu
+* [LilyPichu](https://betterdiscord.app/theme/LilyPichu) by Nyria
+* [Lode](https://betterdiscord.app/theme/Lode) by Leeprky
+* [Midnight Mars](https://betterdiscord.app/theme/Midnight%20Mars) by LuckFire
+* [Nebula](https://github.com/Loremly/Nebula4) by Pavui
+* [Quarrel](https://betterdiscord.app/theme/Quarrel) by Leeprky
+* [Reborn](https://betterdiscord.app/theme/Reborn) by monstrousdev
+* [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
+* [Slate](https://betterdiscord.app/theme/Slate) by Tropical and Gibbu
+* [Slook Remastered](https://betterdiscord.app/theme/Slook%20Remastered) by Leeprky
+* [Tranquil](https://betterdiscord.app/theme/Tranquil) by monstrousdev
