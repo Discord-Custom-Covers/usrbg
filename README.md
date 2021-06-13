@@ -28,7 +28,7 @@ Importing it is **not required if you have BDFDB.**
 * [Basic Background](https://betterdiscord.app/theme/BasicBackground) by DevilBro
 * [Black Hole](https://betterdiscord.app/theme/Black%20Hole) by monstrousdev
 * [Comfy](https://betterdiscord.app/theme/Comfy) by Nyria
-* [Couve](https://betterdiscord.app/theme/Couve) by Nyria
+* [Couve](https://betterdiscord.app/theme/Couve) by Nyria and A user
 * [DarkMatter](https://betterdiscord.app/theme/Dark%20Matter) by Tropical and Hammock
 * [deepbluetheme](https://betterdiscord.app/theme/deepbluetheme) by OnscreenProton
 * [Discord.tv](https://betterdiscord.app/theme/Discord.tv) by userMacieG
