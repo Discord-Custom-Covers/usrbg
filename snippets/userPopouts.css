@@ -7,38 +7,35 @@
 
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 
-.userPopout-3XzG_A {
+.userPopout-xaxa6l {
 	overflow: hidden;
 	transform: translateZ(0) !important;
 	--USRBG-banner-height: 60px;
 }
 
-.userPopout-3XzG_A[style*="-user-"] {
+.userPopout-xaxa6l[style*="-user-"] {
 	--USRBG-banner-height: 120px;
 	--USRBG-avatar-offset: 76px;
 }
 
-.userPopout-3XzG_A[style*="-user-"] .profileBanner-33-uE1 {
+.userPopout-xaxa6l[style*="-user-"] .popoutBanner-19WKGg {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
-}
-
-.userPopout-3XzG_A[style*="-user-"] .profileBanner-33-uE1 {
 	height: var(--USRBG-banner-height, 120px);
 }
 
-.userPopout-3XzG_A[style*="-user-"] .avatarWrapperNormal-2tu8Ts {
+.userPopout-xaxa6l[style*="-user-"] .avatarWrapperNormal-26WQIb {
   	top: var(--USRBG-avatar-offset, 76px);
 }
 
-.userPopout-3XzG_A:not([style*="-user-"]) .avatar-22FtUu,
-.userPopout-3XzG_A:not([style*="-user-"]) .avatarHint-1E3LMl{
+.userPopout-xaxa6l:not([style*="-user-"]) .avatar-37jOim,
+.userPopout-xaxa6l:not([style*="-user-"]) .avatarHint-2A3RNb {
 	z-index: 1;
 }
 
-.userPopout-3XzG_A:not([style*="-user-"]) .avatar-22FtUu::after {
+.userPopout-xaxa6l:not([style*="-user-"]) .avatar-37jOim::after {
 	content: '';
 	position: fixed;
 	top: 0;
