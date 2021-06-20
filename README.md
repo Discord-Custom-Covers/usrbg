@@ -8,7 +8,7 @@
 
 **All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
 
-All requests **MUST** be hosted on `i.imgur.com`, `cdn.discordapp.com`, `media.discordapp.net` or `unsplash.com`. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
+All requests **MUST** be hosted on `i.imgur.com`, `cdn.discordapp.com`, `media.discordapp.net` or `source.unsplash.com`. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
 
 ## Requirements
 If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://betterdiscord.app/developer/DevilBro) running**, as **USRBG requires his [library](https://betterdiscord.app/plugin/BDFDB)** for certain important data attributes. *I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it.*
