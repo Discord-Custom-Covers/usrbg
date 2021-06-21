@@ -1,7 +1,7 @@
 <h1 align="center">USRBG</h1>
 <p align="center">A database of custom user requested backgrounds.</p>
 
-![](https://i.imgur.com/dvrQxNh.png)
+<p align="center"><img height="400" align="center" src="https://i.imgur.com/HaFW8J6.png"></p>
 
 ## Request your own USRBG
 ### Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-requests](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
