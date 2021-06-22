@@ -34,14 +34,12 @@ Importing it is **not required if you have BDFDB.**
 * [Discord.tv](https://betterdiscord.app/theme/Discord.tv) by userMacieG
 * [DiscordDarkNeon](https://betterdiscord.app/theme/Dark%20Neon) by CommandCrafterHD
 * [DiscordNight](https://betterdiscord.app/theme/DiscordNight) by KillYoy
-* [Frosted Glass](https://betterdiscord.app/theme/Frosted%20Glass) by Gibbu
 * [LilyPichu](https://betterdiscord.app/theme/LilyPichu) by Nyria
 * [Lode](https://betterdiscord.app/theme/Lode) by Leeprky
 * [Midnight Mars](https://betterdiscord.app/theme/Midnight%20Mars) by LuckFire
 * [Nebula](https://github.com/Loremly/Nebula4) by Pavui
 * [Quarrel](https://betterdiscord.app/theme/Quarrel) by Leeprky
 * [Reborn](https://betterdiscord.app/theme/Reborn) by monstrousdev
-* [SimplyDark](https://github.com/DiscordStyles/SimplyDark) by Gibbu
 * [Slate](https://betterdiscord.app/theme/Slate) by Tropical and Gibbu
 * [Slook Remastered](https://betterdiscord.app/theme/Slook%20Remastered) by Leeprky
 * [Tranquil](https://betterdiscord.app/theme/Tranquil) by monstrousdev
