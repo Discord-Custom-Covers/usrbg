@@ -16,8 +16,8 @@ const fs = require("fs").promises;
       : `${jsonFile.split("\\").pop().split("/").pop().split(".")[0]}.css`;
 
   const template = [
-    '.root-SR8cQa [data-user-id="{userid}"]',
-    '.userPopout-3XzG_A [data-user-id="{userid}"]',
+    '.root-3QyAh1 [data-user-id="{userid}"]',
+    '.userPopout-xaxa6l [data-user-id="{userid}"]',
   ];
 
   const json = JSON.parse(await fs.readFile(jsonFile));
