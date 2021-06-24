@@ -48,7 +48,7 @@ const fs = require("fs").promises;
     }
   }
 
-  var finalCss = `.userPopout-xaxa6{--user-popout-position: center;}`;
+  var finalCss = `.userPopout-xaxa6l{--user-popout-position: center;}`;
 
   function createRule(userIds, rules) {
     var selectorList = [];
