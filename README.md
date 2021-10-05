@@ -29,6 +29,9 @@ This will import the USRBG database. Alone, it's simply some variables. Some of 
 
 Importing it is **not required if you have BDFDB.**
 
+### 3. USRBG for Android
+Install ![Aliucord](https://github.com/Aliucord/Aliucord) then download ![this](https://github.com/terabyte25/plugins/blob/builds/UserBG.zip?raw=true) plugin
+
 ## Known themes that have USRBG built-in:
 * [AMOLED-Cord](https://betterdiscord.app/theme/AMOLED-Cord) by LuckFire
 * [Basic Background](https://betterdiscord.app/theme/BasicBackground) by DevilBro
