@@ -4,7 +4,7 @@
 <p align="center"><img height="400" align="center" src="https://i.imgur.com/HaFW8J6.png"></p>
 
 ## Request your own USRBG
-### Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-requests](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
+* Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-request](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
 
 **All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
 
@@ -13,7 +13,13 @@ All requests **MUST** be hosted on `i.imgur.com`, `cdn.discordapp.com`, `media.d
 ## Requirements
 If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://betterdiscord.app/developer/DevilBro) running**, as **USRBG requires his [library](https://betterdiscord.app/plugin/BDFDB)** for certain important data attributes. *I've been nagging zere for while to add attributes to BD natively, but for the time being this is how we have to do it.*
 
-## Importing the Database
+## How to see your banner (Choose one)
+
+### 1. Using the Plugin
+
+Save ![this](https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/UserBackgrounds/UserBackgrounds.plugin.js) and place it in your **plugins** folder
+
+### 2. Importing the Database
 
 ```css
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');

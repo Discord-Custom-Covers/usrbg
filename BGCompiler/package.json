@@ -1,0 +1,14 @@
+{
+  "name": "bgcompiler",
+  "version": "1.0.0",
+  "description": "A script that compiles usrbg.css files to JSON.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "creatable",
+  "license": "Unlicense",
+  "dependencies": {
+    "css": "^3.0.0"
+  }
+}

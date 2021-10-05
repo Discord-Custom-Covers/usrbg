@@ -1,37 +1,29 @@
 /*
-USRBG Profile Modals by Tropix126.
-===========================================
-If your theme heavily modifies the
-positioning for these modals, I
-suggest either messing around with
-the below variables, or writing your
-own custom code using the database.
-
-You are allowed to use this in your theme
-without prior permission from me or any
-other contributors to USRBG.
+ * USRBG Profile Modal Implimentation
+ * 
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
 */
+
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 
-.root-SR8cQa {
-  transform: translateZ(0);
-}
-.header-QKLPzZ .wrapper-3t9DeA::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: .5;
-  pointer-events: none;
-  background: var(--user-background) center/cover no-repeat;
-  -webkit-mask: linear-gradient(black, transparent 80%);
+.header-QKLPzZ {
+	transform: translateZ(0);
 }
 
-.headerInfo-30uryT,
-.tabBarItem-1b8RUP,
-.activity-1ythUs {
-  z-index: 1;
-  position: relative;
+.header-QKLPzZ .wrapper-3t9DeA::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0.25;
+	pointer-events: none;
+	background: var(--user-background) center/cover no-repeat;
+}
+
+.headerInfo-30uryT {
+	position: relative;
+	z-index: 1;
 }
