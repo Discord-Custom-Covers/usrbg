@@ -4,17 +4,19 @@
 ![](https://i.imgur.com/dvrQxNh.png)
 
 ## Request your own USRBG
-Option 1:
 * Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-request](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
-
-Option 2:
-* Make a pull request and wait for it to be merged.
 
 **All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
 
 All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or **unsplash.com**. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
 
-## Importing the Database
+## How to see your banner (Choose one)
+
+### 1. Using the Plugin
+
+Save ![this](https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/UserBackgrounds/UserBackgrounds.plugin.js) and place it in your **plugins** folder
+
+### 2. Importing the Database
 
 ```css
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
