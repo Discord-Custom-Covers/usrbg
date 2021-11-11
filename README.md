@@ -17,7 +17,7 @@ If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://b
 
 ### 1. Using the Plugin
 
-Save ![this](https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/UserBackgrounds/UserBackgrounds.plugin.js) and place it in your **plugins** folder
+Save [this](https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/UserBackgrounds/UserBackgrounds.plugin.js) and place it in your **plugins** folder
 
 ### 2. Importing the Database
 
