@@ -17,7 +17,7 @@ async function compile() {
     const data = await read()
     writeFileSync("./dist/usrbg.json", JSON.stringify(data))
 
-    const createRule = (uids, rules) => `${uids.map(uid => `.root-3QyAh1[data-user-id="${uid}"],.userPopout-xaxa6l[data-user-id="${uid}"]`).join()}{${rules.join("")}}`
+    const createRule = (uids, rules) => `${uids.map(uid => `.root-8LYsGj[data-user-id="${uid}"],.userPopout-2j1gM4[data-user-id="${uid}"]`).join()}{${rules.join("")}}`
 
     const backgrounds = new Map(Object.entries({ none: new Map, left: new Map, right: new Map }))
 
@@ -34,7 +34,7 @@ async function compile() {
             else return createRule(uids, [`--user-background:url("${img}");`, `--user-popout-position:${orientation}!important`])
         }).join("");
     }).join("");
-    return ".userPopout-xaxa6l{--user-popout-position:center}" + css
+    return ".userPopout-2j1gM4{--user-popout-position:center}" + css
 }
 
 
