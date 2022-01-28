@@ -22,6 +22,7 @@ async function compile() {
     const backgrounds = new Map(Object.entries({ none: new Map, left: new Map, right: new Map }))
 
     for (const { orientation, img, uid } of data) {
+        const parsedImage = img.startsWith("http") ? img : `https://i.imgur.com/${img}.gif`;
         const map = backgrounds.get(orientation);
         const background = map.get(img);
         if (!background) map.set(img, [uid]);
