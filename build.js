@@ -17,7 +17,7 @@ async function compile() {
     const data = await read()
     writeFileSync("./dist/usrbg.json", JSON.stringify(data))
 
-    const createRule = (uids, rules) => `${uids.map(uid => `*[data-user-id\"${uid}\"]`).join()}{${rules.join("")}}`
+    const createRule = (uids, rules) => `${uids.map(uid => `*[data-user-id=\"${uid}\"]`).join()}{${rules.join("")}}`
 
     const backgrounds = new Map(Object.entries({ none: new Map, left: new Map, right: new Map }))
 
