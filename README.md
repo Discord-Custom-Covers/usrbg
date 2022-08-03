@@ -50,5 +50,5 @@ Install ![Aliucord](https://github.com/Aliucord/Aliucord) then download ![this](
 * [Quarrel](https://betterdiscord.app/theme/Quarrel) by Leeprky
 * [Reborn](https://betterdiscord.app/theme/Reborn) by monstrousdev
 * [Slate](https://betterdiscord.app/theme/Slate) by Tropical and Gibbu
-* [Slook Remastered](https://betterdiscord.app/theme/Slook%20Remastered) by Leeprky
 * [Tranquil](https://betterdiscord.app/theme/Tranquil) by monstrousdev
+* [Zelk](https://betterdiscord.app/theme/Zelk) by schnensch
