@@ -3,6 +3,8 @@
 
 <p align="center"><img height="400" align="center" src="https://i.imgur.com/HaFW8J6.png"></p>
 
+# This repo is no longer being managed. Please see the forks for a more up-to-date fork of this repo. See [here](https://github.com/Strencher/BetterDiscordStuff/issues/198#issuecomment-1214546642) for more details.
+
 ## Request your own USRBG
 * Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-request](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
 
