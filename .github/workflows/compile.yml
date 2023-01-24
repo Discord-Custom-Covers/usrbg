@@ -3,6 +3,7 @@ on:
     - cron:  '*/5 * * * *'
   repository_dispatch:
     types: [start-build-workflow]
+  workflow_dispatch:
 
 jobs:
   build:
