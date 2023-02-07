@@ -4,5 +4,5 @@ description: 'Build Css'
 #   css:
 #     description: 'Css Data'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'build.js'
