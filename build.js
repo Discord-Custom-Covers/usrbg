@@ -24,7 +24,7 @@ async function compile() {
     for (const { orientation, img, uid } of data) {
         const parsedImage = img.startsWith("http") ? img : `https://i.imgur.com/${img}.gif`;
         const map = backgrounds.get(orientation);
-        if (orientation != "none" && orientation != "left" && orientation != "right") console.log(orientation); // Debug
+        if (map == null) console.log(map); // Debug
         const background = map.get(parsedImage);
         if (!background) map.set(parsedImage, [uid]);
         else background.push(uid);
