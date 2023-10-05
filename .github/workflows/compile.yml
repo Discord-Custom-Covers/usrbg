@@ -23,7 +23,7 @@ jobs:
         id: build
       - name: push Css
         run: |
-          git config user.name Compiler
-          git config user.email github-actions@github.com
+          git config user.name "Compiler"
+          git config user.email "github-actions@github.com"
           git add . || true
           git commit -m "Build" && git push || true
