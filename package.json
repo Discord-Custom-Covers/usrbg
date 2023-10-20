@@ -2,6 +2,6 @@
   "dependencies": {
     "@actions/core": "^1.10.1",
     "fs": "0.0.1-security",
-    "mongodb": "^5.9.0"
+    "mongodb": "^5.9.1"
   }
 }
