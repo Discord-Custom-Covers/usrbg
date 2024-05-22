@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-node@v4
       - name: Install Dependencies
         run: npm i @actions/core mongodb fs-extra
-      - name: Build
+      - name: Build USRBG
         env:
           MONGODB_URI: ${{secrets.MONGODB_URI}}
         uses: ./
@@ -26,4 +26,4 @@ jobs:
           git config user.name "Compiler"
           git config user.email "actions@github.com"
           git add . || true
-          git commit -m "Build" && git push || true
+          git commit -m "Build USRBG" && git push || true
