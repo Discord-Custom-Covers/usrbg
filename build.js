@@ -1,5 +1,5 @@
 const core = require('@actions/core');
-const { writeFileSync } = require('fs');
+const { writeFileSync } = require('fs-extra');
 const { MongoClient } = require('mongodb')
 const client = new MongoClient(process.env.MONGODB_URI)
 
@@ -17,7 +17,7 @@ async function compile() {
     const data = await read()
     writeFileSync("./dist/usrbg.json", JSON.stringify(data))
 
-    const createRule = (uids, rules) => `${uids.map(uid => `.userPopout-2j1gM4[data-user-id=\"${uid}\"],.root-g14mjS[data-user-id=\"${uid}\"]`).join()}{${rules.join("")}}`
+    const createRule = (uids, rules) => `${uids.map(uid => `.userPopout-2j1gM4[data-user-id=\"${uid}\"],.root_a28985[data-user-id=\"${uid}\"]`).join()}{${rules.join("")}}`
 
     const backgrounds = new Map(Object.entries({ none: new Map, left: new Map, right: new Map }))
 
