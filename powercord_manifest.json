@@ -1,9 +1,9 @@
 {
     "name": "USRBG",
-    "description": "A pure CSS database of user requested backgrounds for discord.",
-    "version": "1",
-    "author": "Tropical#8908",
+    "description": "A pure CSS database of user requested banners for Discord.",
+    "author": "tropicaal",
     "theme": "USRBG.theme.css",
     "consent": ["ext_listing"],
-    "license": "MIT"
+    "license": "MIT",
+    "version": "1"
 }
