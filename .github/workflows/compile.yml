@@ -12,15 +12,19 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
+
       - name: Install Dependencies
         run: npm i @actions/core mongodb fs-extra
+
       - name: Build USRBG
         env:
-          MONGODB_URI: ${{secrets.MONGODB_URI}}
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
         uses: ./
         id: build
+
       - name: Push CSS
         run: |
           git config user.name "Compiler"
