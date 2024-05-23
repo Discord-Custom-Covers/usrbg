@@ -1,8 +1,0 @@
-name: 'Build Css'
-description: 'Build Css'
-# outputs:
-#   css:
-#     description: 'Css Data'
-runs:
-  using: 'node16'
-  main: 'build.js'
