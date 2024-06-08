@@ -1,11 +1,17 @@
-<h1 align="center">USRBG</h1>
-<p align="center">A database of custom user requested backgrounds.</p>
+<div align="center"><h1 align="center">USRBG</h1>
+<p>A database of custom user requested backgrounds.</p>
 
-<p align="center"><img height="400" align="center" src="https://i.imgur.com/HaFW8J6.png"></p>
+<p><img height="400" align="center" src="https://i.imgur.com/HaFW8J6.png"></p>
 
-## Request your own USRBG
-* Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), follow the instructions located in [#click-here-to-request](https://discord.com/channels/449175561529589761/886287835018178560).
+<h2>Request your own USRBG</h2>
 
-**All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a decent amount of time before** your background **is added.**
+<p>Join this Discord Server -> <a href="https://discord.gg/TeRQEPb">Black Box</a></p>
 
-Image hosting provided graciously by https://is-hardly.online/
+<p>Follow the instructions located in <a href="https://discord.com/channels/449175561529589761/886287835018178560">#click-here-to-request</a></p>
+
+<hr>
+
+<p><b>All requests are processed manually</b> by a select few moderators. You should expect to <b>wait a decent amount of time before</b> your background <b>is approved.</b></p>
+
+<p>Image hosting provided graciously by <a href="https://is-hardly.online/">is-hardly.online</a></p>
+</div>
