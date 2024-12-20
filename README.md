@@ -7,7 +7,7 @@
 
 <p>Join this Discord Server -> <a href="https://discord.gg/TeRQEPb">Black Box</a></p>
 
-<p>Follow the instructions located in <a href="https://discord.com/channels/449175561529589761/886287835018178560">#click-here-to-request</a></p>
+<p>Follow the instructions located in <a href="https://discord.com/channels/449175561529589761/886287835018178560">#usrbg-guide-and-requests</a></p>
 
 <hr>
 
