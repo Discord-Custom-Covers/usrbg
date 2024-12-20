@@ -14,4 +14,5 @@
 <p><b>All requests are processed manually</b> by a select few moderators. You should expect to <b>wait a decent amount of time before</b> your background <b>is approved.</b></p>
 
 <p>Image hosting provided graciously by <a href="https://is-hardly.online/">is-hardly.online</a></p>
+<p><a href="https://github.com/sponsors/p0rtL6">Sponsor</a> to help with bot hosting costs</p>
 </div>
