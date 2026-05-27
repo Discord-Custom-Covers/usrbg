@@ -5,9 +5,9 @@
 
 <h2>Request your own USRBG</h2>
 
-<p>Join this Discord Server -> <a href="https://discord.gg/TeRQEPb">Black Box</a></p>
+<p>Join this Discord Server -> <a href="https://discord.com/invite/ECg96KZ3Fh">Black Box</a></p>
 
-<p>Follow the instructions located in <a href="https://discord.com/channels/449175561529589761/886287835018178560">#usrbg-guide-and-requests</a></p>
+<p>Follow the instructions located in <a href="https://discord.com/channels/449175561529589761/886287835018178560">#usrbg-guide</a></p>
 
 <hr>
 
