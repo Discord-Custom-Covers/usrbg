@@ -1,3 +1,5 @@
+# THIS PROJECT HAS [MOVED](https://git.is-hardly.online/USRBG/USRBG)
+
 <div align="center"><h1 align="center">USRBG</h1>
 <p>A database of custom user requested backgrounds.</p>
 
